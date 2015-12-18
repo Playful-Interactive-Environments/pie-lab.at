@@ -1,0 +1,45 @@
+{
+  "name": "pielab",
+  "version": "1.0.0",
+  "description": "pielab.fh-hagenberg.at",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "Thomas Heller",
+  "license": "ISC",
+  "devDependencies": {
+    "babelify": "^6.3.0",
+    "browserify": "^11.0.1",
+    "chalk": "^1.1.1",
+    "dateformat": "^1.0.11",
+    "eslint-config-airbnb": "^2.0.0",
+    "gulp": "^3.9.0",
+    "gulp-buffer": "0.0.2",
+    "gulp-cached": "^1.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^1.1.0",
+    "gulp-eslint": "^1.1.1",
+    "gulp-filter": "^3.0.1",
+    "gulp-newer": "^0.5.1",
+    "gulp-plumber": "^1.0.1",
+    "gulp-remember": "^0.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.4.0",
+    "gulp.spritesmith": "^6.0.0",
+    "gutil": "^1.6.4",
+    "merge2": "^0.3.6",
+    "require-dir": "^0.3.0",
+    "run-sequence": "^1.1.4",
+    "stylelint": "^2.3.6",
+    "stylelint-config-wordpress": "^0.2.0",
+    "through2": "^2.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.3.1",
+    "yargs": "^3.23.0"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
