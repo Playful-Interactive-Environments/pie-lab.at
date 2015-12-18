@@ -16,7 +16,7 @@ gulp.task('styles', function() {
     })
     .pipe(nano())
     .pipe(dev(sourcemaps.write()))
-    .pipe(gulp.dest('./_assets/stylesheets'))
+    .pipe(gulp.dest('./css/main.css'))
   ;
 });
 

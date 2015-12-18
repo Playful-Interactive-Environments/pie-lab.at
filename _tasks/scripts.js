@@ -17,7 +17,7 @@ var bundle = function() {
   return b.bundle()
     .on('error', gutil.log.bind(gutil, 'Browserify Error'))
     .pipe(source('main.js'))
-    .pipe(gulp.dest('./_assets/javascripts/'));
+    .pipe(gulp.dest('./js/'));
 }
 
 var lint = function() {
