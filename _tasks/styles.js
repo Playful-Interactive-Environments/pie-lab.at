@@ -16,7 +16,7 @@ gulp.task('styles', function() {
     })
     .pipe(nano())
     .pipe(dev(sourcemaps.write()))
-    .pipe(gulp.dest('./css/main.css'))
+    .pipe(gulp.dest('./css/'))
   ;
 });
 
