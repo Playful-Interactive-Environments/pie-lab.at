@@ -31,3 +31,13 @@ exclude: [
 collections:
   pages:
     output: true
+
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+defaults:
+  - scope:
+      type: projects
+    values:
+      layout: project
