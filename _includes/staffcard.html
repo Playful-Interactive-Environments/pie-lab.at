@@ -1,6 +1,8 @@
 <div class="staff">
   <p class="staff_name">{{include.data.name}}</p>
   <img class="staff_photo" src="/assets/people/{{include.data.photo}}" alt="">
+  {% if include.data.phone %}
   <p class="staff_phone">{{include.data.phone}}</p>
+  {% endif %}
   <p class="staff_email">{{include.data.email}}</p>
 </div>
