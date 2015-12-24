@@ -1,0 +1,72 @@
+- name: Dr. Jürgen Hagler
+  group: 1
+  photo:
+  phone: +43 (0)50804 22124
+  mail: juergen.hagler@fh-hagenberg.at
+
+- name: Dr. Michael Lankes
+  group: 1
+  photo:
+  phone: +43 (0)50804 22133
+  mail: michael.lankes@fh-hagenberg.at
+
+- name: Jeremiah Diephuis, MA
+  group: 2
+  phone: +43 (0)50804 22122
+  mail: jeremiah.diephuis@fh-hagenberg.at 
+
+- name: Wolfgang Hochleitner, MSc
+  group: 2
+  phone: +43 (0)50804 22131
+  mail: wolfgang.hochleitner@fh-hagenberg.at 
+
+- name: Mag. art. Patrick Proier
+  group: 2
+  phone: +43 (0)50804 22130
+  mail: patrick.proier@fh-hagenberg.at 
+
+- name: Christoph Schaufler, MA
+  group: 2
+  phone: +43 (0)50804 22132
+  mail: christoph.schaufler@fh-hagenberg.at 
+
+- name: Dipl. Designer Alexander Wilhelm
+  group: 2
+  phone: +43 (0)50804 22135
+  mail: alexander.wilhelm@fh-hagenberg.at
+
+
+- name: Daniel Rammer
+  group: 3
+  phone:
+  mail: daniel.rammer@students.fh-hagenberg.at 
+
+- name: Moritz Rührlinger
+  group: 3
+  phone:
+  mail: moritz.ruehrlinger@students.fh-hagenberg.at 
+
+- name: Sarah Troschl, BSc
+  group: 3
+  phone:
+  mail: sarah.troschl@students.fh-hagenberg.at
+
+- name: Michael Ablinger
+  group: 4
+  phone:
+  mail: michael.ablinger@students.fh-hagenberg.at 
+
+- name: Nico Harather, MSc
+  group: 4
+  phone:
+  mail: nico.harather@students.fh-hagenberg.at 
+
+- name: Andreas Kasch
+  group: 4
+  phone:
+  mail: andreas.kasch@students.fh-hagenberg.at 
+
+- name: Fabian Pirklbauer
+  group: 4
+  phone:
+  mail: fabian.pirklbauer@students.fh-hagenberg.at

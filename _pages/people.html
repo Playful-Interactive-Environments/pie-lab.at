@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /people/
+---
+
+{% for staffgroup in site.data.staffgroups %}
+  {% assign staffInGroup = site.data.people | where: "group", staffgroup.id %}
+  <h2>{{staffgroup.label}}</h2>
+  {% for staff in staffInGroup %}
+    {% include staffcard.html data=staff %}
+  {% endfor %}
+{% endfor %}
