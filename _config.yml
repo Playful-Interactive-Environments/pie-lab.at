@@ -20,3 +20,9 @@ facebook: playful.interactive.environments
 markdown: kramdown
 kramdown:
   input: GFM
+
+exclude: [
+  "package.json",
+  "node_modules",
+  "gulpfile"
+]
