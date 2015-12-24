@@ -1,0 +1,47 @@
+- name: Austrian Institute of Technology
+  logo: ait.jpg
+  link: http://www.ait.ac.at/
+
+- name: APL
+  logo: apl.jpg
+  link: http://www.apl.at/
+
+- name: BBI
+  logo: bbi.jpg
+  link: http://www.bbi.at/
+
+- name: Cure
+  logo: cure.jpg
+  link: http://cure.at/
+
+- name: Fluidtime
+  logo: fluidtime.jpg
+  link: http://www.fluidtime.com/
+
+- name: Ovos
+  logo: ovos.jpg
+  link: http://www.ovos.at/
+
+- name: Perspectra
+  logo: perspectra.jpg
+  link: http://www.perspectra.at/
+
+- name: Simpliflow
+  logo: simpli_flow.jpg
+  link: http://simpliflow.com/homepage/de/
+
+- name: Sparklingscience
+  logo: sparkling_science.jpg
+  link: http://www.sparklingscience.at/
+
+- name: Universiteit Hasselt
+  logo: Universiteit_hasselt.jpg
+  link: http://www.uhasselt.be/
+
+- name: University of Groningen
+  logo: university_of_groningen.jpg
+  link: http://www.rug.nl/
+
+- name: zimd
+  logo: zimd.jpg
+  link: http://www.zimd.at/
