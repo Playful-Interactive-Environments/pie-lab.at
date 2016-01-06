@@ -1,0 +1,27 @@
+- name: "Home"
+  link: ""
+  weight: 10
+
+- name: "People"
+  link: "people/"
+  weight: 20
+
+- name: "Projects"
+  link: "projects/"
+  weight: 30
+
+- name: "Publications"
+  link: "publications/"
+  weight: 40
+
+- name: "Press"
+  link: "press/"
+  weight: 40
+
+- name: "Partners"
+  link: "partners/"
+  weight: 50
+
+- name: "Contact"
+  link: "contact/"
+  weight: 60

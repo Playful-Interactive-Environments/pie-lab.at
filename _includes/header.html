@@ -1,5 +1,15 @@
 <nav class="nav">
   <div class="logo">
-    <img src="/assets/brand/pielab-logo.png" alt="pielab logo">
+    <a href="{{site.url}}">
+      <img src="/assets/brand/pielab-logo.png" alt="pielab logo">
+    </a>
   </div>
+  <ul class="nav_list" role="nav">
+    {% assign navitems = site.data.navigation | sort: "weight" %}
+    {% for navitem in navitems %}
+      <li class="nav_item">
+        <a class="nav_link" href="{{site.url}}{{navitem.link}}">{{navitem.name}}</a>
+      </li>
+    {% endfor %}
+  </ul>
 </nav>

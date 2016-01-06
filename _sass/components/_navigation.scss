@@ -1,1 +1,25 @@
+.nav {
+  display: flex;
+  font-family: "Titilum Web", sans-serif;
+}
 
+.logo {
+  flex: 0 0 260px;
+}
+
+.nav_list {
+  display: flex;
+  flex: 1;
+}
+
+.nav_item {
+  flex: 1;
+  text-align: center;
+  align-self: center;
+}
+
+.nav_link {
+  text-decoration: none;
+  color: $link-color;
+
+}
