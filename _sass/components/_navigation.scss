@@ -1,10 +1,20 @@
 .nav {
   display: flex;
-  font-family: "Titilum Web", sans-serif;
+  border-bottom: 1px solid $nav-border;
+  background-color: #fff;
 }
 
 .logo {
   flex: 0 0 260px;
+}
+
+.logo_link {
+  display: block;
+}
+
+.logo_img {
+  height: 40px;
+  margin: 10px 30px;
 }
 
 .nav_list {
@@ -21,5 +31,5 @@
 .nav_link {
   text-decoration: none;
   color: $link-color;
-
+  font-size: 0.8em;
 }
