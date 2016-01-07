@@ -4,6 +4,9 @@
       <img class="logo_img" src="/assets/brand/pielab-logo.png" alt="pielab logo">
     </a>
   </div>
+  <div class="menu_toggle">
+    <a class="menu_toggle_button">Menu</a>
+  </div>
   <ul class="nav_list" role="nav">
     {% assign navitems = site.data.navigation | sort: "weight" %}
     {% for navitem in navitems %}
