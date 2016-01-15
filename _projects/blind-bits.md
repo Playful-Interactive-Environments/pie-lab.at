@@ -3,6 +3,7 @@ title: BlindBits
 date: 2014-11-01
 category: research
 ---
+
 # BlindBits
 
 ## Ein barrierefreier Level-Editor und Player von Orientierungstrainingsspielen für blinde SchülerInnen
