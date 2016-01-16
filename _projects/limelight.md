@@ -1,6 +1,6 @@
 ---
 title: Limelight
-date: 2016-11-12
+date: 2015-11-12
 category: student
 titleimage: "limelight-participants.jpg"
 ---
