@@ -1,0 +1,24 @@
+---
+layout: default
+permalink: /projects/
+---
+
+<div class="projects-list">
+{% assign sortedProjects = site.projects | where: "subpage", "" | sort: "date" | reverse %}
+{% for project in sortedProjects %}
+  <div class="projects-item">
+    <a href="{{project.url}}" title="{{project.title}}">
+      {% if project.titleimage %}
+        {% assign remote = project.titleimage | slice: 0, 4 %}
+        {% if remote == "http" %}
+          <img src="{{project.titleimage}}" alt="{{project.title}} titleimage" />
+        {% else %}
+          <img src="{{project.url}}{{project.titleimage}}" alt="" />
+        {% endif %}
+      {% else %}
+        <img src="//placehold.it/300x500" alt="{{project.title}} titleimage" />
+      {%endif%}
+    </a>
+  </div>
+{% endfor %}
+</div>
