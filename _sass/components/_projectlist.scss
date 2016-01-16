@@ -1,21 +1,25 @@
 .projects-list {
-  justify-content: flex-start;
+  justify-content: space-around;
+
+  @media(min-width: $screen-sm) {
+    justify-content: flex-start;
+  }
 }
 
 .projects-item {
   flex-grow: 0;
   flex-shrink: 0;
-  flex-basis: 100%;
+  flex-basis: 90%;
   transition: flex-basis 180ms ease-out;
   position: relative;
+  max-height: 250px;
+  margin-bottom: 2em;
 
   @media(min-width: $screen-sm) {
-    flex-basis: 46%;
+    flex-basis: 29%;
     margin: 2%;
-  }
-
-  @media(min-width: $screen-md) {
-    flex-basis: 29%
+    max-height: 100%;
+    margin-bottom: 0;
   }
 
   @media(min-width: $screen-lg) {
@@ -24,13 +28,17 @@
 
   & > a {
     display: block;
-    padding-bottom: 166%;
     background-size: cover;
     background-position: center;
     margin: auto;
     border: 1px solid $primary-color;
     border-radius: 5px;
     line-height: 0;
+    padding-bottom: 50%;
+
+    @media(min-width: $screen-sm) {
+      padding-bottom: 166%;
+    }
   }
 }
 
