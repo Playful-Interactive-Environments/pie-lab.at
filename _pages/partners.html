@@ -3,13 +3,11 @@ layout: default
 permalink: /partners/
 ---
 
-<h2>Partners</h2>
-<div class="partners">
+<h1>Partners</h1>
+<div class="partners flex-wrapper">
   {% for partner in site.data.partners %}
-  <div class="partner">
-    <a href="{{partner.link}}">
-      <img src="/assets/partners/{{partner.logo}}" alt="{{partner.name}} logo">
-    </a>
-  </div>
+  <a href="{{partner.link}}" class="partner">
+    <img src="{{'/assets/partners/' | append: partner.logo | prepend: site.baseurl }}" alt="{{partner.name}} logo">
+  </a>
   {% endfor %}
 </div>

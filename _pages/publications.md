@@ -3,7 +3,7 @@ layout: default
 permalink: /publications/
 ---
 
-## Reviewed and Invited Publications
+# Reviewed and Invited Publications
 
 M. Lankes, T. Mirlacher, S. Wagner, W. Hochleitner – Whom are you looking for? The Effects of Different Player Representation Relations on the Presence in Gaze-Based Games – CHI PLAY ’14, Toronto, Kanada, 2014, pp. 171-179 [[link](http://dl.acm.org/citation.cfm?id=2658698)]
 
@@ -33,7 +33,9 @@ M. Lankes, S. Riegler, A. Weiss, T. Mirlacher, M. Pirker, T. Scherndl, M. Tschel
 
 C. Obermair, W. Reitberger, A. Meschtscherjakov, M. Lankes, M. Tscheligi – perFrames: Persuasive Picture Frames for Proper Posture – Proc. of the 3rd conference on Persuasive Technology, Oulu, Finnland, 2008, pp. 128-139 [[link](http://dl.acm.org/citation.cfm?id=1424194.1424210&coll=DL&dl=GUIDE&CFID=505116615&CFTOKEN=60951198)]
 
-## Journals / Book Chapters
+  
+
+# Journals / Book Chapters
 
 J. Hagler – Expanded Animation. Exploring the Vastness of Art, Theory and Play – Ars Electronica 2014 Festival für Kunst, Technologie und Gesellschaft, Linz, Österreich, 2014, pp. 150-151 [[link](https://docs.google.com/gview?url=http://archive.aec.at/media/archive/2014/210855/File_05908_AEC_FE_2014.pdf&chrome=true)]
 

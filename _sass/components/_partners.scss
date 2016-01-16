@@ -1,0 +1,29 @@
+.partners {
+  justify-content: space-around;
+
+  @media(min-width: $screen-sm) {
+    justify-content: flex-start;
+  }
+}
+
+.partner {
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 80%;
+  margin-right: 2em;
+  margin-bottom: 2em;
+
+  @media(min-width: $screen-sm) {
+    flex-grow: 0;
+    flex-basis: 150px;
+  }
+
+  a {
+    display: block;
+    background-color: #fff;
+  }
+
+  img {
+    border-radius: 5px;
+  }
+}
