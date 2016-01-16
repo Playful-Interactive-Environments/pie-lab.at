@@ -6,25 +6,23 @@ permalink: /projects/
 <div class="projects-list flex-wrapper">
 {% comment %}
 gh-pages compilation doesn't seem to support where
-{% assign sortedProjects = site.projects |where: "subpage", "" | sort: "date" | reverse %}
-{% endcomment %}
 {% assign sortedProjects = site.projects | sort: "date" | reverse %}
+{% endcomment %}
+{% assign sortedProjects = site.projects | where: "subpage", null | sort: "date" | reverse %}
 {% for project in sortedProjects %}
-  {% if project.subpage != true %}
-    <div class="projects-item">
-      {% if project.titleimage %}
-      {% assign remote = project.titleimage | slice: 0, 4 %}
-        {% if remote == "http" %}
-          {% assign imageurl = project.titleimage %}
-        {% else %}
-          {% assign imageurl = project.titleimage |prepend: project.url | prepend: site.baseurl %}
-        {% endif %}
+  <div class="projects-item">
+    {% if project.titleimage %}
+    {% assign remote = project.titleimage | slice: 0, 4 %}
+      {% if remote == "http" %}
+        {% assign imageurl = project.titleimage %}
       {% else %}
-        {% assign imageurl = "//placehold.it/300x500?text=" |append: project.title |replace: "'", '' | uri_escape %}
-      {%endif%}
-      <a href="{{project.url |prepend: site.baseurl}}" title="{{project.title}}" style="background-image: url({{imageurl}})">
-      </a>
-    </div>
-  {% endif %}
+        {% assign imageurl = project.titleimage |prepend: project.url | prepend: site.baseurl %}
+      {% endif %}
+    {% else %}
+      {% assign imageurl = "//placehold.it/300x500?text=" |append: project.title |replace: "'", '' | uri_escape %}
+    {%endif%}
+    <a href="{{project.url |prepend: site.baseurl}}" title="{{project.title}}" style="background-image: url({{imageurl}})">
+    </a>
+  </div>
 {% endfor %}
 </div>
