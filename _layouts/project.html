@@ -2,5 +2,10 @@
 layout: default
 ---
 <article class="project">
-  {{content}}
+  <div class="project-gallery">
+    {% include gallery.html data=page.gallery %}
+  </div>
+  <div class="project-details">
+    {{content}}
+  </div>
 </article>
