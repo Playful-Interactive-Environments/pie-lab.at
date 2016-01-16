@@ -1,7 +1,7 @@
 <nav class="nav">
   <div class="logo">
     <a class="logo_link" href="{{site.url}}">
-      <img class="logo_img" src="/assets/brand/pielab-logo.png" alt="pielab logo">
+      <img class="logo_img" src="{{ '/assets/brand/pielab-logo.png' | prepend: site.baseurl }}" alt="pielab logo">
     </a>
   </div>
   <div class="menu_toggle">
@@ -11,7 +11,7 @@
     {% assign navitems = site.data.navigation | sort: "weight" %}
     {% for navitem in navitems %}
       <li class="nav_item">
-        <a class="nav_link" href="{{site.url}}{{navitem.link}}">{{navitem.name}}</a>
+        <a class="nav_link" href="{{navitem.link | prepend: site.baseurl}}">{{navitem.name}}</a>
       </li>
     {% endfor %}
   </ul>
