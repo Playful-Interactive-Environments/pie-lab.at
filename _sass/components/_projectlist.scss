@@ -36,7 +36,9 @@
 
   & > a {
     display: block;
-    overflow: hidden;
+    padding-bottom: 166%;
+    background-size: cover;
+    background-position: center;
     margin: auto;
     border: 1px solid $primary-color;
     border-radius: 5px;
