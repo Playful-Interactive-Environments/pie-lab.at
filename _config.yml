@@ -18,6 +18,7 @@ facebook: playful.interactive.environments
 markdown: kramdown
 kramdown:
   input: GFM
+excerpt_separator: "" #disable excerpts
 
 exclude: [
   "package.json",
