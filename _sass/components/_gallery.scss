@@ -13,13 +13,21 @@
 
 .gallery-preview-item {
   flex-basis: 150px;
-  padding-bottom: 150px;
   flex-grow: 0;
-  flex-shrink:0;
+  flex-shrink:1;
   margin-left: 1em;
   margin-right: 1em;
   border-radius: 5px;
   cursor: pointer;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+
+  &:after {
+    content: '';
+    padding-bottom: 100%;
+    display: block;
+  }
 
   &:first-child {
     margin-left: 0;
