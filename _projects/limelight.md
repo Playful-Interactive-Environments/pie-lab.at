@@ -4,12 +4,12 @@ date: 2015-11-12
 category: student
 titleimage: "limelight-participants.jpg"
 gallery:
-  - file: limelight-scalability.jpg
-    preview: limelight-scalability-150.jpg
-  - file: limelight-gamesidelines.jpg
-    preview: limelight-gamesidelines-150.jpg
-  - file: limelight-participants.jpg
-    preview: limelight-participants-150.jpg
+  - file: "limelight-scalability.jpg"
+    preview: "limelight-scalability-150.jpg"
+  - file: "limelight-gamesidelines.jpg"
+    preview: "limelight-gamesidelines-150.jpg"
+  - file: "limelight-participants.jpg"
+    preview: "limelight-participants-150.jpg"
 ---
 
 # Limelight

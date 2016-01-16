@@ -1,0 +1,31 @@
+.gallery-main {
+  overflow: hidden;
+  img {
+    width: 100%;
+  }
+}
+
+.gallery-preview {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2em;
+}
+
+.gallery-preview-item {
+  flex-basis: 150px;
+  padding-bottom: 150px;
+  flex-grow: 0;
+  flex-shrink:0;
+  margin-left: 1em;
+  margin-right: 1em;
+  border-radius: 5px;
+  cursor: pointer;
+
+  &:first-child {
+    margin-left: 0;
+  }
+
+  &:last-child {
+    margin-right: 0;
+  }
+}

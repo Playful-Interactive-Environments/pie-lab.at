@@ -1,0 +1,43 @@
+.project {
+  margin-top: 5em;
+  flex-direction: column-reverse;
+
+  @media(min-width: $screen-sm) {
+    justify-content: space-around;
+  }
+
+  @media(min-width: $screen-md) {
+    flex-wrap: nowrap;
+    flex-direction: row;
+  }
+}
+
+.project-gallery {
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 100%;
+  order: 1;
+
+  @media(min-width: $screen-sm) {
+    flex-basis: 55%;
+  }
+
+  @media(min-width: $screen-md) {
+
+  }
+}
+
+.project-details {
+  flex: 1;
+  flex-basis: 100%;
+  order: 2;
+  margin: 0 2em;
+
+  @media(min-width: $screen-sm) {
+    flex-basis: 400px;
+  }
+
+  @media(min-width: $screen-md) {
+
+  }
+}

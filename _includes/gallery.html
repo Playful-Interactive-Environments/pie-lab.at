@@ -1,8 +1,12 @@
 <div class="gallery-main">
-
+  {% assign firstimage = include.data | first %}
+  {% assign mainurl =  firstimage.file |prepend: include.project | prepend: site.baseurl %}
+  <img src="{{mainurl}}" alt="" />
 </div>
 <div class="gallery-preview">
-  <div class="gallery-preview-item">
-    
-  </div>
+  {% for item in include.data %}
+  {% assign previewurl = item.preview |prepend: include.project | prepend: site.baseurl %}
+  {% assign imageurl = item.file |prepend: include.project | prepend: site.baseurl %}
+  <div class="gallery-preview-item" style="background-image: url('{{previewurl}}')" data-target="{{imageurl}}"></div>
+  {% endfor %}
 </div>

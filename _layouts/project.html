@@ -1,10 +1,18 @@
 ---
 layout: default
 ---
-<article class="project">
-  <div class="project-gallery">
-    {% include gallery.html data=page.gallery %}
-  </div>
+{% capture gallery %}
+  {% if page.gallery %}
+    <div class="project-gallery">
+      {% include gallery.html data=page.gallery project=page.url %}
+    </div>
+  {% else %}
+    {% assign nogalleryClass = "project-nogallery" %}
+  {% endif %}
+{% endcapture %}
+
+<article class="flex-wrapper project {{nogalleryClass}}">
+  {{gallery}}
   <div class="project-details">
     {{content}}
   </div>

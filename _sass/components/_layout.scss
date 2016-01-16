@@ -1,7 +1,9 @@
 .flex-wrapper {
   display: flex;
   flex-wrap: wrap;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
+  transition: max-width 180ms ease-out;
 
   @media(min-width: $screen-md) {
     max-width: $screen-md;
