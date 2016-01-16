@@ -4,8 +4,8 @@ permalink: /projects/
 ---
 
 <div class="projects-list">
-  {{site.projects}}
 {% assign sortedProjects = site.projects | where: "subpage", "" | sort: "date" | reverse %}
+{{sortedProjects}}
 {% for project in sortedProjects %}
   <div class="projects-item">
     <a href="{{project.url}}" title="{{project.title}}">
