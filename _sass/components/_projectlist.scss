@@ -1,0 +1,30 @@
+.projects-list {
+  display: flex;
+  transition: max-width 180ms ease-out;
+  flex-wrap: wrap;
+  margin: 0 auto;
+
+  @media(min-width: $screen-md) {
+    max-width: $screen-md;
+  }
+
+  @media(min-width: $screen-lg) {
+    max-width: $screen-lg;
+  }
+}
+
+.projects-item {
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 320px;
+  transition: flex-basis 180ms ease-out;
+  position: relative;
+
+  @media(min-width: $screen-md) {
+    flex-basis: 25%;
+  }
+}
+
+.projects-item img {
+  max-width: 100%;
+}

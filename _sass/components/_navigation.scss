@@ -38,14 +38,14 @@
 /* menu toggle button */
 
 .menu_toggle {
-  justify-content: center;
-  text-align: right;
+  justify-content: flex-end;
   flex: 1;
+  display: flex;
 }
 
 .menu_toggle_button {
+  align-self: center;
   color: $link-color;
-  display: inline-block;
   padding: 1em 2em;
   font-size: 0.8em;
   font-weight: 600;
@@ -67,15 +67,15 @@
   flex-wrap: wrap;
   flex-direction: column;
   transform-origin: top center;
-  transform: scaleY(0);
-  height: 0;
+  //transform: scaleY(0);
+  max-height: 0;
   overflow: hidden;
-  transition: transform 120ms, height 120ms;
+  transition: transform 120ms, max-height 120ms;
 }
 
 .nav_list.nav_open {
-  transform: scaleY(1);
-  height: auto;
+  //transform: scaleY(1);
+  max-height: 100%;
 }
 
 .nav_item {
@@ -97,5 +97,7 @@
 
   .nav_list {
     flex-direction: row;
+    height: auto;
+    max-height: 100%;
   }
 }
