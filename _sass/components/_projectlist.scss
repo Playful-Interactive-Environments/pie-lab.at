@@ -1,17 +1,6 @@
 .projects-list {
-  display: flex;
   transition: max-width 180ms ease-out;
-  flex-wrap: wrap;
-  margin: 0 auto;
-  justify-content: space-around;
-
-  @media(min-width: $screen-md) {
-    max-width: $screen-md;
-  }
-
-  @media(min-width: $screen-lg) {
-    max-width: $screen-lg;
-  }
+  justify-content: flex-start;
 }
 
 .projects-item {

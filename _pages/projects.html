@@ -3,7 +3,7 @@ layout: default
 permalink: /projects/
 ---
 
-<div class="projects-list">
+<div class="projects-list flex-wrapper">
 {% comment %}
 gh-pages compilation doesn't seem to support where
 {% assign sortedProjects = site.projects |where: "subpage", "" | sort: "date" | reverse %}

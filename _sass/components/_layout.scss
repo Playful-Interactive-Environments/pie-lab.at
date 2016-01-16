@@ -1,1 +1,13 @@
+.flex-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
 
+  @media(min-width: $screen-md) {
+    max-width: $screen-md;
+  }
+
+  @media(min-width: $screen-lg) {
+    max-width: $screen-lg;
+  }
+}
