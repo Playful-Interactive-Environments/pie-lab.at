@@ -1,6 +1,4 @@
-.flex-wrapper {
-  display: flex;
-  flex-wrap: wrap;
+.wrapper {
   margin-left: auto;
   margin-right: auto;
   transition: max-width 180ms ease-out;
@@ -12,4 +10,10 @@
   @media(min-width: $screen-lg) {
     max-width: $screen-lg;
   }
+}
+
+.flex-wrapper {
+  @extend .wrapper;
+  display: flex;
+  flex-wrap: wrap;
 }

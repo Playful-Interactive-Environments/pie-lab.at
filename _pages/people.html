@@ -2,11 +2,14 @@
 layout: default
 permalink: /people/
 ---
-
-{% for staffgroup in site.data.staffgroups %}
-  {% assign staffInGroup = site.data.people | where: "group", staffgroup.id %}
-  <h2>{{staffgroup.label}}</h2>
-  {% for staff in staffInGroup %}
-    {% include staffcard.html data=staff %}
+<div class="wrapper people">
+  {% for staffgroup in site.data.staffgroups %}
+    {% assign staffInGroup = site.data.people | where: "group", staffgroup.id %}
+    <h2 class="people-grouplabel">{{staffgroup.label}}</h2>
+    <div class="people-group">
+      {% for staff in staffInGroup %}
+      {% include staffcard.html data=staff %}
+      {% endfor %}
+    </div>
   {% endfor %}
-{% endfor %}
+</div>

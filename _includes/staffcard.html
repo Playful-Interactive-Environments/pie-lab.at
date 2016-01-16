@@ -1,8 +1,12 @@
 <div class="staff">
-  <p class="staff_name">{{include.data.name}}</p>
-  <img class="staff_photo" src="{{'/assets/people/' | append: include.data.photo | prepend: site.baseurl }}" alt="">
-  {% if include.data.phone %}
-  <p class="staff_phone">{{include.data.phone}}</p>
-  {% endif %}
-  <p class="staff_email">{{include.data.email}}</p>
+  <div class="staff-photo">
+    <img src="{{'/assets/people/' | append: include.data.photo | prepend: site.baseurl }}" alt="">
+  </div>
+  <div class="staff-details">
+    <p class="staff-name">{{include.data.name}}</p>
+    {% if include.data.phone %}
+    <p class="staff-phone">{{include.data.phone}}</p>
+    {% endif %}
+    <p class="staff-email">{{include.data.email}}</p>
+  </div>
 </div>
