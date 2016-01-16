@@ -3,6 +3,7 @@
   transition: max-width 180ms ease-out;
   flex-wrap: wrap;
   margin: 0 auto;
+  justify-content: space-around;
 
   @media(min-width: $screen-md) {
     max-width: $screen-md;
@@ -14,14 +15,32 @@
 }
 
 .projects-item {
-  flex-grow: 1;
+  flex-grow: 0;
   flex-shrink: 0;
-  flex-basis: 320px;
+  flex-basis: 100%;
   transition: flex-basis 180ms ease-out;
   position: relative;
 
+  @media(min-width: $screen-sm) {
+    flex-basis: 46%;
+    margin: 2%;
+  }
+
   @media(min-width: $screen-md) {
-    flex-basis: 25%;
+    flex-basis: 29%
+  }
+
+  @media(min-width: $screen-lg) {
+    flex-basis: 21%;
+  }
+
+  & > a {
+    display: block;
+    overflow: hidden;
+    margin: auto;
+    border: 1px solid $primary-color;
+    border-radius: 5px;
+    line-height: 0;
   }
 }
 
