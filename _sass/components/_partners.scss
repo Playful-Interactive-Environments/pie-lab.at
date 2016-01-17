@@ -16,6 +16,7 @@
   @media(min-width: $screen-sm) {
     flex-grow: 0;
     flex-basis: 150px;
+    min-width: 0;
   }
 
   a {
