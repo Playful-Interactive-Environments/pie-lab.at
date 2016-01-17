@@ -8,7 +8,7 @@
  * https://raw.githubusercontent.com/gilbitron/Ideal-Image-Slider/master/LICENSE
  */
 
-var IdealImageSlider = (function() {
+module.exports = (function() {
 	"use strict";
 
 	/*
