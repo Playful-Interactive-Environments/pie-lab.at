@@ -26,3 +26,11 @@ slides:
     {% endfor %}
   </div>
 </div>
+
+<div class="page-wrapper">
+  <h2>News &amp; Current Projects</h2>
+  {% capture newsandprojects %}
+  {% include_relative _newsandprojects.md %}
+  {% endcapture %}
+  {{newsandprojects | markdownify }}
+</div>
