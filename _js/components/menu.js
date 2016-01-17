@@ -6,7 +6,7 @@ module.exports = (function menu() {
   };
 
   const initMenu = () => {
-    let togglebutton = document.getElementById('menu_toggle_button');
+    const togglebutton = document.getElementById('menu_toggle_button');
     navList = document.getElementById('nav_list');
     togglebutton.addEventListener('click', handleMenuClick);
   };
