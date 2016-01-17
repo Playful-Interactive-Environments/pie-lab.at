@@ -13,7 +13,7 @@
   z-index: 1;
   display: flex;
   flex-direction: column;
-  background-color: transparentize(black, 0.8);
+  background-color: transparentize(black, 0.5);
   padding: 2em 0;
 
   @media(min-width: $screen-sm) {
@@ -25,12 +25,23 @@
 
 .hero-header {
   text-align: center;
-  line-height: 1em;
+  line-height: 1.1em;
+
+  @media(min-width: $screen-sm) {
+    &:after{
+      content: '';
+      display: inline-block;
+      height: 4px;
+      background-color: $button-color;
+      width: 25%;
+      border-radius: 2px;
+    }
+  }
 }
 
 .hero-content p {
   text-align: center;
-  line-height: 1em;
+  line-height: 1.1em;
   color: $header-color;
 }
 
