@@ -28,6 +28,7 @@
   line-height: 1.1em;
 
   @media(min-width: $screen-sm) {
+    font-size: 2.5em;
     &:after{
       content: '';
       display: inline-block;
