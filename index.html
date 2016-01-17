@@ -1,3 +1,15 @@
 ---
 layout: default
+
+slides:
+  - file: "projects/gamechanger/gamechanger-top.png"
+  - file: "projects/gamechanger/gamechanger-top.png"
+  - file: "projects/gamechanger/gamechanger-top.png"
+  - file: "projects/gamechanger/gamechanger-top.png"
 ---
+
+<div class="heroslider" id="heroslider">
+  {% for slide in page.slides %}
+    <img src="{{slide.file}}" />
+  {% endfor %}
+</div>
