@@ -5,9 +5,9 @@
     </a>
   </div>
   <div class="menu_toggle">
-    <a class="menu_toggle_button">Menu</a>
+    <a id="menu_toggle_button" class="menu_toggle_button">Menu</a>
   </div>
-  <ul class="nav_list" role="nav">
+  <ul id="nav_list" class="nav_list" role="nav">
     {% assign navitems = site.data.navigation | sort: "weight" %}
     {% for navitem in navitems %}
       <li class="nav_item">
