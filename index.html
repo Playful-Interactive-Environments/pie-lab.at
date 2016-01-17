@@ -8,8 +8,21 @@ slides:
   - file: "projects/gamechanger/gamechanger-top.png"
 ---
 
-<div class="heroslider" id="heroslider">
-  {% for slide in page.slides %}
-    <img src="{{slide.file}}" />
-  {% endfor %}
+<div class="hero-section">
+  <div class="hero-content">
+    <h1 class="hero-header">Playful Interactive<br />Environments</h1>
+    <p>
+      A research group of the <br />University of Applied Sciences Upper Austria
+    </p>
+    <p>
+      <a class="hero-button" href="#">Learn more</a>
+    </p>
+    <a id="hero-slider-prev"></a>
+    <a id="hero-slider-next"></a>
+  </div>
+  <div class="hero-slider" id="hero-slider">
+    {% for slide in page.slides %}
+      <img src="{{slide.file}}" />
+    {% endfor %}
+  </div>
 </div>
