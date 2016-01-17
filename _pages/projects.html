@@ -1,13 +1,9 @@
 ---
-layout: default
+layout: page
 permalink: /projects/
 ---
 
 <div class="projects-list flex-wrapper">
-{% comment %}
-gh-pages compilation doesn't seem to support where
-{% assign sortedProjects = site.projects | sort: "date" | reverse %}
-{% endcomment %}
 {% assign sortedProjects = site.projects | where: "subpage", null | sort: "date" | reverse %}
 {% for project in sortedProjects %}
   <div class="projects-item">

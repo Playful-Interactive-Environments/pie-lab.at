@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: /publications/
 ---
 
@@ -33,7 +33,7 @@ M. Lankes, S. Riegler, A. Weiss, T. Mirlacher, M. Pirker, T. Scherndl, M. Tschel
 
 C. Obermair, W. Reitberger, A. Meschtscherjakov, M. Lankes, M. Tscheligi – perFrames: Persuasive Picture Frames for Proper Posture – Proc. of the 3rd conference on Persuasive Technology, Oulu, Finnland, 2008, pp. 128-139 [[link](http://dl.acm.org/citation.cfm?id=1424194.1424210&coll=DL&dl=GUIDE&CFID=505116615&CFTOKEN=60951198)]
 
-  
+
 
 # Journals / Book Chapters
 
