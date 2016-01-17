@@ -21,7 +21,7 @@ var bundle = function() {
 }
 
 var lint = function() {
-  return gulp.src('_js/**/*.js')
+  return gulp.src(['_js/**/*.js', '!_js/vendor/**/*.js'])
     .pipe(eslint())
     .pipe(eslint.format())
     .pipe(prod(eslint.failAfterError()));
