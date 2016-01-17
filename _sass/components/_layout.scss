@@ -3,8 +3,12 @@
   margin-left: auto;
   margin-right: auto;
   transition: max-width 180ms ease-out;
+  padding-left: 1em;
+  padding-right: 1em;
   @media(min-width: $screen-md) {
     max-width: $screen-md;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   @media(min-width: $screen-lg) {
