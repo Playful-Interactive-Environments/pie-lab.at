@@ -5,6 +5,8 @@
   transition: max-width 180ms ease-out;
   padding-left: 1em;
   padding-right: 1em;
+  padding-bottom: 5em;
+
   @media(min-width: $screen-md) {
     max-width: $screen-md;
     padding-left: 0;
