@@ -1,37 +1,16 @@
-.hero-slider {
-  min-height: 100%;
-
-  max-height: 70vh;
-  width: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 0;
+.gallery {
+  min-height: 70vh;
+  background-color: #0f0f0f;
 }
 
-.hero-slider-nav {
-  background-image: url('../assets/navarrow.svg');
-  background-position: center right;
-  background-repeat: no-repeat;
-  background-size: 70%;
-  width: 25px;
-  height: 100%;
-  display: block;
-  position: absolute;
-  top: 0;
-  cursor: pointer;
-  opacity: 0.5;
-
-  @media(min-width: $screen-sm) {
-    width: 45px;
-  }
-}
-
-.hero-slider-nav-prev {
-  left: 0;
-}
-
-.hero-slider-nav-next {
-  transform: scale(-1);
-  right: 0;
+.gallery-cell {
+  width: 100vw;
+  min-height: 70vh;
+  background-size: cover;
+  background-position: center;
+  padding: 2em 3em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }

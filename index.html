@@ -1,28 +1,21 @@
 ---
 layout: default
-
-slides:
-  - file: "projects/gamechanger/gamechanger-top.png"
-  - file: "projects/gamechanger/gamechanger-top.png"
-  - file: "projects/gamechanger/gamechanger-top.png"
-  - file: "projects/gamechanger/gamechanger-top.png"
 ---
 
 <div class="hero-section">
-  <div class="hero-content">
-    <h1 class="hero-header">Playful Interactive<br />Environments</h1>
-    <p>
-      A research group of the <br />University of Applied Sciences Upper Austria
-    </p>
-    <p>
-      <a class="hero-button" href="#">Learn more</a>
-    </p>
-    <a class="hero-slider-nav hero-slider-nav-prev" id="hero-slider-prev"></a>
-    <a class="hero-slider-nav hero-slider-nav-next" id="hero-slider-next"></a>
-  </div>
-  <div class="hero-slider" id="hero-slider">
-    {% for slide in page.slides %}
-      <img src="{{slide.file}}" />
+  <div class="gallery js-flickity" id="hero-slider" data-flickity-options='{"contain": false, "percentPosition": false, "setGallerySize" : true }'>
+    {% for slide in site.data.heroslider %}
+      <div class="gallery-cell hero-content" style="background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('{{slide.file}}')">
+        {% if slide.title %}
+        <h1>{{slide.title}}</h1>
+        {% endif %}
+        {% if slide.subtitle %}
+        <p>{{slide.subtitle}}</p>
+        {% endif %}
+        {% if slide.more %}
+        <p><a class="hero-button" href="{{slide.more.link |prepend: site.baseurl}}">{% if slide.more.label %}{{slide.more.label}}{% else %}Learn more{% endif %}</a></p>
+        {% endif %}
+      </div>
     {% endfor %}
   </div>
 </div>
@@ -34,3 +27,5 @@ slides:
   {% endcapture %}
   {{newsandprojects | markdownify }}
 </div>
+
+<script src="https://npmcdn.com/flickity@1.1/dist/flickity.pkgd.min.js"></script>
