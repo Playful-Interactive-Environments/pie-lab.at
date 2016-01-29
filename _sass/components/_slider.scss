@@ -8,11 +8,23 @@
   min-height: 70vh;
   background-size: cover;
   background-position: center;
-  padding: 2em 3em;
+  padding: 2em 3em 4em;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+
+.flickity-page-dots {
+  bottom: 20px;
+
+  .dot {
+    background-color: $secondary-color;
+    margin: 0 6px;
+    &.is-selected {
+      opacity: 0.5;
+    }
+  }
 }
 
 .flickity-prev-next-button {
