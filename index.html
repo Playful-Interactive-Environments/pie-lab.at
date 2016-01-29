@@ -21,11 +21,10 @@ layout: default
 </div>
 
 <div class="page-wrapper">
-  <h2>News &amp; Current Projects</h2>
-  {% capture newsandprojects %}
-  {% include_relative _newsandprojects.md %}
+  {% capture aboutpielab %}
+  {% include_relative _aboutpielab.md %}
   {% endcapture %}
-  {{newsandprojects | markdownify }}
+  {{aboutpielab | markdownify }}
 </div>
 
 <script src="https://npmcdn.com/flickity@1.1/dist/flickity.pkgd.min.js"></script>
