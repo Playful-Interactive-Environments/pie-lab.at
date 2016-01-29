@@ -14,3 +14,36 @@
   align-items: center;
   flex-direction: column;
 }
+
+.flickity-prev-next-button {
+  background: transparent;
+  border: 0;
+  width: 25px;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0;
+  cursor: pointer;
+  opacity: 0.5;
+
+  @media(min-width: $screen-sm) {
+    width: 45px;
+  }
+
+  svg {
+    fill: #fff;
+    width: 45px;
+    height: 45px;
+  }
+}
+
+.flickity-prev-next-button.previous {
+  left: 0;
+}
+
+.flickity-prev-next-button.next {
+  right: 0;
+  svg {
+    margin-left: -10px;
+  }
+}
