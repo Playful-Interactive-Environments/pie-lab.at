@@ -4,8 +4,6 @@ date: 2014-11-01
 category: research
 ---
 
-# BlindBits
-
 ## Ein barrierefreier Level-Editor und Player von Orientierungstrainingsspielen für blinde SchülerInnen
 
 Orientierungs- und Mobilitätstraining zielt darauf ab, die Fähigkeiten sich von einem zu einem anderen Ort zu bewegen bei blinden Personen zu verbessern. Das vom Austrian Institute of Technology koordinierte und in Kooperation mit dem Bundes-Blindenerziehungsinstitut und der FH Oberösterreich durchgeführte Projekt BlindBits zielt darauf ab, das Orientierungstraining von blinden SchülerInnen mit einem Lernspielansatz zu unterstützen.

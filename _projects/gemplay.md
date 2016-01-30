@@ -4,8 +4,6 @@ date: 2014-11-01
 category: research
 ---
 
-# GEMPLAY
-
 ## GEndered games Motivating PhysicaL ActivitY
 
 Regelmäßige physische Aktivität senkt die Risiken für schwere Erkrankungen und eine verringerte Anzahl an Erkrankungen macht sich wiederum auf gesellschaftlicher Ebene durch eine Entlastung des Gesundheitssystems und höhere Leistungsfähigkeit und Lebensfreude der Bevölkerung bemerkbar. Dennoch fehlt vielen Menschen die Motivation, Sport zu betreiben. Hier setzen die in GEMPLAY entwickelten persuasiven Spielkonzepte an, die zu mehr Bewegung animieren und dabei speziell an die Lebenswelten von Männern und Frauen angepasst sind. Dabei wird der Unterhaltungsfaktor als persuasive Strategie eingesetzt, sodass die in das Spiel eingebundene Bewegung einen höheren Anreiz besitzt.
