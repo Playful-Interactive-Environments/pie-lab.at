@@ -16,14 +16,18 @@
   margin-bottom: 2em;
 
   @media(min-width: $screen-sm) {
-    flex-basis: 29%;
-    margin: 2em 1em;
+    flex-basis: calc(50% - 1em);
+    margin: 1em 0.5em;
     margin-bottom: 0;
     max-height: 100%;
   }
 
   @media(min-width: $screen-lg) {
-    flex-basis: 21%;
+    flex-basis: calc(33.33333% - 1em);
+  }
+
+  @media(min-width: $screen-xl) {
+    flex-basis: calc(25% - 1em);
   }
 
   & > a {
@@ -31,17 +35,33 @@
     background-size: cover;
     background-position: center;
     margin: auto;
-    border: 1px solid $primary-color;
-    border-radius: 5px;
+    border: 1px solid darken($secondary-color, 20);
     line-height: 0;
-    padding-bottom: 50%;
-
-    @media(min-width: $screen-sm) {
-      padding-bottom: 166%;
-    }
+    padding-bottom: 60%;
   }
 }
 
-.projects-item img {
-  max-width: 100%;
+.projects-item a:after {
+  content: attr(data-title);
+  color: $secondary-color;
+  mix-blend-mode: color-dodge;
+  position: absolute;
+  bottom: 0;
+  padding: 1em;
+  background-color: rgba(0, 0, 0, 0.6);
+  margin: 1px;
+  left: 0;
+  right: 0;
+  line-height: 1;
+}
+
+.projects-item a:before {
+  content: " ";
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  margin: 1px;
+
 }
