@@ -14,11 +14,11 @@
   }
 
   @media(min-width: $screen-lg) {
-    max-width: $screen-lg;
+    max-width: $screen-lg - 70px;
   }
 
   @media(min-width: $screen-xl) {
-    max-width: $screen-xl;
+    max-width: $screen-xl - 70px;
   }
 
 }
