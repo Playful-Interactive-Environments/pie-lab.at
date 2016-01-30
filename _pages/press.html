@@ -2,3 +2,27 @@
 layout: page
 permalink: /press/
 ---
+
+<div class="projects-list flex-wrapper">
+{% assign sortedPressrelease = site.data.pressrelease |sort: "date" | reverse %}
+{% for pressrelease in sortedPressrelease %}
+  <div class="projects-item">
+    {% if pressrelease.titleimage %}
+    {% assign remote = pressrelease.titleimage | slice: 0, 4 %}
+      {% if remote == "http" %}
+        {% assign imageurl = pressrelease.titleimage %}
+      {% else %}
+        {% assign imageurl = pressrelease.titleimage |prepend: pressrelease.url | prepend: site.baseurl %}
+      {% endif %}
+    {% else %}
+      {% assign imageurl = "//placehold.it/300x500?text=" |append: pressrelease.title |replace: "'", '' | uri_escape %}
+    {%endif%}
+    <a href="{{pressrelease.url |prepend: site.baseurl}}" title="{{pressrelease.title}}" style="background-image: url({{imageurl}})">
+      <p class="project-item-meta">
+        {{pressrelease.title}}
+        <span class="project-item-meta-small">{{pressrelease.link.label}}</span>
+      </p>
+    </a>
+  </div>
+{% endfor %}
+</div>

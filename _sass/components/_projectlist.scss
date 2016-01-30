@@ -70,3 +70,22 @@
 .projects-item a:hover:before {
   background-color: rgba(0, 0, 0, 0.2);
 }
+
+.project-item-meta {
+  color: $secondary-color;
+  mix-blend-mode: color-dodge;
+  position: absolute;
+  bottom: 0;
+  padding: 1em;
+  background-color: rgba(0, 0, 0, 0.6);
+  margin: 1px;
+  left: 0;
+  right: 0;
+  line-height: 1;
+}
+
+.project-item-meta-small {
+  font-size: 12px;
+  display: block;
+  margin-top: 0.5em;
+}
