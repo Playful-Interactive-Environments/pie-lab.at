@@ -1,6 +1,6 @@
 <div class="staff">
   <div class="staff-photo">
-    <img src="{{'/assets/people/' | append: include.data.photo | prepend: site.baseurl }}" alt="">
+    <img src="{{'/assets/people/' | append: include.data.photo | prepend: site.baseurl }}" alt="{{ include.data.name |prepend: 'photo of '}}">
   </div>
   <div class="staff-details">
     <p class="staff-name">{{include.data.name}}</p>
