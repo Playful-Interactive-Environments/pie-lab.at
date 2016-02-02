@@ -63,14 +63,14 @@
 
 - name: Andreas Friedl, MSc
   group: 3
-  photo: default.jpg
+  photo: andreas-friedl.jpg
   phone:
   email: andreas.friedl@fh-hagenberg.at
   projects: [GEMPLAY]
 
 - name: Georgi Kostov, MSc
   group: 3
-  photo: default.jpg
+  photo: georgi-kostov.jpg
   phone:
   email: georgi.kostov@fh-hagenberg.at
   projects: [Play!UC]
