@@ -7,7 +7,7 @@
     {% if include.data.phone %}
     <p class="staff-phone">{{include.data.phone}}</p>
     {% endif %}
-    <p class="staff-email">{{include.data.email}}</p>
+    <p class="staff-email"><a href="mailto:{{include.data.email}}">{{include.data.email}}</a></p>
     {% if include.data.projects %}
     <p class="staff-projects">Projects:
     {% for selectedProject in include.data.projects %}
