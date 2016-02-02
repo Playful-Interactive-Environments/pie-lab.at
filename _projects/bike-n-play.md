@@ -1,5 +1,5 @@
 ---
-title: Bike'n'Play
+title: Bike'N'Play
 date: 2015-10-28
 category: research
 ---

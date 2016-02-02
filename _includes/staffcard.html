@@ -8,5 +8,18 @@
     <p class="staff-phone">{{include.data.phone}}</p>
     {% endif %}
     <p class="staff-email">{{include.data.email}}</p>
+    {% if include.data.projects %}
+    <p class="staff-projects">Projects:
+    {% for selectedProject in include.data.projects %}
+      {% assign isLast = forloop.last %}
+      {% for project in site.projects %}
+        {% if selectedProject == project.title %}
+          <a href="{{project.url | prepend: site.baseurl}}">{{selectedProject}}</a>{% if isLast == false %}, {% endif %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    </p>
+    {% endif %}
   </div>
 </div>
