@@ -9,3 +9,5 @@ node_modules
 .idea/pie.fh-hagenberg.at.iml
 .idea/vcs.xml
 .idea/workspace.xml
+
+npm-debug.log

@@ -49,7 +49,7 @@
 
 - name: Andrea Aschauer, MA
   group: 3
-  photo: default.jpg
+  photo: andrea-aschauer.jpg
   phone:
   email: andrea.aschauer@fh-hagenberg.at
   projects: [Bike'N'Play]
@@ -91,7 +91,7 @@
 
 - name: Areen Said, BSc
   group: 3
-  photo: default.jpg
+  photo: areen-said.jpg
   phone:
   email: areen.said@fh-hagenberg.at
   projects: [BlindBits]
