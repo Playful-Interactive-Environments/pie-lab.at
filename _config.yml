@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: PieLab
+title: PIE | Playful Interactive Environments
 email: pie@fh-hagenberg.at
 description: > # Playful Interactive Environments is a research group founded by the Department of Digital Media at the University of Applied Sciences Upper Austria, School of Informatics, Communication and Media in Hagenberg.
 baseurl: "/pie.fh-hagenberg.at" # the subpath of your site, e.g. /blog

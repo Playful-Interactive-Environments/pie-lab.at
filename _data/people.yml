@@ -3,111 +3,130 @@
   photo: juergen-hagler.jpg
   phone: +43 (0)50804 22124
   email: juergen.hagler@fh-hagenberg.at
+  projects: [Bike'N'Play, Interplayces]
 
 - name: Dr. Michael Lankes
   group: 1
   photo: michael-lankes.jpg
   phone: +43 (0)50804 22133
   email: michael.lankes@fh-hagenberg.at
+  projects: [GEMPLAY, Interplayces]
 
 - name: Jeremiah Diephuis, MA
   group: 2
   photo: jeremiah-diephuis.jpg
   phone: +43 (0)50804 22122
   email: jeremiah.diephuis@fh-hagenberg.at
+  projects: [Play!UC, ZIEGE]
 
 - name: Wolfgang Hochleitner, MSc
   group: 2
   photo: wolfgang-hochleitner.jpg
   phone: +43 (0)50804 22131
   email: wolfgang.hochleitner@fh-hagenberg.at
+  projects: [Bike'N'Play, GEMPLAY]
 
 - name: Mag. art. Patrick Proier
   group: 2
   photo: patrick-proier.jpg
   phone: +43 (0)50804 22130
   email: patrick.proier@fh-hagenberg.at
+  projects:
 
 - name: Christoph Schaufler, MA
   group: 2
   photo: christoph-schaufler.jpg
   phone: +43 (0)50804 22132
   email: christoph.schaufler@fh-hagenberg.at
+  projects: [BlindBits]
 
 - name: Dipl. Designer Alexander Wilhelm
   group: 2
   photo: alexander-wilhelm.jpg
   phone: +43 (0)50804 22135
   email: alexander.wilhelm@fh-hagenberg.at
+  projects:
 
 - name: Andrea Aschauer, MA
   group: 3
   photo: default.jpg
   phone:
   email: andrea.aschauer@fh-hagenberg.at
+  projects: [Bike'N'Play]
 
 - name: Jens Cherukad, BSc
   group: 3
   photo: default.jpg
   phone:
   email: jens.cherukad@fh-hagenberg.at
+  projects: [Interplayces]
 
 - name: Andreas Friedl, MSc
   group: 3
-  photo: default.jpg
+  photo: andreas-friedl.jpg
   phone:
   email: andreas.friedl@fh-hagenberg.at
+  projects: [GEMPLAY]
 
 - name: Georgi Kostov, MSc
   group: 3
-  photo: default.jpg
+  photo: georgi-kostov.jpg
   phone:
   email: georgi.kostov@fh-hagenberg.at
+  projects: [Play!UC]
 
 - name: Daniel Rammer, BSc
   group: 3
   photo: daniel-rammer.jpg
   phone:
   email: daniel.rammer@students.fh-hagenberg.at
+  projects: [GEMPLAY]
 
 - name: Moritz Rührlinger, BSc
   group: 3
   photo: moritz-ruehrlinger.jpg
   phone:
   email: moritz.ruehrlinger@students.fh-hagenberg.at
+  projects: [GEMPLAY]
 
 - name: Areen Said, BSc
   group: 3
   photo: default.jpg
   phone:
   email: areen.said@fh-hagenberg.at
+  projects: [BlindBits]
 
 - name: Michael Ablinger, BSc
   group: 4
   photo: michael-ablinger.jpg
   phone:
   email:
+  projects: [Mühlviertel Pur App]
 
 - name: Nico Harather, MSc
   group: 4
   photo: nico-harather.jpg
   phone:
   email:
+  projects: [ZIEGE]
 
 - name: Andreas Kasch, MSc
   group: 4
   photo: andreas-kasch.jpg
   phone:
   email:
+  projects: [ZIEGE]
 
 - name: Fabian Pirklbauer, BSc
   group: 4
   photo: fabian-pirklbauer.jpg
   phone:
   email:
+  projects: [Mühlviertel Pur App]
 
 - name: Sarah Troschl, MSc
   group: 4
   photo: sarah-troschl.jpg
   phone:
   email:
+  projects: [GEMPLAY]

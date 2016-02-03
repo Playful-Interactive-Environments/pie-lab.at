@@ -1,5 +1,5 @@
 ---
-title: Ziege
+title: ZIEGE
 date: 2014-11-01
 category: research
 ---
