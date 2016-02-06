@@ -15,7 +15,13 @@ layout: page
   {{gallery}}
   <div class="project-details">
     <h1 class="project-details-title">{{page.title}}</h1>
-    <p class="project-details-category">{{page.category}}</p>
+    <p class="project-details-category">Category: {{page.category | capitalize}} Project</p>
+    {% if page.start and page.end %}
+    <p class="project-details-duration">Duration: {{page.start | date: "%m/%Y"}}&ndash;{{page.end | date: "%m/%Y"}}</p>
+    {% endif %}
+    {% if page.release %}
+    <p class="project-details-release">Release: {{page.release | date: "%m/%Y"}}</p>
+    {% endif %}
     {{content}}
   </div>
 </article>

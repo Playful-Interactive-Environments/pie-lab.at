@@ -1,7 +1,9 @@
 ---
 title: Interplayces
-date: 2014-11-01
+date: 2015-11-01
 category: research
+start: 2016-01-01
+end: 2017-12-31
 ---
 
 ## Intergenerational Co-located Play for Old and Young

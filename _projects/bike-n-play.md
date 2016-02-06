@@ -1,7 +1,9 @@
 ---
 title: Bike'N'Play
-date: 2015-10-28
+date: 2015-07-28
 category: research
+start: 2015-08-01
+end: 2017-07-31
 ---
 
 ## Persuasive Integrationskonzepte von Fahrradmobilitätsdaten in Computerspiele unterschiedlicher Spielgenres
