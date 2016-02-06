@@ -10,21 +10,21 @@
   photo: michael-lankes.jpg
   phone: +43 (0)50804 22133
   email: michael.lankes@fh-hagenberg.at
-  projects: [GEMPLAY, Interplayces]
+  projects: [GEMPLAY, Interplayces, Mühlviertel Pur App]
 
 - name: Jeremiah Diephuis, MA
   group: 2
   photo: jeremiah-diephuis.jpg
   phone: +43 (0)50804 22122
   email: jeremiah.diephuis@fh-hagenberg.at
-  projects: [Play!UC, ZIEGE]
+  projects: [Play!UC, ZIEGE, Game Changer]
 
 - name: Wolfgang Hochleitner, MSc
   group: 2
   photo: wolfgang-hochleitner.jpg
   phone: +43 (0)50804 22131
   email: wolfgang.hochleitner@fh-hagenberg.at
-  projects: [Bike'N'Play, GEMPLAY]
+  projects: [Bike'N'Play, GEMPLAY, Mühlviertel Pur App]
 
 - name: Mag. art. Patrick Proier
   group: 2
@@ -49,7 +49,7 @@
 
 - name: Andrea Aschauer, MA
   group: 3
-  photo: default.jpg
+  photo: andrea-aschauer.jpg
   phone:
   email: andrea.aschauer@fh-hagenberg.at
   projects: [Bike'N'Play]
@@ -66,14 +66,14 @@
   photo: andreas-friedl.jpg
   phone:
   email: andreas.friedl@fh-hagenberg.at
-  projects: [GEMPLAY]
+  projects: [GEMPLAY, Game Changer]
 
 - name: Georgi Kostov, MSc
   group: 3
   photo: georgi-kostov.jpg
   phone:
   email: georgi.kostov@fh-hagenberg.at
-  projects: [Play!UC]
+  projects: [Play!UC, Game Changer]
 
 - name: Daniel Rammer, BSc
   group: 3
@@ -91,7 +91,7 @@
 
 - name: Areen Said, BSc
   group: 3
-  photo: default.jpg
+  photo: areen-said.jpg
   phone:
   email: areen.said@fh-hagenberg.at
   projects: [BlindBits]

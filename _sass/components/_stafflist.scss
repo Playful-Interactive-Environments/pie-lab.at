@@ -30,6 +30,13 @@
     flex-wrap: nowrap;
     flex-direction: row;
     flex-grow: 0;
+    flex-basis: 420px;
+  }
+
+  @media(min-width: $screen-lg) {
+    flex-basis: 420px;
+    flex-grow: 1;
+    max-width: calc(50% - 2em);
   }
 }
 
