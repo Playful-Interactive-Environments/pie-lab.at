@@ -4,7 +4,7 @@ date: 2014-11-01
 category: research
 start: 2014-07-01
 end: 2016-06-30
-titleimage: "gemplay-concept.jpg"
+titleimage: "gemplay-concept-preview.jpg"
 gallery:
   - file: "gemplay-concept.jpg"
     preview: "gemplay-concept-150.jpg"
