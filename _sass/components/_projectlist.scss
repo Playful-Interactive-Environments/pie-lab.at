@@ -44,7 +44,6 @@
 .projects-item a:after {
   content: attr(data-title);
   color: $secondary-color;
-  mix-blend-mode: color-dodge;
   position: absolute;
   bottom: 0;
   padding: 1em;
