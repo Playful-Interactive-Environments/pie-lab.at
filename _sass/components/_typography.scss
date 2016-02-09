@@ -7,7 +7,8 @@ h5,
 h6,
 p,
 ul,
-ol {
+ol,
+address {
   line-height: 1.5em;
   margin-top: 1.5em;
 
@@ -26,6 +27,11 @@ h2 {
   font-weight: 600;
 }
 
+h3 {
+  font-size: 1.1em;
+  font-weight: 600;
+}
+
 em {
   font-weight: 600;
 }
@@ -38,8 +44,4 @@ a {
   &:hover {
     color: darken($text-color, 15);
   }
-}
-
-address {
-  margin-top: 1.5em;
 }
