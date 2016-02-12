@@ -1,10 +1,10 @@
 ---
 title: GEMPLAY
-date: 2014-11-01
+date: 2014-07-01
 category: research
 start: 2014-07-01
 end: 2016-06-30
-titleimage: "gemplay-concept-preview.jpg"
+titleimage: "gemplay-preview.jpg"
 gallery:
   - file: "gemplay-concept.jpg"
     preview: "gemplay-concept-150.jpg"
@@ -12,6 +12,9 @@ gallery:
     preview: "gemplay-mastermind-150.jpg"
   - file: "gemplay-seeker.jpg"
     preview: "gemplay-seeker-150.jpg"
+imagecredits:
+  - number: "1"
+    author: "AIT/Playful Interactive Environments"
 ---
 
 The project GEMPLAY (GEndered games Motivating PhysicaL ActivitY) aims to promote regular physical exercise by incorporating personalized, gender-inclusive game experiences that reflect the preferences of various user types. The goal is to generate positive behavioral patterns as well as health benefits on a long-term basis.
@@ -23,11 +26,9 @@ An essential part of the current research project is the gender-scientific groun
 ## Team
 
 * Michael Lankes (project leader)
-* Andrea Aschauer
 * Andreas Friedl
 * Wolfgang Hochleitner
 * Daniel Rammer
-
 
 ## Project Partners
 

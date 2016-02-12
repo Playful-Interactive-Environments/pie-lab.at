@@ -1,16 +1,37 @@
 ---
 title: Bike'N'Play
-date: 2015-07-28
+date: 2015-07-01
 category: research
-start: 2015-08-01
-end: 2017-07-31
+start: 2015-07-01
+end: 2017-06-30
+titleimage: "bike-n-play-preview.jpg"
+gallery:
+  - file: "bike-n-play-bicycle.jpg"
+    preview: "bike-n-play-bicycle-150.jpg"
+  - file: "bike-n-play-wearable.jpg"
+    preview: "bike-n-play-wearable-150.jpg"
+imagecredits:
+  - number: "1, 2"
+    author: "AIT Austrian Institute of Technology"
 ---
 
-## Persuasive Integrationskonzepte von Fahrradmobilitätsdaten in Computerspiele unterschiedlicher Spielgenres
+The project Bike'N'Play develops gaming approaches for the integration of cycling data into popular computer games of different game genres. By utilizing existing games, the target group of non-cyclists can be reached and motivated to start cycling.
 
-Aufgrund von Zeit- und Bequemlichkeitsgründen verwenden viele Personen für alltägliche Wege passive Mobilitätsformen wie das Auto oder öffentliche Verkehrsmittel. Aktive Mobilitätsformen wie das Radfahren haben jedoch nicht nur einen Vorteil für die Umwelt sondern auch einen gesundheitlichen Nutzen für die FahrerInnen. Personen, die ein passives Mobilitätsverhalten zeigen, sind durch bestehende Maßnahmen (z.B. Smart Phone Applikationen, Fahrradaktionen) schwer zu erreichen, da für deren Nutzung/Teilnahme eine initiale Bereitschaft vorhanden sein muss, mit dem Rad zu fahren.Deshalb setzt Bike’N’Play bei einer Aktivität an, die erst einmal nichts mit Radfahren zu tun hat und von einer breiten Personengruppe aus Unterhaltungsgründen durchgeführt wird: Computerspielen. Durch die Verknüpfung der Fahrradaktivität mit beliebten Computerspielen sollen insbesondere Nicht-RadfahrerInnen erreicht werden und ihr Verhalten – im Sinne von Persuasion – in Richtung eines aktiveren Mobilitätsverhaltens verändert werden. Für dieses Vorhaben werden beliebte Computerspiele aus unterschiedlichen Spielgenres analysiert und Game Design Konzepte entwickelt, die aufzeigen, wie das Radfahren in Spiele dieser Art auf eine sinnvolle und motivierende Weise einfließen kann.In Bike’N’Play werden dabei drei weitere Schwerpunkte, die wesentlich für den Erfolg des Projektvorhabens und der nachhaltigen Verbreitung und Verwertung der Projektergebnisse sind, gesetzt. Als erstes müssen neue, geeignete Interaktionsmethoden für die Spielkonzepte entwickelt werden. In Bike’N’Play werden neu auf den Markt gekommene Plattformen wie tragbare Systeme (Wearables, z.B. Smartwatches) erforscht und für den Kontext Radfahren geeignete Interaktionskonzepte entwickelt. Bei der Nutzung von interaktiven Systemen im Kontext Radfahren sind besonders Sicherheitsaspekte zentral.
-Ein weiterer Schwerpunkt ist das Erreichen einer möglichst großen Nutzungsgruppe. Da sich Menschen in ihren Präferenzen für bestimmte Spiele und ihre Beeinflussbarkeit durch persuasive Strategien unterscheiden, werden in Bike’N’Play drei bis fünf Spielkonzepte entwickelt, die explizit unterschiedliche Typen ansprechen. Auf diese Weise werden die entwickelten Konzepte auf unterschiedliche Nutzungsgruppen personalisiert.
+The main aspects for the success of the project proposal and its continued utilization are the application and advancement of innovative interaction platforms (wearables), the development of gaming approaches for different persuasion and player types, and the conception of interfaces that enable games manufacturers to integrate mobility data into their games.
 
-Der letzte Schwerpunkt setzt an der zukünftigen Verbreitung der entwickelten Konzepte an. Um Mobilitätsdaten in einer passenden Form aufzeichnen und aufbereiten zu können, wird in Bike’N’Play an Schnittstellen gearbeitet, die es Spieleherstellern erleichtern, diese Daten in ihren Spielen für unterschiedliche Aktionen verwenden zu können.
+## Team
 
-Das gesamte Projektvorhaben wird im Sinne eines nutzerInnen-zentrierten Designansatzes in enger Kooperation mit der Zielgruppe durchgeführt. Entsprechend werden potenzielle NutzerInnen mit qualitativen und quantitativen Methoden im Rahmen von Anforderungsanalyse, Game Design Workshops, formativer Evaluierungen und Proof of Concept iterativ eingebunden. Zu Evaluierungszwecken werden die entwickelten Spielkonzepte in Mock-Ups übertragen. Ein funktionsfähiger Spieleprototyp wird nicht entwickelt. Allerdings wird eine mögliche zukünftige Umsetzung in einem Folgeprojekt, durch die Vernetzung mit Spiele- und Mobilitätsservice-Anbietern und weiteren geeigneten Verwertungsmaßnahmen, vorbereitet.
+* Wolfgang Hochleitner (project leader)
+* Andrea Aschauer
+* Jürgen Hagler
+
+## Project Partners
+
+* [AIT Austrian Institute of Technology](http://www.ait.ac.at/)
+* [Austrian Players League](http://www.apl.at/)
+* [Fluidtime](http://www.fluidtime.com/)
+* [ovos media](http://www.ovos.at/)
+
+## Website
+
+[Project Website](http://bikenplay.at/)

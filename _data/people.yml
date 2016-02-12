@@ -3,14 +3,14 @@
   photo: juergen-hagler.jpg
   phone: +43 (0)50804 22124
   email: juergen.hagler@fh-hagenberg.at
-  projects: [Bike'N'Play, Interplayces]
+  projects: [Bike'N'Play, InterPlayces]
 
 - name: Dr. Michael Lankes
   group: 1
   photo: michael-lankes.jpg
   phone: +43 (0)50804 22133
   email: michael.lankes@fh-hagenberg.at
-  projects: [GEMPLAY, Interplayces, Mühlviertel Pur App]
+  projects: [GEMPLAY, InterPlayces, Mühlviertel Pur App]
 
 - name: Jeremiah Diephuis, MA
   group: 2
@@ -24,7 +24,7 @@
   photo: wolfgang-hochleitner.jpg
   phone: +43 (0)50804 22131
   email: wolfgang.hochleitner@fh-hagenberg.at
-  projects: [Bike'N'Play, GEMPLAY, Mühlviertel Pur App]
+  projects: [Bike'N'Play, GEMPLAY, BlindBits, ZIEGE, Mühlviertel Pur App]
 
 - name: Mag. art. Patrick Proier
   group: 2
@@ -59,7 +59,7 @@
   photo: default.jpg
   phone:
   email: jens.cherukad@fh-hagenberg.at
-  projects: [Interplayces]
+  projects: [InterPlayces]
 
 - name: Andreas Friedl, MSc
   group: 3
@@ -71,21 +71,21 @@
 - name: Georgi Kostov, MSc
   group: 3
   photo: georgi-kostov.jpg
-  phone:
+  phone: +43 (0)50804 27166
   email: georgi.kostov@fh-hagenberg.at
   projects: [Play!UC, Game Changer]
 
 - name: Daniel Rammer, BSc
   group: 3
   photo: daniel-rammer.jpg
-  phone:
+  phone: +43 (0)50804 27167
   email: daniel.rammer@students.fh-hagenberg.at
-  projects: [GEMPLAY]
+  projects: [GEMPLAY, BlindBits]
 
 - name: Moritz Rührlinger, BSc
   group: 3
   photo: moritz-ruehrlinger.jpg
-  phone:
+  phone: +43 (0)50804 27167
   email: moritz.ruehrlinger@students.fh-hagenberg.at
   projects: [GEMPLAY]
 

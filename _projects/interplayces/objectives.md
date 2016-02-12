@@ -1,5 +1,5 @@
 ---
-title: Interplayces - Objectives
+title: InterPlayces - Objectives
 date: 2014-11-12
 category: research
 subpage: true

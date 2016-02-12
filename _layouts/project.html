@@ -5,6 +5,15 @@ layout: page
   {% if page.gallery %}
     <div class="project-gallery">
       {% include gallery.html data=page.gallery project=page.url %}
+      {% if page.imagecredits %}
+      <div class="gallery-credits">Image credits:
+        <ul>
+      {% for item in page.imagecredits %}
+          <li>{{item.number}}: {{item.author}}</li>
+      {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
     </div>
   {% else %}
     {% assign nogalleryClass = "project-nogallery" %}

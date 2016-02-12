@@ -50,3 +50,13 @@
     margin-right: 0;
   }
 }
+
+.gallery-credits {
+  font-size: 9pt;
+  margin-top: 1em;
+  line-height: 1.1em;
+
+  & ul {
+    line-height: 1.1em;
+  }
+}
