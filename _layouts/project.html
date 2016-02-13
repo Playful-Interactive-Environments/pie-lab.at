@@ -21,7 +21,6 @@ layout: page
 {% endcapture %}
 
 <article class="flex-wrapper project {{nogalleryClass}}">
-  {{gallery}}
   <div class="project-details">
     <h1 class="project-details-title">{{page.title}}</h1>
     {% if page.category %}
@@ -33,6 +32,8 @@ layout: page
     {% if page.release %}
     <p class="project-details-metadata">Release: {{page.release | date: "%m/%Y"}}</p>
     {% endif %}
+
+    {{gallery}}
     {{content}}
   </div>
 </article>

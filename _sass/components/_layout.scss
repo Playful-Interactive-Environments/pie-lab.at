@@ -1,5 +1,5 @@
 .page-wrapper {
-  margin-top: 2em;
+  margin-top: 1em;
   margin-left: auto;
   margin-right: auto;
   transition: max-width 180ms ease-out;
@@ -8,19 +8,19 @@
   padding-bottom: 5em;
 
   @media(min-width: $screen-md) {
-    max-width: $screen-md;
+    max-width: $screen-md - 70px;
     padding-left: 0;
     padding-right: 0;
   }
 
   @media(min-width: $screen-lg) {
+    margin-top: 2em;
     max-width: $screen-lg - 70px;
   }
 
   @media(min-width: $screen-xl) {
     max-width: $screen-xl - 70px;
   }
-
 }
 
 .flex-wrapper {
