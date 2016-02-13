@@ -1,5 +1,4 @@
 .project {
-  margin-top: 5em;
   flex-direction: column-reverse;
 
   @media(min-width: $screen-sm) {
@@ -16,7 +15,6 @@
   flex-grow: 1;
   flex-shrink: 1;
   flex-basis: 100%;
-  margin: 2em;
 
   @media(min-width: $screen-md) {
     margin: 0;
