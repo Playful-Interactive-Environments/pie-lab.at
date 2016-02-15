@@ -1,7 +1,16 @@
 ---
 title: Clockworld
-date: 2014-11-12
+date: 2013-09-05
 category: student
+release: 2013-09-05
+titleimage: "clockworld-preview.jpg"
+gallery:
+  - file: "clockworld-silhouette.jpg"
+    preview: "clockworld-silhouette-150.jpg"
+  - file: "clockworld-avatar.jpg"
+    preview: "clockworld-avatar-150.jpg"
+  - file: "clockworld-tracking.jpg"
+    preview: "clockworld-tracking-150.jpg"
 ---
 
 The Virtual Reality installation Clockworld features the experience of controlling a virtual android on two levels: its material form and its internal mental constructs, the latter of which can be shaped by visitors´ interactions with the installation.
@@ -9,7 +18,15 @@ Clockworld forgoes one of the classical principles of animation by giving all th
 
 ## Team
 
-* Juergen Hagler (Coach)
+* Jürgen Hagler (Coach)
 * Claus Helfenschneider (Coach)
 * Benedict Bleischein
 * Martin Kienmeyer
+
+## Project Partner
+
+[Ars Electronica Center](http://www.aec.at/)
+
+## Website
+
+[Clockworld at Ars Electronica Festival 2013](http://www.aec.at/totalrecall/events-concerts-performances/)

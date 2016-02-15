@@ -17,11 +17,7 @@ permalink: /press/
     {% else %}
       {% assign imageurl = "//placehold.it/300x500?text=" |append: pressrelease.title |replace: "'", '' | uri_escape %}
     {%endif%}
-    <a href="{{pressrelease.url |prepend: site.baseurl}}" title="{{pressrelease.title}}" style="background-image: url({{imageurl}})">
-      <p class="project-item-meta">
-        {{pressrelease.title}}
-        <span class="project-item-meta-small">{{pressrelease.link.label}}</span>
-      </p>
+    <a href="{{pressrelease.link.url}}" title="{{pressrelease.title}}" style="background-image: url({{imageurl}})" data-title="{{pressrelease.date}}: {{pressrelease.title}} ({{pressrelease.link.label}})">
     </a>
   </div>
 {% endfor %}

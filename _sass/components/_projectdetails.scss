@@ -1,5 +1,4 @@
 .project {
-  margin-top: 5em;
   flex-direction: column-reverse;
 
   @media(min-width: $screen-sm) {
@@ -16,11 +15,6 @@
   flex-grow: 1;
   flex-shrink: 1;
   flex-basis: 100%;
-  order: 1;
-  margin: 2em;
-  @media(min-width: $screen-sm) {
-    flex-basis: 75%;
-  }
 
   @media(min-width: $screen-md) {
     margin: 0;
@@ -30,8 +24,6 @@
 .project-details {
   flex: 1;
   flex-basis: 100%;
-  order: 2;
-  margin: 0 2em;
 
   @media(min-width: $screen-sm) {
     text-align: justify;

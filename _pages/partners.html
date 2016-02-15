@@ -7,7 +7,7 @@ permalink: /partners/
 <div class="partners flex-wrapper">
   {% for partner in site.data.partners %}
   <a href="{{partner.link}}" class="partner">
-    <img src="{{'/assets/partners/' | append: partner.logo | prepend: site.baseurl }}" alt="{{partner.name}} logo">
+    <img src="{{'/assets/partners/' | append: partner.logo | prepend: site.baseurl }}" alt="{{partner.name}} logo" title="{{partner.name}}">
   </a>
   {% endfor %}
 </div>

@@ -24,11 +24,11 @@
   background-size: cover;
 
   @media(min-width: $screen-sm) {
-
+    
   }
 
   @media(min-width: $screen-lg) {
-
+    flex-basis: calc(15% - 0.5em);
   }
 
   @media(min-width: $screen-xl) {
@@ -48,5 +48,15 @@
 
   &:last-child {
     margin-right: 0;
+  }
+}
+
+.gallery-credits {
+  font-size: 12px;
+  margin-top: 1em;
+  line-height: 1.1em;
+
+  & ul {
+    line-height: 1.1em;
   }
 }

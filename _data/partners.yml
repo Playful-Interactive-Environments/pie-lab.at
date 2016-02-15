@@ -1,24 +1,44 @@
-- name: Austrian Institute of Technology
+- name: AIT Austrian Institute of Technology
   logo: ait.jpg
   link: http://www.ait.ac.at/
 
-- name: APL
+- name: Ars Electronica Center
+  logo: aec.jpg
+  link: http://www.aec.at/
+
+- name: Austrian Players League
   logo: apl.jpg
   link: http://www.apl.at/
 
-- name: BBI
+- name: Bundes-Blindenerziehungsinstitut
   logo: bbi.jpg
   link: http://www.bbi.at/
 
-- name: Cure
+- name: CURE &ndash; Center for Usability Research & Engineering
   logo: cure.jpg
   link: http://cure.at/
+
+- name: FFG &ndash; Österreichische Forschungsförderungsgesellschaft
+  logo: ffg.jpg
+  link: https://www.ffg.at/
 
 - name: Fluidtime
   logo: fluidtime.jpg
   link: http://www.fluidtime.com/
 
-- name: Ovos
+- name: Johannes Kepler Universität Linz &ndash; Department of Work, Organizational and Media Psychology
+  logo: jku.jpg
+  link: http://aom.jku.at/
+
+- name: netidee
+  logo: netidee.jpg
+  link: https://www.netidee.at/
+
+- name: Netural
+  logo: netural.jpg
+  link: http://www.netural.com/
+
+- name: ovos media
   logo: ovos.jpg
   link: http://www.ovos.at/
 
@@ -26,11 +46,11 @@
   logo: perspectra.jpg
   link: http://www.perspectra.at/
 
-- name: Simpliflow
-  logo: simpli_flow.jpg
-  link: http://simpliflow.com/homepage/de/
+- name: SimpliFlow
+  logo: simpliflow.jpg
+  link: http://simpliflow.com/
 
-- name: Sparklingscience
+- name: Sparkling Science
   logo: sparkling_science.jpg
   link: http://www.sparklingscience.at/
 
@@ -42,6 +62,10 @@
   logo: university_of_groningen.jpg
   link: http://www.rug.nl/
 
-- name: zimd
+- name: Welios Science Center
+  logo: welios.jpg
+  link: http://www.welios.at/
+
+- name: Zentrum für Interaktion, Medien & soziale Diversität
   logo: zimd.jpg
   link: http://www.zimd.at/
