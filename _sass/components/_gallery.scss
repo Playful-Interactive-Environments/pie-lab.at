@@ -1,6 +1,7 @@
 .gallery-main {
   margin-top: 0.8em;
   overflow: hidden;
+
   img {
     width: 100%;
   }
@@ -15,7 +16,7 @@
 .gallery-preview-item {
   flex-basis: calc(20% - 0.5em);
   flex-grow: 0;
-  flex-shrink:1;
+  flex-shrink: 1;
   margin-left: 0.5em;
   margin-right: 0.5em;
   cursor: pointer;
@@ -24,7 +25,6 @@
   background-size: cover;
 
   @media(min-width: $screen-sm) {
-    
   }
 
   @media(min-width: $screen-lg) {
@@ -37,7 +37,7 @@
 
 
   &:after {
-    content: '';
+    content: "";
     padding-bottom: 100%;
     display: block;
   }
