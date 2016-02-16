@@ -7,11 +7,11 @@
   <div class="menu_toggle">
     <a id="menu_toggle_button" class="menu_toggle_button">Menu</a>
   </div>
-  <ul id="nav_list" class="nav_list" role="nav">
+  <ul id="nav_list" class="nav_list" role="menubar">
     {% assign navitems = site.data.navigation | sort: "weight" %}
     {% for navitem in navitems %}
-      <li class="nav_item">
-        <a class="nav_link" href="{{navitem.link | prepend: '/' | prepend: site.baseurl}}">{{navitem.name}}</a>
+      <li class="nav_item" role="presentation">
+        <a class="nav_link" href="{{navitem.link | prepend: '/' | prepend: site.baseurl}}" role="menuitem">{{navitem.name}}</a>
       </li>
     {% endfor %}
   </ul>
