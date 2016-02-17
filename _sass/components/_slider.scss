@@ -21,6 +21,7 @@
   .dot {
     background-color: $secondary-color;
     margin: 0 6px;
+
     &.is-selected {
       opacity: 0.5;
     }
@@ -55,6 +56,7 @@
 
 .flickity-prev-next-button.next {
   right: 0;
+
   svg {
     margin-left: -10px;
   }

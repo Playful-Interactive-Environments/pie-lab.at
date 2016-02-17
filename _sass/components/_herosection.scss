@@ -5,8 +5,9 @@
 
   @media(min-width: $screen-sm) {
     font-size: 2.5em;
-    &:after{
-      content: '';
+
+    &:after {
+      content: "";
       display: inline-block;
       height: 4px;
       background-color: $button-color;

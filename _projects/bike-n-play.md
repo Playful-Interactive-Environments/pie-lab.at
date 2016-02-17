@@ -11,8 +11,10 @@ gallery:
   - file: "bike-n-play-wearable.jpg"
     preview: "bike-n-play-wearable-150.jpg"
 imagecredits:
-  - number: "1, 2"
-    author: "AIT Austrian Institute of Technology"
+  - number: "1"
+    author: "AIT Austrian Institute of Technology / Michael Bösendorfer"
+  - number: "2"
+    author: "FluidTime"
 ---
 
 The project Bike'N'Play develops gaming approaches for the integration of cycling data into popular computer games of different game genres. By utilizing existing games, the target group of non-cyclists can be reached and motivated to start cycling.

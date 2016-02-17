@@ -1,28 +1,28 @@
 - file: "projects/game-changer/game-changer-top.jpg"
   title: "Playful Interactive<br />Environments"
-  subtitle: "A research group of the <br />University of Applied Sciences Upper Austria"
+  subtitle: "A research group at the<br>University of Applied Sciences Upper Austria."
   more:
-    label: "Learn more"
-    link:  "/projects/"
+    label: "Get in touch"
+    link:  "/contact/"
 
-- file: "projects/game-changer/game-changer-top.jpg"
-  title: "Playful Interactive<br />Environments"
-  subtitle: "A research group of the <br />University of Applied Sciences Upper Austria"
+- file: "projects/bike-n-play/bike-n-play-bicycle.jpg"
+  title: "Bike'N'Play"
+  subtitle: "Developing gaming approaches for the integration of<br>cycling data into popular computer games of different game genres."
   more:
     label: "Learn more"
-    link:  "/projects/"
+    link:  "/projects/bike-n-play/"
 
-- file: "projects/game-changer/game-changer-top.jpg"
-  title: "Playful Interactive<br />Environments"
-  subtitle: "A research group of the <br />University of Applied Sciences Upper Austria"
+- file: "projects/interplayces/interplayces-piespace.jpg"
+  title: "InterPlayces"
+  subtitle: "Creating intergenerational game and interaction designs<br>for the older and younger generation via a co-located playground."
   more:
     label: "Learn more"
-    link:  "/projects/"
+    link:  "/projects/interplayces/"
 
-- file: "projects/game-changer/game-changer-top.jpg"
-  title: "Playful Interactive<br />Environments"
-  subtitle: "A research group of the <br />University of Applied Sciences Upper Austria"
+- file: "projects/play-uc/play-uc-citysynergy.jpg"
+  title: "Play!UC"
+  subtitle: "Supporting participatory processes<br>in urban development projects through computer games."
   more:
     label: "Learn more"
-    link:  "/projects/"
+    link:  "/projects/play-uc/"
   

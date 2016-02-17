@@ -47,7 +47,7 @@
   position: absolute;
   bottom: 0;
   padding: 1em;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: transparentize($pie-red2, 0.2);
   margin: 1px;
   left: 0;
   right: 0;

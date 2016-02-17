@@ -2,12 +2,19 @@
 $primary-color: #828687;
 $secondary-color: #f8f9fb;
 
+$pie-cyan1: #2ca9a9;
+$pie-cyan2: #038784;
+$pie-green1: #52a946;
+$pie-green2: #a8c753;
+$pie-red1: #e53762;
+$pie-red2: #aa2038;
+
 $link-color: $primary-color;
 $nav-border: #dad9de;
 
 $header-color: #d6d6d6;
-$text-color: #707271;
-$button-color: #e63563;
+$text-color: $pie-cyan2;
+$button-color: $pie-red1;
 
 $screen-xs: 320px;
 $screen-sm: 480px;
