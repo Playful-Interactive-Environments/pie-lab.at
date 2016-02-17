@@ -56,7 +56,7 @@
 
 - name: Jens Cherukad, BSc
   group: 3
-  photo: default.jpg
+  photo: jens-cherukad.jpg
   phone:
   email: jens.cherukad@fh-hagenberg.at
   projects: [InterPlayces]
@@ -87,7 +87,7 @@
   photo: moritz-ruehrlinger.jpg
   phone: +43 (0)50804 27167
   email: moritz.ruehrlinger@students.fh-hagenberg.at
-  projects: [GEMPLAY]
+  projects: [InterPlayces, GEMPLAY]
 
 - name: Areen Said, BSc
   group: 3

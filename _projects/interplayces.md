@@ -29,6 +29,7 @@ It is the main aim of the project, coined InterPlayces, to propose and to protot
 * FH-Prof. Dr. Michael Lankes (project leader)
 * FH-Prof. Dr. Jürgen Hagler
 * Jens Cherukad, BSc
+* Moritz Rührlinger, BSc
 
 ### University of Applied Sciences Upper Austria &ndash; Mobile Interactive Systems
 
