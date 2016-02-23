@@ -1,0 +1,26 @@
+.footer {
+  display: flex;
+  justify-content: flex-end;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1rem;
+  @media(min-width: $screen-md) {
+    max-width: $screen-md - 70px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  @media(min-width: $screen-lg) {
+    margin-top: 2em;
+    max-width: $screen-lg - 70px;
+  }
+
+  @media(min-width: $screen-xl) {
+    max-width: $screen-xl - 70px;
+  }
+}
+
+.footer__link {
+  text-decoration: none;
+  display: inline-block;
+}
