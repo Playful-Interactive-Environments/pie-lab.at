@@ -6,11 +6,12 @@ start: 2016-01-01
 end: 2017-12-31
 titleimage: "interplayces-preview.jpg"
 gallery:
-  - file: "interplayces-piespace.jpg"
-    preview: "interplayces-piespace-150.jpg"
-imagecredits:
-  - number: "1"
-    author: "Netural"
+  - file: "interplayces-playground.jpg"
+    preview: "interplayces-playground-150.jpg"
+  - file: "interplayces-app.jpg"
+    preview: "interplayces-app-150.jpg"
+  - file: "interplayces-welios.jpg"
+    preview: "interplayces-welios-150.jpg"
 ---
 
 The project proposal InterPlayces introduces an approach for conceptualizing and creating intergenerational game and interaction designs for the older and younger generation via a co-located playground. With these playful artifacts the social and emotional well-being, as well as the bond between young and old are fostered. Games and playful mechanics are utilized to initialize and strengthen the knowledge transfer and exchange between the generations. To reach the defined research goals, game design concepts are developed that address the various needs and requirements of the different player groups. This is achieved through player roles that are adapted to the needs of the players, as well as via effective and intuitive interaction techniques and methods.
