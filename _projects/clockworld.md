@@ -7,10 +7,13 @@ titleimage: "clockworld-preview.jpg"
 gallery:
   - file: "clockworld-silhouette.jpg"
     preview: "clockworld-silhouette-150.jpg"
+    description: "The silouhett of a Clockworld player"
   - file: "clockworld-avatar.jpg"
     preview: "clockworld-avatar-150.jpg"
+    description: "The Clockworld Android"
   - file: "clockworld-tracking.jpg"
     preview: "clockworld-tracking-150.jpg"
+    description: "Tracking a person with Microsoft's Kinect"
 ---
 
 The Virtual Reality installation Clockworld features the experience of controlling a virtual android on two levels: its material form and its internal mental constructs, the latter of which can be shaped by visitors´ interactions with the installation.

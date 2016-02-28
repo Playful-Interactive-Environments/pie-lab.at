@@ -18,7 +18,7 @@ var bundle = function() {
     .on('error', gutil.log.bind(gutil, 'Browserify Error'))
     .pipe(source('main.js'))
     .pipe(gulp.dest('./js/'));
-}
+};
 
 var lint = function() {
   return gulp.src(['_js/**/*.js', '!_js/vendor/**/*.js'])

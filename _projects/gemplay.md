@@ -8,10 +8,13 @@ titleimage: "gemplay-preview.jpg"
 gallery:
   - file: "gemplay-concept.jpg"
     preview: "gemplay-concept-150.jpg"
+    description: "Concept image of the GEMPLAY application"
   - file: "gemplay-mastermind.jpg"
     preview: "gemplay-mastermind-150.jpg"
+    description: "The GEMPLAY mastermind prototype"
   - file: "gemplay-seeker.jpg"
     preview: "gemplay-seeker-150.jpg"
+    description: "The GEMPLAY seeker prototype"
 imagecredits:
   - number: "1"
     author: "AIT/Playful Interactive Environments"

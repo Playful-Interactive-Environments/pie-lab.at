@@ -8,6 +8,7 @@ titleimage: "blindbits-preview.jpg"
 gallery:
   - file: "blindbits-requirements.jpg"
     preview: "blindbits-requirements-150.jpg"
+    description: "Experiments at the BlindBits requirements workshop"
 imagecredits:
   - number: "1"
     author: "AIT Austrian Institute of Technology"
