@@ -6,10 +6,14 @@ start: 2014-11-01
 end: 2016-10-31
 titleimage: "blindbits-preview.jpg"
 gallery:
-  - file: "blindbits-requirements.jpg"
-    preview: "blindbits-requirements-150.jpg"
+  - file: "blindbits-brailler.jpg"
+    preview: "blindbits-brailler-150.jpg"
+  - file: "blindbits-beacons.jpg"
+    preview: "blindbits-beacons-150.jpg"
+  - file: "blindbits-nfc.jpg"
+    preview: "blindbits-nfc-150.jpg"
 imagecredits:
-  - number: "1"
+  - number: "1&ndash;3"
     author: "AIT Austrian Institute of Technology"
 ---
 
