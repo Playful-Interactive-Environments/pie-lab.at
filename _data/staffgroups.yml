@@ -3,6 +3,8 @@
 - id: 2
   label: Senior Researchers
 - id: 3
-  label: Junior Researchers
+  label: Researchers
 - id: 4
+  label: Junior Researchers
+- id: 5
   label: Past Staff & Students

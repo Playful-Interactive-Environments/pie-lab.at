@@ -54,20 +54,13 @@
   email: andrea.aschauer@fh-hagenberg.at
   projects: [Bike'N'Play]
 
-- name: Jens Cherukad, BSc
-  group: 3
-  photo: jens-cherukad.jpg
-  phone: +43 (0)50804 27167
-  email: jens.cherukad@fh-hagenberg.at
-  projects: [InterPlayces]
-
 - name: Andreas Friedl, MSc
   group: 3
   photo: andreas-friedl.jpg
   phone: +43 (0)50804 27166
   email: andreas.friedl@fh-hagenberg.at
   projects: [GEMPLAY, Game Changer]
-
+  
 - name: Georgi Kostov, MSc
   group: 3
   photo: georgi-kostov.jpg
@@ -75,64 +68,71 @@
   email: georgi.kostov@fh-hagenberg.at
   projects: [Play!UC, Game Changer]
 
+- name: Jens Cherukad, BSc
+  group: 4
+  photo: jens-cherukad.jpg
+  phone: +43 (0)50804 27167
+  email: jens.cherukad@fh-hagenberg.at
+  projects: [InterPlayces]
+
 - name: Daniel Rammer, BSc
-  group: 3
+  group: 4
   photo: daniel-rammer.jpg
   phone: +43 (0)50804 27167
   email: daniel.rammer@students.fh-hagenberg.at
   projects: [GEMPLAY, BlindBits]
 
 - name: Moritz Rührlinger, BSc
-  group: 3
+  group: 4
   photo: moritz-ruehrlinger.jpg
   phone: +43 (0)50804 27167
   email: moritz.ruehrlinger@students.fh-hagenberg.at
   projects: [InterPlayces, GEMPLAY]
 
 - name: Areen Said, BSc
-  group: 3
+  group: 4
   photo: areen-said.jpg
   phone: +43 (0)50804 27167
   email: areen.said@fh-hagenberg.at
   projects: [BlindBits]
   
 - name: Philip Sonnleitner
-  group: 3
+  group: 4
   photo: default.jpg
   phone: +43 (0)50804 27167
   email: philip.sonnleitner@fh-hagenberg.at
   projects: 
 
 - name: Michael Ablinger, BSc
-  group: 4
+  group: 5
   photo: michael-ablinger.jpg
   phone:
   email:
   projects: [Mühlviertel Pur App]
 
 - name: Nico Harather, MSc
-  group: 4
+  group: 5
   photo: nico-harather.jpg
   phone:
   email:
   projects: [ZIEGE]
 
 - name: Andreas Kasch, MSc
-  group: 4
+  group: 5
   photo: andreas-kasch.jpg
   phone:
   email:
   projects: [ZIEGE]
 
 - name: Fabian Pirklbauer, BSc
-  group: 4
+  group: 5
   photo: fabian-pirklbauer.jpg
   phone:
   email:
   projects: [Mühlviertel Pur App]
 
 - name: Sarah Troschl, MSc
-  group: 4
+  group: 5
   photo: sarah-troschl.jpg
   phone:
   email:
