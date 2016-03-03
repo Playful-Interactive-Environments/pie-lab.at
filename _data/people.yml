@@ -50,21 +50,21 @@
 - name: Andrea Aschauer, MA
   group: 3
   photo: andrea-aschauer.jpg
-  phone:
+  phone: +43 (0)50804 27166
   email: andrea.aschauer@fh-hagenberg.at
   projects: [Bike'N'Play]
 
 - name: Jens Cherukad, BSc
   group: 3
   photo: jens-cherukad.jpg
-  phone:
+  phone: +43 (0)50804 27167
   email: jens.cherukad@fh-hagenberg.at
   projects: [InterPlayces]
 
 - name: Andreas Friedl, MSc
   group: 3
   photo: andreas-friedl.jpg
-  phone:
+  phone: +43 (0)50804 27166
   email: andreas.friedl@fh-hagenberg.at
   projects: [GEMPLAY, Game Changer]
 
@@ -92,9 +92,16 @@
 - name: Areen Said, BSc
   group: 3
   photo: areen-said.jpg
-  phone:
+  phone: +43 (0)50804 27167
   email: areen.said@fh-hagenberg.at
   projects: [BlindBits]
+  
+- name: Philip Sonnleitner
+  group: 3
+  photo: default.jpg
+  phone: +43 (0)50804 27167
+  email: philip.sonnleitner@fh-hagenberg.at
+  projects: 
 
 - name: Michael Ablinger, BSc
   group: 4
