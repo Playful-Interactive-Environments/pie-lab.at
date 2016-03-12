@@ -5,14 +5,22 @@ layout: page
   {% if page.gallery %}
     <div class="project-gallery">
       {% include gallery.html data=page.gallery project=page.url %}
-      {% if page.imagecredits %}
-      <div class="gallery-credits">Image credits:
-        <ul>
-      {% for item in page.imagecredits %}
-          <li>{{item.number}}: {{item.author}}</li>
+
+      {% for galleryitem in page.gallery %}
+        {% if galleryitem.author %}
+          {% capture creditloop %}
+            <li>{{forloop.index}}: {{galleryitem.author}}</li>
+          {% endcapture %}
+          {% assign credits = credits | append: creditloop %}
+        {% endif %}
       {% endfor %}
-        </ul>
-      </div>
+
+      {% if credits %}
+      <p class="gallery-credits">Image credits:
+      </p>
+      <ul class="gallery-credits">
+        {{credits}}
+      </ul>
       {% endif %}
     </div>
   {% else %}
@@ -37,5 +45,6 @@ layout: page
     {{content}}
   </div>
 </article>
-
+{% comment %}
 <script src="{{ '/js/gallery.js' |prepend: site.baseurl}}"></script>
+{% endcomment %}
