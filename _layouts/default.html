@@ -1,17 +1,10 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
-
   <body>
-
     {% include header.html %}
-
-
     {{ content }}
-
     {% include footer.html %}
-
     <script src="{{ '/js/main.js' |prepend: site.baseurl}}"></script>
   </body>
 </html>
