@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="518px" height="518px" viewBox="0 0 518 518" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>play</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M256,0 C114.615,0 0,114.615 0,256 C0,397.385 114.615,512 256,512 C397.385,512 512,397.385 512,256 C512,114.615 397.385,0 256,0 L256,0 Z M256,464 C141.125,464 48,370.875 48,256 C48,141.125 141.125,48 256,48 C370.875,48 464,141.125 464,256 C464,370.875 370.875,464 256,464 L256,464 Z M192,144 L384,256 L192,368 L192,144 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="play" sketch:type="MSLayerGroup" transform="translate(3.000000, 3.000000)">
+            <g id="Shape">
+                <use stroke="#979797" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <use stroke="#979797" stroke-width="1" fill="none" xlink:href="#path-1"></use>
+                <use stroke="#868686" stroke-width="5" fill="none" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
