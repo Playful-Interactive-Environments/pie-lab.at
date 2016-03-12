@@ -1,4 +1,4 @@
-<div class="gallery-main gallery-main--loading">
+<div class="gallery-main">
   {% assign firstimage = include.data | first %}
   {% assign mainurl =  firstimage.file |prepend: include.project | prepend: site.baseurl %}
   {% assign maindescription =  firstimage.description %}
