@@ -8,12 +8,15 @@ titleimage: "blindbits-preview.jpg"
 gallery:
   - file: "blindbits-brailler.jpg"
     preview: "blindbits-brailler-150.jpg"
+    description: "Ein Gerät zum Schreiben von Brailleschrift"
+    author: "AIT Austrian Institute of Technology"
   - file: "blindbits-beacons.jpg"
     preview: "blindbits-beacons-150.jpg"
+    description: "Schülerinnen experimentieren mit Beacons"
+    author: "AIT Austrian Institute of Technology"
   - file: "blindbits-nfc.jpg"
     preview: "blindbits-nfc-150.jpg"
-imagecredits:
-  - number: "1&ndash;3"
+    description: "Ein Junge testet einen NFC-Tag"
     author: "AIT Austrian Institute of Technology"
 ---
 

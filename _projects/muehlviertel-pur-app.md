@@ -8,12 +8,16 @@ titleimage: "mvp-preview.jpg"
 gallery:
   - file: "mvp-phone.jpg"
     preview: "mvp-phone-150.jpg"
+    description: "The start screen of the Mühlviertel Pur App"
   - file: "mvp-suche.jpg"
     preview: "mvp-suche-150.jpg"
+    description: "Recommendation for places nearby"
   - file: "mvp-erfolg.jpg"
     preview: "mvp-erfolg-150.jpg"
+    description: "Earning a reward in the Mühlviertel Pur App"
   - file: "mvp-profil.jpg"
     preview: "mvp-profil-150.jpg"
+    description: "A user profile in the Mühlviertel Pur App"
 ---
 
 ## Gamification Guidelines für mobile Tourismusanwendungen

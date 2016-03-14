@@ -8,12 +8,11 @@ titleimage: "bike-n-play-preview.jpg"
 gallery:
   - file: "bike-n-play-bicycle.jpg"
     preview: "bike-n-play-bicycle-150.jpg"
+    description: "Man with bike using the Bike'N'Play application"
+    author: "AIT Austrian Institute of Technology / Michael Bösendorfer"
   - file: "bike-n-play-wearable.jpg"
     preview: "bike-n-play-wearable-150.jpg"
-imagecredits:
-  - number: "1"
-    author: "AIT Austrian Institute of Technology / Michael Bösendorfer"
-  - number: "2"
+    description: "Bike'N'Play smartwatch mockup"
     author: "FluidTime"
 ---
 

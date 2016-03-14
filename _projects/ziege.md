@@ -8,10 +8,13 @@ titleimage: "ziege-preview.jpg"
 gallery:
   - file: "ziege-teilnehmerin.jpg"
     preview: "ziege-teilnehmerin-150.jpg"
+    description: "Girl playtesting her ZIEGE level"
   - file: "ziege-umsetzung.jpg"
     preview: "ziege-umsetzung-150.jpg"
+    description: "Boy working with assets for his ZIEGE level"
   - file: "ziege-levelbau.jpg"
     preview: "ziege-levelbau-150.jpg"
+    description: "A kid creating a level with ZIEGE"
 ---
 
 ## Educational Game Editor

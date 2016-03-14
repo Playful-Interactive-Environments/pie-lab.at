@@ -7,11 +7,18 @@ titleimage: "game-changer-preview.jpg"
 gallery:
   - file: "game-changer-top.jpg"
     preview: "game-changer-top-150.jpg"
+    description: "People playing Tower of Power"
   - file: "game-changer-start.jpg"
     preview: "game-changer-start-150.jpg"
+    description: "The start of Swarm Defender"
   - file: "game-changer-redlaser.jpg"
     preview: "game-changer-redlaser-150.jpg"
+    description: "People creating a red laser at Swarm Defender"
   - file: "game-changer-suite.jpg"
+    preview: "game-changer-suite-150.jpg"
+    description: "The Game Changer selection screen"
+  - video: "gmM1EaHA_BA"
+    type: "youtube"
     preview: "game-changer-suite-150.jpg"
 ---
 

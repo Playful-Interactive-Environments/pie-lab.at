@@ -7,10 +7,13 @@ titleimage: "limelight-preview.jpg"
 gallery:
   - file: "limelight-scalability.jpg"
     preview: "limelight-scalability-150.jpg"
+    description: "People playing Lumees in Limelight"
   - file: "limelight-gamesidelines.jpg"
     preview: "limelight-gamesidelines-150.jpg"
+    description: "Bystanders watching the Limelight installation"
   - file: "limelight-participants.jpg"
     preview: "limelight-participants-150.jpg"
+    description: "People playing Limelight"
 ---
 
 Limelight ist ein innovatives 2D-Plattformer Spiel mit mehreren Spielerrollen in einem co-located, large Display Setting. Das Spiel erfordert einen physisch groß angelegten Interaktionsraum und wurde für 1-10 Spieler konzipiert.
