@@ -7,7 +7,7 @@ titleimage: "clockworld-preview.jpg"
 gallery:
   - file: "clockworld-silhouette.jpg"
     preview: "clockworld-silhouette-150.jpg"
-    description: "The silouhett of a Clockworld player"
+    description: "The silouhette of a Clockworld player"
   - file: "clockworld-avatar.jpg"
     preview: "clockworld-avatar-150.jpg"
     description: "The Clockworld Android"

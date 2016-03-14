@@ -6,9 +6,17 @@ start: 2014-11-01
 end: 2016-10-31
 titleimage: "blindbits-preview.jpg"
 gallery:
-  - file: "blindbits-requirements.jpg"
-    preview: "blindbits-requirements-150.jpg"
-    description: "Experiments at the BlindBits requirements workshop"
+  - file: "blindbits-brailler.jpg"
+    preview: "blindbits-brailler-150.jpg"
+    description: "Ein Gerät zum Schreiben von Brailleschrift"
+    author: "AIT Austrian Institute of Technology"
+  - file: "blindbits-beacons.jpg"
+    preview: "blindbits-beacons-150.jpg"
+    description: "Schülerinnen experimentieren mit Beacons"
+    author: "AIT Austrian Institute of Technology"
+  - file: "blindbits-nfc.jpg"
+    preview: "blindbits-nfc-150.jpg"
+    description: "Ein Junge testet einen NFC-Tag"
     author: "AIT Austrian Institute of Technology"
 ---
 
