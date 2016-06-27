@@ -3,7 +3,7 @@
   photo: juergen-hagler.jpg
   phone: +43 (0)50804 22124
   email: juergen.hagler@fh-hagenberg.at
-  projects: [Bike'N'Play, InterPlayces]
+  projects: [Bike'N'Play, InterPlayces, PIEdeck]
 
 - name: Dr. Michael Lankes
   group: 1
@@ -17,7 +17,7 @@
   photo: jeremiah-diephuis.jpg
   phone: +43 (0)50804 22122
   email: jeremiah.diephuis@fh-hagenberg.at
-  projects: [Play!UC, ZIEGE, Game Changer]
+  projects: [Play!UC, ZIEGE, Game Changer, PIEdeck]
 
 - name: Wolfgang Hochleitner, MSc
   group: 2
@@ -52,7 +52,7 @@
   photo: andrea-aschauer.jpg
   phone: +43 (0)50804 27166
   email: andrea.aschauer@fh-hagenberg.at
-  projects: [Bike'N'Play]
+  projects: [Bike'N'Play, PIEdeck]
 
 - name: Andreas Friedl, MSc
   group: 3
@@ -66,7 +66,7 @@
   photo: georgi-kostov.jpg
   phone: +43 (0)50804 27166
   email: georgi.kostov@fh-hagenberg.at
-  projects: [Play!UC, Game Changer]
+  projects: [Play!UC, Game Changer, PIEdeck]
 
 - name: Jens Cherukad, BSc
   group: 4
@@ -101,7 +101,7 @@
   photo: philip-sonnleitner.jpg
   phone: +43 (0)50804 27167
   email: philip.sonnleitner@fh-hagenberg.at
-  projects: 
+  projects: [PIEdeck]
 
 - name: Michael Ablinger, BSc
   group: 5
