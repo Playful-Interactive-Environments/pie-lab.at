@@ -26,3 +26,9 @@
     label: "Learn more"
     link:  "/projects/play-uc/"
   
+- file: "projects/piedeck/piedeck-zagreb01.jpg"
+  title: "PIEdeck"
+  subtitle: "An experimental interactive installation<br>created for playful activities with multiple participants."
+  more:
+    label: "Learn more"
+    link:  "/projects/piedeck/"

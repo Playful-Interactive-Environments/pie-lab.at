@@ -32,7 +32,7 @@ layout: page
   <div class="project-details">
     <h1 class="project-details-title">{{page.title}}</h1>
     {% if page.category %}
-    <p class="project-details-metadata">Category: {{page.category | capitalize}} Project</p>
+    <p class="project-details-metadata">Category: {{page.category | capitalize}} project</p>
     {% endif %}
     {% if page.start and page.end %}
     <p class="project-details-metadata">Duration: {{page.start | date: "%m/%Y"}}&ndash;{{page.end | date: "%m/%Y"}}</p>
