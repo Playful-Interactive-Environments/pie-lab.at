@@ -26,6 +26,9 @@ gallery:
   - file: "piedeck-hottron.jpg"
     preview: "piedeck-hottron-150.jpg"
     description: "Rendering from the PIEdeck installation"
+  - video: "7Q2MfE01my4"
+    type: "youtube"
+    preview: "piedeck-video-150.jpg"
 ---
 
 PIEdeck is an experimental interactive installation created for playful activities with multiple participants. Developed by the research group Playful Interactive Environments (PIE), it consists of a laser tracking system, public display and Virtual Reality headsets. Utilizing the Pharus tracking system developed by the Ars Electronica Futurelab, up to 25 participants can simultaneously interact with the system and each other in the same physical space. PIEdeck serves as an experimental environment to explore novel game concepts and other forms of co-located interaction in a hybrid-reality context, combining real physical movement with virtual content in a large-scale setting.
