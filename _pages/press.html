@@ -12,12 +12,18 @@ permalink: /press/
       {% if remote == "http" %}
         {% assign imageurl = pressrelease.titleimage %}
       {% else %}
-        {% assign imageurl = pressrelease.titleimage |prepend: pressrelease.url | prepend: site.baseurl %}
+        {% assign imageurl = pressrelease.titleimage | prepend: site.baseurl %}
       {% endif %}
     {% else %}
-      {% assign imageurl = "//placehold.it/300x500?text=" |append: pressrelease.title |replace: "'", '' | uri_escape %}
+      {% assign imageurl = "//placehold.it/300x500?text=" | append: pressrelease.title |replace: "'", '' | uri_escape %}
     {%endif%}
-    <a href="{{pressrelease.link.url}}" title="{{pressrelease.title}}" style="background-image: url({{imageurl}})" data-title="{{pressrelease.date}}: {{pressrelease.title}} ({{pressrelease.link.label}})">
+    {% assign url = pressrelease.link.url | slice: 0, 4 %}
+      {% if url == "http" %}
+        {% assign pressurl = pressrelease.link.url %}
+      {% else %}
+        {% assign pressurl = pressrelease.link.url | prepend: site.baseurl %}
+      {% endif %}
+    <a href="{{pressurl}}" title="{{pressrelease.title}}" style="background-image: url({{imageurl}})" data-title="{{pressrelease.date}}: {{pressrelease.title}} ({{pressrelease.link.label}})">
     </a>
   </div>
 {% endfor %}
