@@ -3,7 +3,7 @@ title: GEMPLAY
 date: 2014-07-01
 category: research
 start: 2014-07-01
-end: 2016-06-30
+end: 2016-12-31
 titleimage: "gemplay-preview.jpg"
 gallery:
   - file: "gemplay-concept.jpg"
