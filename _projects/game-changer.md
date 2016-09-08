@@ -3,6 +3,7 @@ title: Game Changer
 date: 2014-09-04
 category: student
 release: 2014-09-04
+subpage: false
 titleimage: "game-changer-preview.jpg"
 gallery:
   - file: "game-changer-top.jpg"

@@ -3,6 +3,7 @@ title: Limelight
 date: 2012-09-01
 category: student
 release: 2012-09-01
+subpage: false
 titleimage: "limelight-preview.jpg"
 gallery:
   - file: "limelight-scalability.jpg"

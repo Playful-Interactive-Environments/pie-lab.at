@@ -4,6 +4,7 @@ date: 2014-11-01
 category: research
 start: 2014-11-01
 end: 2016-10-31
+subpage: false
 titleimage: "blindbits-preview.jpg"
 gallery:
   - file: "blindbits-brailler.jpg"

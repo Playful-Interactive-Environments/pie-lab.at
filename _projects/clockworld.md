@@ -3,6 +3,7 @@ title: Clockworld
 date: 2013-09-05
 category: student
 release: 2013-09-05
+subpage: false
 titleimage: "clockworld-preview.jpg"
 gallery:
   - file: "clockworld-silhouette.jpg"

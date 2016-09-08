@@ -4,6 +4,7 @@ date: 2015-07-01
 category: research
 start: 2015-07-01
 end: 2017-06-30
+subpage: false
 titleimage: "bike-n-play-preview.jpg"
 gallery:
   - file: "bike-n-play-bicycle.jpg"

@@ -4,6 +4,7 @@ date: 2016-01-01
 category: research
 start: 2016-01-01
 end: 2017-12-31
+subpage: false
 titleimage: "interplayces-preview.jpg"
 gallery:
   - file: "interplayces-playground.jpg"
