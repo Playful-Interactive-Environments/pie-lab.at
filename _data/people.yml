@@ -17,7 +17,7 @@
   photo: jeremiah-diephuis.jpg
   phone: +43 (0)50804 22122
   email: jeremiah.diephuis@fh-hagenberg.at
-  projects: [Play!UC, ZIEGE, Game Changer, PIEdeck]
+  projects: [Play!UC, ZIEGE, Game Changer, PIEdeck, Cargo]
 
 - name: Wolfgang Hochleitner, MSc
   group: 2
@@ -66,7 +66,7 @@
   photo: georgi-kostov.jpg
   phone: +43 (0)50804 27166
   email: georgi.kostov@fh-hagenberg.at
-  projects: [Play!UC, Game Changer, PIEdeck]
+  projects: [Play!UC, Game Changer, PIEdeck, Cargo]
 
 - name: Jens Cherukad, BSc
   group: 4
@@ -74,13 +74,20 @@
   phone: +43 (0)50804 27167
   email: jens.cherukad@fh-hagenberg.at
   projects: [InterPlayces]
+  
+- name: Lorenz Krautgartner, BSc
+  group: 4
+  photo: default.jpg
+  phone: +43 (0)50804 27167
+  email: lorenz.krautgartner@students.fh-hagenberg.at
+  projects: [Cargo]
 
 - name: Daniel Rammer, BSc
   group: 4
   photo: daniel-rammer.jpg
   phone: +43 (0)50804 27167
   email: daniel.rammer@students.fh-hagenberg.at
-  projects: [GEMPLAY, BlindBits]
+  projects: [GEMPLAY, BlindBits, Cargo]
 
 - name: Moritz Rührlinger, BSc
   group: 4
