@@ -4,6 +4,7 @@ date: 2014-02-05
 category: research
 start: 2014-02-05
 end: 2015-02-04
+subpage: false
 titleimage: "mvp-preview.jpg"
 gallery:
   - file: "mvp-phone.jpg"

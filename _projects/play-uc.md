@@ -4,6 +4,7 @@ date: 2014-07-01
 category: research
 start: 2014-07-01
 end: 2017-06-30
+subpage: false
 titleimage: "play-uc-preview.jpg"
 gallery:
   - file: "play-uc-citysynergy.jpg"

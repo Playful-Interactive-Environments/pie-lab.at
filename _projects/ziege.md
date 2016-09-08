@@ -4,6 +4,7 @@ date: 2013-10-01
 category: research
 start: 2013-10-01
 end: 2014-09-30
+subpage: false
 titleimage: "ziege-preview.jpg"
 gallery:
   - file: "ziege-teilnehmerin.jpg"

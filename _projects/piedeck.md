@@ -3,6 +3,7 @@ title: PIEdeck
 date: 2016-04-22
 category: internal Research
 release: 2016-04-22
+subpage: false
 titleimage: "piedeck-preview.jpg"
 gallery:
   - file: "piedeck-zagreb01.jpg"
