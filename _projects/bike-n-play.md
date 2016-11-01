@@ -26,12 +26,13 @@ The main aspects for the success of the project proposal and its continued utili
 * Wolfgang Hochleitner (project leader)
 * Andrea Aschauer
 * Jürgen Hagler
+* Daniel Rammer
 
 ## Project Partners
 
 * [AIT Austrian Institute of Technology](http://www.ait.ac.at/)
 * [Austrian Players League](http://www.apl.at/)
-* [Fluidtime](http://www.fluidtime.com/)
+* [Fluidtime](https://www.fluidtime.com/)
 * [ovos media](http://www.ovos.at/)
 
 ## Website
