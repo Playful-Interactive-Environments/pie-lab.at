@@ -67,7 +67,21 @@
   phone: +43 (0)50804 27167
   email: jens.cherukad@fh-hagenberg.at
   projects: [InterPlayces]
-  
+
+- name: Florian Friedrich
+  group: 4
+  photo: florian-friedrich.jpg
+  phone: +43 (0)50804 27167
+  email: florian.friedrich@students.fh-hagenberg.at
+  projects: [Combined Card Game]
+
+- name: Michael Klammer
+  group: 4
+  photo: default.jpg
+  phone: +43 (0)50804 27167
+  email: michael.klammer@students.fh-hagenberg.at
+  projects: [Combined Card Game]
+
 - name: Lorenz Krautgartner, BSc
   group: 4
   photo: lorenz-krautgartner.jpg
