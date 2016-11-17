@@ -18,6 +18,7 @@ Complex urban development projects require the involvement of multiple stakehold
 
 * Jeremiah Diephuis (project leader)
 * Georgi Kostov
+* Philip Sonnleitner
 
 ## Project Partners
 

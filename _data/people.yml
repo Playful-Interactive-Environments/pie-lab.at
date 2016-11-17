@@ -109,6 +109,13 @@
   phone: +43 (0)50804 27167
   email: areen.said@fh-hagenberg.at
   projects: [BlindBits]
+  
+- name: Philip Sonnleitner, BSc
+  group: 4
+  photo: philip-sonnleitner.jpg
+  phone: +43 (0)50804 27167
+  email: philip.sonnleitner@fh-hagenberg.at
+  projects: [Play!UC, PIEdeck]
 
 - name: Michael Ablinger, BSc
   group: 5
@@ -144,13 +151,6 @@
   phone:
   email:
   projects: [Mühlviertel Pur App]
-
-- name: Philip Sonnleitner, BSc
-  group: 5
-  photo: philip-sonnleitner.jpg
-  phone:
-  email:
-  projects: [PIEdeck]
 
 - name: Sarah Troschl, MSc
   group: 5
