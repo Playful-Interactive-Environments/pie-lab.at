@@ -29,7 +29,7 @@ The main character is Limus, a sorcerer's apprentice. He has to find three magic
 * Jeremiah Diephuis (project leader)
 * Wolfgang Hochleitner (project leader)
 * Michael Lankes (project leader)
-* Clemens Hauzenberger
+* Gerald Hauzenberger
 * René Ksuz
 * Thomas Peintner
 * Magdalena Soukup
