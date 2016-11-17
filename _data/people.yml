@@ -3,14 +3,14 @@
   photo: juergen-hagler.jpg
   phone: +43 (0)50804 22124
   email: juergen.hagler@fh-hagenberg.at
-  projects: [Bike'N'Play, InterPlayces, PIEdeck]
+  projects: [Bike'N'Play, InterPlayces, Augmented Reality Town Square, PIEdeck]
 
 - name: Dr. Michael Lankes
   group: 1
   photo: michael-lankes.jpg
   phone: +43 (0)50804 22133
   email: michael.lankes@fh-hagenberg.at
-  projects: [GEMPLAY, InterPlayces, Mühlviertel Pur App]
+  projects: [GEMPLAY, InterPlayces, Augmented Reality Town Square, Mühlviertel Pur App]
 
 - name: Jeremiah Diephuis, MA
   group: 2
@@ -115,7 +115,7 @@
   photo: philip-sonnleitner.jpg
   phone: +43 (0)50804 27167
   email: philip.sonnleitner@fh-hagenberg.at
-  projects: [Play!UC, PIEdeck]
+  projects: [Play!UC, Augmented Reality Town Square, PIEdeck]
 
 - name: Michael Ablinger, BSc
   group: 5
