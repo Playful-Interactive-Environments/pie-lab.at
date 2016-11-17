@@ -20,9 +20,9 @@ gallery:
     preview: "limelight-video-150.jpg"
 ---
 
-Limelight ist ein innovatives 2D-Plattformer Spiel mit mehreren Spielerrollen in einem co-located, large Display Setting. Das Spiel erfordert einen physisch groß angelegten Interaktionsraum und wurde für 1-10 Spieler konzipiert.
+Limelight is an innovative 2D platformer game supporting multiple player roles in a co-located, large public display setting. The game requires a a physically large interaction space and was designed for 1-10 players.
 
-Der Hauptakteur ist ein kleiner Zauberer namens Limus. Dieser muss in einem dunklen Keller drei magische Steine finden, um die bösen SMorcS-Monster zu vertreiben. Während ein Spieler mittels Gamepad in seine Rolle schlüpft, können andere Anwesende ihn bei seiner Suche nach den Steinen unterstützen oder auch hindern. Via Trackingsystem werden Spieler erfasst, bilden Lichtkugeln (Lumees) und erleuchten so für Limus dunkle Kellerpassagen. Zuschauer können zusätzlich per SMS oder E-Mail SMorcS ins Spiel bringen und so die Aufgabe für Limus etwas schwerer gestalten.
+The main character is Limus, a sorcerer's apprentice. He has to find three magic stones in a dark cellar to vanquish the evil SMorccS. While one player controls Limus with a gamepad, other people can support or obstruct his quest for the stones. Players are tracked by a laser ranging system and spawn the so called Lumees. They illuminate the dark cellar for Limus. Spectators can also use text messages or emails to create SMorcS in the game and make Limus' quest a little more difficult.
 
 ## Team
 
@@ -40,4 +40,4 @@ Der Hauptakteur ist ein kleiner Zauberer namens Limus. Dieser muss in einem dunk
 
 ## Website
 
-[Limelight at u19 Create Your World](http://www.aec.at/u19/2012/07/13/limelight/)
+[Limelight at u19 Create Your World](http://www.aec.at/u19/en/2012/07/13/limelight/)
