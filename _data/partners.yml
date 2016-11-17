@@ -12,7 +12,7 @@
 
 - name: Bundes-Blindenerziehungsinstitut
   logo: bbi.jpg
-  link: http://www.bbi.at/
+  link: https://www.bbi.at/
 
 - name: CURE &ndash; Center for Usability Research & Engineering
   logo: cure.jpg
@@ -24,7 +24,7 @@
 
 - name: Fluidtime
   logo: fluidtime.jpg
-  link: http://www.fluidtime.com/
+  link: https://www.fluidtime.com/
 
 - name: Johannes Kepler Universität Linz &ndash; Department of Work, Organizational and Media Psychology
   logo: jku.jpg
@@ -45,6 +45,10 @@
 - name: Perspectra
   logo: perspectra.jpg
   link: http://www.perspectra.at/
+  
+- name: rudy games
+  logo: rudy_games.jpg
+  link: http://www.rudy-games.com/
 
 - name: SimpliFlow
   logo: simpliflow.jpg
