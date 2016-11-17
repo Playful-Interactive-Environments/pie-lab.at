@@ -15,6 +15,9 @@ gallery:
   - file: "clockworld-tracking.jpg"
     preview: "clockworld-tracking-150.jpg"
     description: "Tracking a person with Microsoft's Kinect"
+  - video: "M-XtHT0fWoo"
+    type: "youtube"
+    preview: "clockworld-video-150.jpg"
 ---
 
 The Virtual Reality installation Clockworld features the experience of controlling a virtual android on two levels: its material form and its internal mental constructs, the latter of which can be shaped by visitors´ interactions with the installation.
