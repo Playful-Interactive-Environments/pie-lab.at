@@ -7,9 +7,12 @@ end: 2017-09-30
 subpage: false
 titleimage: "ccg-preview.jpg"
 gallery:
-  - file: "ccg-tablet.jpg"
-    preview: "ccg-tablet-150.jpg"
-    description: "A tablet representing the digital part of the combined card game"
+  - file: "ccg-cards-device.jpg"
+    preview: "ccg-cards-device-150.jpg"
+    description: "Playing cards and a mobile device used in the first prototyping sessions."
+  - file: "ccg-cards-.jpg"
+    preview: "ccg-cards--150.jpg"
+    description: "Early prototype versions of playing cards used to test the mechanics."
 ---
 
 ## Game Design and Technological Feasibility of a Combined Card Game
