@@ -23,7 +23,11 @@ gallery:
 
 ## Gamification Guidelines für mobile Tourismusanwendungen
 
-Der Projektpartner Perspectra Kommunal- u. Regionalentwicklung GmbH operiert im Bereich mobiler Tourismus-Applikationen (App: Mühlviertel Pur) und möchte spielerische Ansätze zur Motivation der Benutzer und zur Steigerung der Applikationsattraktivität in ihre Lösungen einbinden. Die Brauchbarkeit des Einsatzes von spielerischen Mechanismen im Tourismus wird in mehreren wissenschaftlichen Publikationen erwähnt. Es fehlt jedoch an konkreten Anhaltspunkten, damit jene Art von Anwendnungen brauchbar und effizient umgesetzt werden können. So ist beispielsweise unklar, welche spezifischen Spielmechanismen sich zur Steigerung der Aktivität in einer mobilen Torismus-App eignen. Des Weiteren finden sich nur wenig Informationen, wie das Game Design bzw. Gamification-Ansätze in eine bestehende App verwoben werden können. Dabei soll im Rahmen des Innovationsschecks Plus Forschungsprojekts folgende Frage beantwortet werden: Welche Gamification-Designstrategien können für eine mobile Tourismus-App angewandt werden, um deren Attraktivität für die EndnutzerInnen zu steigern und gleichzeitig einen Mehrwert für die beteiligten Unternehmen zu bieten?
+Perspectra Kommunal- u. Regionalentwicklung GmbH was tasked with developing a mobile tourism application for the local tourist association *Mühlviertel Pur*. To increase the motivation for using this app and its attractiveness in general, gamified approaches were to be included in the design. Scientific literature indicates the applicability of these approaches for touristic purposes although there are no concrete examples on how to employ them.
+
+This project aims to identify gamification strategies that work within the context of tourism to create an additional benefit for guests as well as the businesses involved in providing the touristic infrastructure.
+
+The results of the research were then used to create a mobile app for iOS and Android that was successfully employed for over a year. As the organization *Mühlviertel Pur* has been integrated into a joint Mühlviertel tourist association, the provided app has been discontinued and removed for downloading by mid-2016.
 
 ## Team
 
@@ -35,9 +39,3 @@ Der Projektpartner Perspectra Kommunal- u. Regionalentwicklung GmbH operiert im 
 ## Project Partners
 
 * [Perspectra Kommunal- und Regionalentwicklung GmbH](http://www.perspectra.at/)
-* [Mühlviertel Pur](http://www.muehlviertel-pur.at/)
-
-## Websites
-
-* [Mühlviertel Pur App on Google Play](https://play.google.com/store/apps/details?id=at.perspectra.apps.android.mvpur)
-* [Mühlviertel Pur App on the App Store](https://itunes.apple.com/de/app/muhlviertel-pur/id909225713)
