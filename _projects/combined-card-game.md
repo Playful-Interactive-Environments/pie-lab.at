@@ -10,8 +10,8 @@ gallery:
   - file: "ccg-cards-device.jpg"
     preview: "ccg-cards-device-150.jpg"
     description: "Playing cards and a mobile device used in the first prototyping sessions."
-  - file: "ccg-cards-.jpg"
-    preview: "ccg-cards--150.jpg"
+  - file: "ccg-cards.jpg"
+    preview: "ccg-cards-150.jpg"
     description: "Early prototype versions of playing cards used to test the mechanics."
 ---
 
