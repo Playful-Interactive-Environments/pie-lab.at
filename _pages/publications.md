@@ -5,6 +5,14 @@ permalink: /publications/
 
 # Reviewed and Invited Publications
 
+## 2016
+
+M. Busch, E. Mattheiss, R. Orji, P. Fröhlich, M. Lankes, M. Tscheligi - *Player Type Models: Towards Empirical Validation* - Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2016), San Jose, United States of America, 2016, pp. 1835-1841 [[link](http://dl.acm.org/citation.cfm?id=2892399)]
+
+M. Lankes, B. Stiglbauer - *GazeAR: Mobile Gaze-Based Interaction in the Context of Augmented Reality Games* - Augmented Reality, Virtual Reality, and Computer Graphics, Lecce, Italy, 2016, pp. 397-406 [[link](http://link.springer.com/chapter/10.1007/978-3-319-40621-3_28)]
+
+E. Mattheiss, D. Sellitsch, M. Busch, W. Hochleitner, J. Froschauer, M. Tscheligi - *Missing the Forest for the Trees: Balancing Personalization Costs and Benefits in Persuasive Games* - Proceedings of the International Workshop on Personalization in Persuasive Technology (PPT’16), Salzburg, Austria, Österreich, 2016, pp. 40-43 [[link](http://ceur-ws.org/Vol-1582/7Mattheis.pdf)]
+
 ## 2015
 
 M. Lankes, W. Hochleitner, D. Rammer, M. Busch, E. Mattheiss, M. Tscheligi - *From Classes to Mechanics: Player Type Driven Persuasive Game Development* - CHI PLAY '15, London, United Kingdom of Great Britain and Northern Ireland, 2015, pp. 595-600 [[link](http://dl.acm.org/citation.cfm?id=2810316)]
@@ -64,6 +72,16 @@ C. Obermair, W. Reitberger, A. Meschtscherjakov, M. Lankes, M. Tscheligi - *perF
 
 
 # Journals / Book Chapters
+
+## 2016
+
+M. Busch, E. Mattheiss, W. Hochleitner, C. Hochleitner, M. Lankes, P. Fröhlich, R. Orji, M. Tscheligi - *Using Player Type Models for Personalized Game Design – An Empirical Investigation* - Interaction Design and Architecture(s) Journal, Vol. 1, No. 28, 2016, pp. 145-163 [[link](http://www.mifav.uniroma2.it/inevent/events/idea2010/doc/28_8.pdf)]
+
+B. Maurer, M. Lankes, B. Stiglbauer, M. Tscheligi - *EyeCo: Effects of Shared Gaze on Social Presence in an Online Cooperative Game* - Entertainment Computing - ICEC 2016, Vienna, Austria, 2016, pp. 102-114 [[link](http://link.springer.com/chapter/10.1007/978-3-319-46100-7_9)]
+
+E. Hackner, M. Lankes - *Mindtraining: Playful Interaction Techniques for People with Dementia* - Entertainment Computing - ICEC 2016, Vienna, Austria, 2016, pp. 223-228 [[link](http://link.springer.com/chapter/10.1007/978-3-319-46100-7_21)]
+
+A. Golombek, M. Lankes, J. Hagler - *Vancouver Maneuver: Designing a Cooperative Augmented Reality Board Game* - Entertainment Computing - ICEC 2016, Vienna, Austria, 2016, pp. 286-289 [[link](http://link.springer.com/chapter/10.1007/978-3-319-46100-7_31)]
 
 ## 2015
 
