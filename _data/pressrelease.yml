@@ -1,3 +1,10 @@
+- title: "Design Week: Wenn virtuelle auf echte Realität trifft"
+  date: "2016-10-06"
+  titleimage: "/projects/piedeck/piedeck-preview.jpg"
+  link:
+    label: "futurezone.at"
+    url: "https://futurezone.at/digital-life/design-week-wenn-virtuelle-auf-echte-realitaet-trifft/224.559.240"
+
 - title: "Raumschiff-Ausflug mit Oma als Co-Pilotin"
   date: "2016-07-06"
   titleimage: "/projects/interplayces/interplayces-preview.jpg"
@@ -30,5 +37,12 @@
   date: "2015-01-21"
   titleimage: "/projects/gemplay/gemplay-preview.jpg"
   link:
-    label: "futurezone.com"
-    url: "http://futurezone.at/science/gemplay-wie-spiele-mann-und-frau-zum-sport-motivieren/108.319.101"
+    label: "futurezone.at"
+    url: "https://futurezone.at/science/gemplay-wie-spiele-mann-und-frau-zum-sport-motivieren/108.319.101"
+
+- title: "Mit neuer App zum König des Mühlviertels werden"
+  date: "2014-10-06"
+  titleimage: "/projects/muehlviertel-pur-app/mvp-preview.jpg"
+  link:
+    label: "nachrichten.at"
+    url: "http://www.nachrichten.at/oberoesterreich/muehlviertel/Mit-neuer-App-zum-Koenig-des-Muehlviertels-werden;art69,1514840"
