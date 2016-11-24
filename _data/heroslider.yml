@@ -32,3 +32,10 @@
   more:
     label: "Learn more"
     link:  "/projects/piedeck/"
+
+- file: "projects/invisible-walls/invisible-walls-audience.jpg"
+  title: "Invisible Walls"
+  subtitle: "An experimental interaction space<br>for bridging real and virtual worlds."
+  more:
+    label: "Learn more"
+    link:  "/projects/invisible-walls/"
