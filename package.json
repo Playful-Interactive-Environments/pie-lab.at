@@ -1,45 +1,59 @@
 {
   "name": "pielab",
-  "version": "1.0.0",
-  "description": "pielab.fh-hagenberg.at",
+  "version": "1.1.0",
+  "description": "Packaging module for the Playful Interactive Environments website.",
   "scripts": {
     "test": "gulp test"
   },
-  "author": "Thomas Heller",
+  "author": {
+    "name" : "Thomas Heller",
+    "email" : "office@thomasheller.net",
+    "url" : "http://thomasheller.net/"
+  },
+  "contributors": [
+    {
+    "name": "Wolfgang Hochleitner",
+    "email": "wolfgang@hochleitner.cc",
+    "url": "https://about.me/wolfgang.hochleitner"
+  }
+  ],
   "license": "ISC",
   "devDependencies": {
-    "babelify": "^6.3.0",
-    "browserify": "^11.0.1",
+    "babelify": "^7.3.0",
+    "browserify": "^13.1.1",
     "chalk": "^1.1.1",
     "dateformat": "^1.0.11",
-    "eslint-config-airbnb": "^2.0.0",
+    "eslint-plugin-import": "^2.1.0",
+    "eslint-plugin-jsx-a11y": "^3.0.1",
+    "eslint-plugin-react": "^6.6.0",
+    "eslint-config-airbnb": "^13.0.0",
     "gulp": "^3.9.0",
     "gulp-buffer": "0.0.2",
     "gulp-cached": "^1.1.0",
     "gulp-concat": "^2.6.0",
-    "gulp-cssnano": "^1.1.0",
-    "gulp-eslint": "^1.1.1",
-    "gulp-filter": "^3.0.1",
-    "gulp-newer": "^0.5.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-eslint": "^3.0.1",
+    "gulp-filter": "^4.0.0",
+    "gulp-newer": "^1.3.0",
     "gulp-plumber": "^1.0.1",
     "gulp-remember": "^0.3.0",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^2.0.4",
     "gulp-sourcemaps": "^1.5.2",
-    "gulp-uglify": "^1.4.0",
+    "gulp-uglify": "^2.0.0",
     "gulp.spritesmith": "^6.0.0",
     "gutil": "^1.6.4",
-    "merge2": "^0.3.6",
+    "merge2": "^1.0.2",
     "require-dir": "^0.3.0",
     "run-sequence": "^1.1.4",
-    "stylelint": "^2.3.6",
-    "stylelint-config-wordpress": "^0.2.0",
+    "stylelint": "^7.6.0",
+    "stylelint-config-wordpress": "^9.1.1",
     "through2": "^2.0.0",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.3.1",
-    "yargs": "^3.23.0"
+    "yargs": "^6.4.0"
   },
   "dependencies": {
-    "jquery": "^2.1.4"
+    "jquery": "^3.1.1"
   }
 }
