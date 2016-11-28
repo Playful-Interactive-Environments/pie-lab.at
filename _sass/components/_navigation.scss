@@ -5,7 +5,7 @@
   flex-wrap: wrap;
 }
 
-@media(min-width: $nav-breakpoint) {
+@media (min-width: $nav-breakpoint) {
 
   .nav {
     flex-wrap: nowrap;
@@ -28,7 +28,7 @@
   padding: 10px 30px;
 }
 
-@media(min-width: $nav-breakpoint) {
+@media (min-width: $nav-breakpoint) {
 
   .logo {
     flex-basis: 260px;
@@ -52,7 +52,7 @@
   cursor: pointer;
 }
 
-@media(min-width: $nav-breakpoint) {
+@media (min-width: $nav-breakpoint) {
 
   .menu_toggle {
     display: none;
@@ -93,7 +93,7 @@
   padding: 0.4em;
 }
 
-@media(min-width: $nav-breakpoint) {
+@media (min-width: $nav-breakpoint) {
 
   .nav_list {
     flex-direction: row;

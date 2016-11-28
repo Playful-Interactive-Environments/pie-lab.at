@@ -1,4 +1,5 @@
 const templates = require('./templates');
+
 let previewElements;
 let mainElement;
 

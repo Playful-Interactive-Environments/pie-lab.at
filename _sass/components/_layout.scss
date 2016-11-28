@@ -7,18 +7,18 @@
   padding-right: 1em;
   padding-bottom: 3em;
 
-  @media(min-width: $screen-md) {
+  @media (min-width: $screen-md) {
     max-width: $screen-md - 70px;
     padding-left: 0;
     padding-right: 0;
   }
 
-  @media(min-width: $screen-lg) {
+  @media (min-width: $screen-lg) {
     margin-top: 2em;
     max-width: $screen-lg - 70px;
   }
 
-  @media(min-width: $screen-xl) {
+  @media (min-width: $screen-xl) {
     max-width: $screen-xl - 70px;
   }
 }

@@ -1,7 +1,7 @@
 .projects-list {
   justify-content: space-around;
 
-  @media(min-width: $screen-sm) {
+  @media (min-width: $screen-sm) {
     justify-content: flex-start;
   }
 }
@@ -15,18 +15,18 @@
   max-height: 250px;
   margin-bottom: 2em;
 
-  @media(min-width: $screen-sm) {
+  @media (min-width: $screen-sm) {
     flex-basis: calc(50% - 1em);
     margin: 1em 0.5em;
     margin-bottom: 0;
     max-height: 100%;
   }
 
-  @media(min-width: $screen-lg) {
+  @media (min-width: $screen-lg) {
     flex-basis: calc(33.33333% - 1em);
   }
 
-  @media(min-width: $screen-xl) {
+  @media (min-width: $screen-xl) {
     flex-basis: calc(25% - 1em);
   }
 

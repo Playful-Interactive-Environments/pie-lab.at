@@ -14,4 +14,4 @@ module.exports = (function menu() {
   return {
     init: initMenu,
   };
-})();
+}());

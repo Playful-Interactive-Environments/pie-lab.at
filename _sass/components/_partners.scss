@@ -2,7 +2,7 @@
   margin-top: 1.5em;
   justify-content: space-around;
 
-  @media(min-width: $screen-sm) {
+  @media (min-width: $screen-sm) {
     justify-content: flex-start;
   }
 }
@@ -14,7 +14,7 @@
   margin-right: 2em;
   margin-bottom: 2em;
 
-  @media(min-width: $screen-sm) {
+  @media (min-width: $screen-sm) {
     flex-grow: 0;
     flex-basis: 150px;
     min-width: 0;
