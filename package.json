@@ -6,16 +6,16 @@
     "test": "gulp test"
   },
   "author": {
-    "name" : "Thomas Heller",
-    "email" : "office@thomasheller.net",
-    "url" : "http://thomasheller.net/"
+    "name": "Thomas Heller",
+    "email": "office@thomasheller.net",
+    "url": "http://thomasheller.net/"
   },
   "contributors": [
     {
-    "name": "Wolfgang Hochleitner",
-    "email": "wolfgang@hochleitner.cc",
-    "url": "https://about.me/wolfgang.hochleitner"
-  }
+      "name": "Wolfgang Hochleitner",
+      "email": "wolfgang@hochleitner.cc",
+      "url": "https://about.me/wolfgang.hochleitner"
+    }
   ],
   "license": "ISC",
   "devDependencies": {
@@ -23,10 +23,10 @@
     "browserify": "^13.1.1",
     "chalk": "^1.1.1",
     "dateformat": "^1.0.11",
-    "eslint-plugin-import": "^2.1.0",
-    "eslint-plugin-jsx-a11y": "^3.0.1",
-    "eslint-plugin-react": "^6.6.0",
     "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.1.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.6.0",
     "gulp": "^3.9.0",
     "gulp-buffer": "0.0.2",
     "gulp-cached": "^1.1.0",
@@ -55,5 +55,9 @@
   },
   "dependencies": {
     "jquery": "^3.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Playful-Interactive-Environments/pie.fh-hagenberg.at.git"
   }
 }
