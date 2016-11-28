@@ -63,3 +63,9 @@ Open a Terminal window and go to the directory where you cloned the repository t
 
 The build workflow uses gulp. To start the server an all necessary tools, open a Terminal window, navigate to the cloned repository and enter `gulp dev`. This should start everything including your Jekyll server. To access the website go to <http://localhost:4000/pie.fh-hagenberg.at>. 
 Should the gulp command not succeed, you might have to install gulp globally again. Just type `npm install –global gulp`.
+
+## Available Gulp Tasks
+
+* `gulp dev`: Development mode that watches the directory for changes.
+* `gulp build`: Build mode that creates a current build of the website in the `_site` directory.
+* `gulp test`: Test mode that only runs eslint and stylelint to check for errors.
