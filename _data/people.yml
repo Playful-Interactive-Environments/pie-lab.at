@@ -88,6 +88,13 @@
   phone: +43 (0)50804 27167
   email: michael.klammer@students.fh-hagenberg.at
   projects: [Combined Card Game]
+  
+- name: Patrick Krinninger
+  group: 4
+  photo: patrick-krinninger.jpg
+  phone: +43 (0)50804 27167
+  email: patrick.krinninger@students.fh-hagenberg.at
+  projects:
 
 - name: Lorenz Krautgartner, BSc
   group: 4
@@ -109,20 +116,6 @@
   phone: +43 (0)50804 27167
   email: moritz.ruehrlinger@students.fh-hagenberg.at
   projects: [InterPlayces, GEMPLAY]
-
-- name: Areen Said, MSc
-  group: 4
-  photo: areen-said.jpg
-  phone: +43 (0)50804 27167
-  email: areen.said@fh-hagenberg.at
-  projects: [BlindBits]
-  
-- name: Philip Sonnleitner, BSc
-  group: 4
-  photo: philip-sonnleitner.jpg
-  phone: +43 (0)50804 27167
-  email: philip.sonnleitner@fh-hagenberg.at
-  projects: [Play!UC, Augmented Reality Town Square, PIEdeck]
 
 - name: Michael Ablinger, BSc
   group: 5
@@ -158,6 +151,20 @@
   phone:
   email:
   projects: [Mühlviertel Pur App]
+
+- name: Areen Said, MSc
+  group: 5
+  photo: areen-said.jpg
+  phone:
+  email:
+  projects: [BlindBits]
+
+- name: Philip Sonnleitner, BSc
+  group: 5
+  photo: philip-sonnleitner.jpg
+  phone:
+  email:
+  projects: [Play!UC, Augmented Reality Town Square, PIEdeck]
 
 - name: Sarah Troschl, MSc
   group: 5
