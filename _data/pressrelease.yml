@@ -4,7 +4,7 @@
   link:
     label: "futurezone.at"
     url: "https://futurezone.at/digital-life/design-week-wenn-virtuelle-auf-echte-realitaet-trifft/224.559.240"
-
+    
 - title: "Raumschiff-Ausflug mit Oma als Co-Pilotin"
   date: "2016-07-06"
   titleimage: "/projects/interplayces/interplayces-preview.jpg"
@@ -18,6 +18,13 @@
   link:
     label: "derStandard.at"
     url: "http://derstandard.at/2000039998315/Computerspiele-Fuer-ein-virtuelles-Schwert-in-die-realen-Pedale-treten"
+
+- title: "Virtualni spektakl usred Zagreba - interaktivna instalacija PIEdeck"
+  date: "2016-06-07"
+  titleimage: "/projects/piedeck/piedeck-preview.jpg"
+  link:
+    label: "Direktno.hr"
+    url: "http://direktno.hr/zivot/virtualni-spektakl-usred-zagreba-interaktivna-instalacija-piedeck-50414/"
 
 - title: "Orientierung für blinde Schüler mit Spaßfaktor"
   date: "2015-05-29"
