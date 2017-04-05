@@ -26,6 +26,8 @@ exclude: [
   "gulpfile"
 ]
 
+gems:
+  - jekyll-feed
 
 collections:
   pages:
