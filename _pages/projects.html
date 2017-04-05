@@ -3,22 +3,27 @@ layout: page
 permalink: /projects/
 ---
 
-<div class="projects-list flex-wrapper">
-{% assign sortedProjects = site.projects | where: "subpage",false | sort: "date" | reverse %}
-{% for project in sortedProjects %}
-  <div class="projects-item">
-    {% if project.titleimage %}
-    {% assign remote = project.titleimage | slice: 0, 4 %}
-      {% if remote == "http" %}
-        {% assign imageurl = project.titleimage %}
-      {% else %}
-        {% assign imageurl = project.titleimage |prepend: project.url | prepend: site.baseurl %}
-      {% endif %}
-    {% else %}
-      {% assign imageurl = "//placehold.it/300x500?text=" |append: project.title |replace: "'", '' | uri_escape %}
-    {%endif%}
-    <a href="{{project.url | prepend: site.baseurl}}" title="{{project.title}}" style="background-image: url({{imageurl}})" data-title="{{project.title}}">
-    </a>
-  </div>
-{% endfor %}
+<div class="wrapper projects">
+  {% for projectCategory in site.data.projectcategories %}
+    {% assign projectInCategory = site.projects | where: "category", projectCategory.id | sort: "date" | reverse %}
+    <h2 class="projects-grouplabel">{{projectCategory.labelplural}}</h2>
+    <div class="projects-group flex-wrapper">
+    {% for project in projectInCategory %}
+      <div class="projects-item">
+        {% if project.titleimage %}
+          {% assign remote = project.titleimage | slice: 0, 4 %}
+          {% if remote == "http" %}
+            {% assign imageurl = project.titleimage %}
+          {% else %}
+            {% assign imageurl = project.titleimage | prepend: project.url | prepend: site.baseurl %}
+          {% endif %}
+        {% else %}
+          {% assign imageurl = "//placehold.it/300x500?text=" | append: project.title |replace: "'", '' | uri_escape %}
+        {%endif%}
+        <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}" style="background-image: url({{imageurl}})" data-title="{{ project.title }}">
+        </a>
+      </div>
+    {% endfor %}
+    </div>
+  {% endfor %}
 </div>

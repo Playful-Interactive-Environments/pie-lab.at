@@ -1,7 +1,7 @@
 ---
 title: GEMPLAY
 date: 2014-07-01
-category: research
+category: 1
 start: 2014-07-01
 end: 2016-12-31
 subpage: false

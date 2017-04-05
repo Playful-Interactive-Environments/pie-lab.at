@@ -5,8 +5,8 @@ permalink: /people/
 <div class="wrapper people">
   {% for staffgroup in site.data.staffgroups %}
     {% assign staffInGroup = site.data.people | where: "group", staffgroup.id %}
-    <h2 class="people-grouplabel">{{staffgroup.label}}</h2>
-    <div class="people-group">
+    <h2 class="people-grouplabel">{{ staffgroup.label }}</h2>
+    <div class="people-group flex-wrapper">
       {% for staff in staffInGroup %}
       {% include staffcard.html data=staff %}
       {% endfor %}

@@ -1,7 +1,7 @@
 ---
 title: Play!UC
 date: 2014-07-01
-category: research
+category: 1
 start: 2014-07-01
 end: 2017-06-30
 subpage: false

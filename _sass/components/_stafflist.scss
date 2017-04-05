@@ -3,8 +3,6 @@
 }
 
 .people-group {
-  display: flex;
-  flex-wrap: wrap;
   margin-top: 1.5em;
 
   @media (min-width: $screen-sm) {

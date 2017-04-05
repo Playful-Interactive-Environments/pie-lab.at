@@ -1,7 +1,7 @@
 ---
 title: Mühlviertel Pur App
 date: 2014-02-05
-category: research
+category: 1
 start: 2014-02-05
 end: 2015-02-04
 subpage: false

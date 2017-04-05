@@ -1,7 +1,7 @@
 ---
 title: Combined Card Game
 date: 2016-10-01
-category: research
+category: 1
 start: 2016-10-01
 end: 2017-09-30
 subpage: false

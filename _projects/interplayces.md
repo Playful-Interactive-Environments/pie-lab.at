@@ -1,7 +1,7 @@
 ---
 title: InterPlayces
 date: 2016-01-01
-category: research
+category: 1
 start: 2016-01-01
 end: 2017-12-31
 subpage: false

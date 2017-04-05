@@ -1,7 +1,7 @@
 ---
 title: Augmented Reality Town Square
 date: 2016-03-01
-category: research
+category: 1
 start: 2016-03-01
 end: 2017-05-31
 subpage: false

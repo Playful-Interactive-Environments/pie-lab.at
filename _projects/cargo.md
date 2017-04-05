@@ -1,7 +1,7 @@
 ---
 title: Cargo
 date: 2016-09-08
-category: student
+category: 3
 release: 2016-09-08
 subpage: false
 titleimage: "cargo-preview.jpg"

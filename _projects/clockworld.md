@@ -1,7 +1,7 @@
 ---
 title: Clockworld
 date: 2013-09-05
-category: student
+category: 3
 release: 2013-09-05
 subpage: false
 titleimage: "clockworld-preview.jpg"

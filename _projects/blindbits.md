@@ -1,7 +1,7 @@
 ---
 title: BlindBits
 date: 2014-11-01
-category: research
+category: 1
 start: 2014-11-01
 end: 2016-10-31
 subpage: false

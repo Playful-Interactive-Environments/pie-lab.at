@@ -1,7 +1,7 @@
 ---
 title: Invisible Walls
 date: 2016-09-30
-category: internal research
+category: 2
 release: 2016-09-30
 subpage: false
 titleimage: "invisible-walls-preview.jpg"
