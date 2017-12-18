@@ -7,8 +7,8 @@ end: 2017-06-30
 subpage: false
 titleimage: "playuc-energysafari.jpg"
 gallery:
-  - file: "playuc-energysafari.jpg"
-    preview: "playuc-energysafari-150.jpg"
+  - file: "playuc_energysafari.jpg"
+    preview: "playuc_energysafari-150.jpg"
     description: "A board game created at a Play!UC workshop"
 ---
 
