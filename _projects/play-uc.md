@@ -5,10 +5,10 @@ category: 1
 start: 2014-07-01
 end: 2017-06-30
 subpage: false
-titleimage: "play-uc-preview.jpg"
+titleimage: "playuc-energysafari.jpg"
 gallery:
-  - file: "play-uc-citysynergy.jpg"
-    preview: "play-uc-citysynergy-150.jpg"
+  - file: "playuc-energysafari.jpg"
+    preview: "playuc-energysafari-150.jpg"
     description: "A board game created at a Play!UC workshop"
 ---
 
