@@ -3,7 +3,7 @@ title: Play!UC
 date: 2014-07-01
 category: 1
 start: 2014-07-01
-end: 2017-06-30
+end: 2018-05-31
 subpage: false
 titleimage: "playuc_energysafari_preview.jpg"
 gallery:
@@ -34,7 +34,6 @@ Complex urban development projects require the involvement of multiple stakehold
 * [University of Groningen](http://www.rug.nl/)
 * [Hasselt University](http://www.uhasselt.be/)
 * [Green City Lab Vienna](http://www.greencitylab.at/)
-* [Ars Electronica Center](http://www.aec.at/)
 
 ## Website
 
