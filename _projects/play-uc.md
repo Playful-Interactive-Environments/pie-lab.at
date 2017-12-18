@@ -6,16 +6,16 @@ start: 2014-07-01
 end: 2017-06-30
 subpage: false
 titleimage: "playuc-energysafari.jpg"
-gallery:
+gallery: 
  - file: "playuc_energysafari.jpg"
     preview: "playuc_energysafari-150.jpg"
-    description: "A board game for about energy planning in Vienna."
+    description: "A board game for about energy planning in Vienna." 
  - file: "playuc_policity.jpg"
     preview: "playuc_policity-150.jpg"
-    description: "A multiplayer augmented reality game about urban policy."
+    description: "A multiplayer augmented reality game about urban policy." 
  - file: "playuc_policity_screen.jpg"
     preview: "playuc_policity_screen-150.jpg"
-    description: "A multiplayer augmented reality game about urban policy."
+    description: "A multiplayer augmented reality game about urban policy." 
  - file: "playuc_floatingcity.jpg"
     preview: "playuc_floatingycity-150.jpg"
     description: "A gamified idee generation activity for public displays."
