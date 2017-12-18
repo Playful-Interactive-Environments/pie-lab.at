@@ -13,11 +13,11 @@ gallery:
   - file: "playuc_policity.jpg"
     preview: "playuc_policity-150.jpg"
     description: "A multiplayer augmented reality game about urban policy."
-  - file: "playuc_policity_screen.jpg"
-    preview: "playuc_policity_screen-150.jpg"
+  - file: "playuc_policity_screen.png"
+    preview: "playuc_policity_screen-150.png"
     description: "A multiplayer augmented reality game about urban policy."
-  - file: "playuc_floatingcity.jpg"
-    preview: "playuc_floatingycity-150.jpg"
+  - file: "playuc_floatingcity.png"
+    preview: "playuc_floatingycity-150.png"
     description: "A gamified idea generation activity for public displays."
 ---
 
