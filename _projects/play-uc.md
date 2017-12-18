@@ -5,7 +5,7 @@ category: 1
 start: 2014-07-01
 end: 2017-06-30
 subpage: false
-titleimage: "playuc-energysafari_preview.jpg"
+titleimage: "playuc_energysafari_preview.jpg"
 gallery:
   - file: "playuc_energysafari.jpg"
     preview: "playuc_energysafari-150.jpg"
