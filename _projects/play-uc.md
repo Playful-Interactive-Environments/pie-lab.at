@@ -17,7 +17,7 @@ gallery:
     preview: "playuc_policity_screen-150.png"
     description: "A multiplayer augmented reality game about urban policy."
   - file: "playuc_floatingcity.png"
-    preview: "playuc_floatingycity-150.png"
+    preview: "playuc_floatingcity-150.png"
     description: "A gamified idea generation activity for public displays."
 ---
 
