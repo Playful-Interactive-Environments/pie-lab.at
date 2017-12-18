@@ -1,5 +1,5 @@
 ---
-title: Play!UC: Playing with Urban Complexity
+title: Play!UC
 date: 2014-07-01
 category: 1
 start: 2014-07-01
