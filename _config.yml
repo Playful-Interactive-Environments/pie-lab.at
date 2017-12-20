@@ -26,7 +26,7 @@ exclude: [
   "gulpfile"
 ]
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
 
