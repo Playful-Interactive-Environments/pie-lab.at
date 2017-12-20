@@ -1,16 +1,16 @@
-- name: Dr. Jürgen Hagler
-  group: 1
-  photo: juergen-hagler.jpg
-  phone: +43 (0)50804 22124
-  email: juergen.hagler@fh-hagenberg.at
-  projects: [Bike'N'Play, InterPlayces, Augmented Reality Town Square, PIEdeck]
-
 - name: Dr. Michael Lankes
   group: 1
   photo: michael-lankes.jpg
   phone: +43 (0)50804 22133
   email: michael.lankes@fh-hagenberg.at
   projects: [GEMPLAY, InterPlayces, Augmented Reality Town Square, Mühlviertel Pur App]
+
+- name: Dr. Jürgen Hagler
+  group: 1
+  photo: juergen-hagler.jpg
+  phone: +43 (0)50804 22124
+  email: juergen.hagler@fh-hagenberg.at
+  projects: [Bike'N'Play, InterPlayces, Augmented Reality Town Square, PIEdeck]
 
 - name: Jeremiah Diephuis, MA
   group: 2
@@ -61,54 +61,19 @@
   email: georgi.kostov@fh-hagenberg.at
   projects: [Play!UC, Game Changer, PIEdeck, Cargo]
 
-- name: Lukas Brunner
+- name: Victoria Absmann
   group: 4
   photo: default.jpg
   phone: +43 (0)50804 27167
-  email: lukas.brunner@students.fh-hagenberg.at
+  email: victoria.absmann@students.fh-hagenberg.at
   projects:
 
-- name: Jens Cherukad, BSc
+- name: Gabriel Mittermair
   group: 4
-  photo: jens-cherukad.jpg
+  photo: default.jpg
   phone: +43 (0)50804 27167
-  email: jens.cherukad@fh-hagenberg.at
-  projects: [InterPlayces]
-
-- name: Florian Friedrich
-  group: 4
-  photo: florian-friedrich.jpg
-  phone: +43 (0)50804 27167
-  email: florian.friedrich@students.fh-hagenberg.at
-  projects: [Combined Card Game]
-
-- name: Michael Klammer
-  group: 4
-  photo: michael-klammer.jpg
-  phone: +43 (0)50804 27167
-  email: michael.klammer@students.fh-hagenberg.at
-  projects: [Combined Card Game]
-  
-- name: Patrick Krinninger
-  group: 4
-  photo: patrick-krinninger.jpg
-  phone: +43 (0)50804 27167
-  email: patrick.krinninger@students.fh-hagenberg.at
+  email: gabriel.mittermair@students.fh-hagenberg.at
   projects:
-
-- name: Lorenz Krautgartner, BSc
-  group: 4
-  photo: lorenz-krautgartner.jpg
-  phone: +43 (0)50804 27167
-  email: lorenz.krautgartner@students.fh-hagenberg.at
-  projects: [Cargo]
-
-- name: Daniel Rammer, BSc
-  group: 4
-  photo: daniel-rammer.jpg
-  phone: +43 (0)50804 27167
-  email: daniel.rammer@students.fh-hagenberg.at
-  projects: [Bike'N'Play, GEMPLAY, BlindBits, Cargo]
 
 - name: Moritz Rührlinger, BSc
   group: 4
@@ -124,12 +89,33 @@
   email:
   projects: [Mühlviertel Pur App]
 
+- name: Lukas Brunner, BSc
+  group: 5
+  photo: lukas-brunner.jpg
+  phone:
+  email:
+  projects:
+
+- name: Jens Cherukad, BSc
+  group: 5
+  photo: jens-cherukad.jpg
+  phone:
+  email:
+  projects: [InterPlayces]
+
 - name: Andreas Friedl, MSc
   group: 5
   photo: andreas-friedl.jpg
   phone:
   email:
   projects: [GEMPLAY, Game Changer]
+
+- name: Florian Friedrich
+  group: 5
+  photo: florian-friedrich.jpg
+  phone:
+  email:
+  projects: [Combined Card Game]
 
 - name: Nico Harather, MSc
   group: 5
@@ -145,12 +131,40 @@
   email:
   projects: [ZIEGE]
 
+- name: Michael Klammer
+  group: 5
+  photo: michael-klammer.jpg
+  phone:
+  email:
+  projects: [Combined Card Game]
+
+- name: Lorenz Krautgartner, MSc
+  group: 5
+  photo: lorenz-krautgartner.jpg
+  phone:
+  email:
+  projects: [Cargo]
+
+- name: Patrick Krinninger, BSc
+  group: 5
+  photo: patrick-krinninger.jpg
+  phone:
+  email:
+  projects: [Bike'N'Play]
+
 - name: Fabian Pirklbauer, BSc
   group: 5
   photo: fabian-pirklbauer.jpg
   phone:
   email:
   projects: [Mühlviertel Pur App]
+
+- name: Daniel Rammer, MSc
+  group: 5
+  photo: daniel-rammer.jpg
+  phone:
+  email:
+  projects: [Bike'N'Play, GEMPLAY, BlindBits, Cargo]
 
 - name: Areen Said, MSc
   group: 5
