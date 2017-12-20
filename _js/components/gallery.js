@@ -29,7 +29,7 @@ const loadVideo = (type, target) => {
 };
 
 const handlePreviewClick = (e) => {
-  const target = e.target;
+  const { target } = e;
 
   switch (target.getAttribute('data-target-type')) {
     case 'img':
@@ -54,7 +54,7 @@ const attachListeners = () => {
 
 const init = () => {
   if (document.getElementsByClassName('gallery-main').length > 0) {
-    mainElement = document.getElementsByClassName('gallery-main')[0];
+    mainElement = document.querySelector('.gallery-main');
     previewElements = document.getElementsByClassName('gallery-preview-item');
     attachListeners();
   }
