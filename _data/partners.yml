@@ -1,10 +1,14 @@
+- name: Advanced Information Systems and Technology
+  logo: aist.jpg
+  link: https://aist.fh-hagenberg.at/
+
 - name: AIT Austrian Institute of Technology
   logo: ait.jpg
-  link: http://www.ait.ac.at/
+  link: https://www.ait.ac.at/#!/
 
 - name: Ars Electronica Center
   logo: aec.jpg
-  link: http://www.aec.at/
+  link: https://www.aec.at/
 
 - name: Austrian Players League
   logo: apl.jpg
@@ -28,7 +32,7 @@
 
 - name: Innoviduum
   logo: innoviduum.jpg
-  link: http://www.innoviduum.at/
+  link: https://www.innoviduum.at/
 
 - name: Johannes Kepler Universität Linz &ndash; Department of Work, Organizational and Media Psychology
   logo: jku.jpg
@@ -36,7 +40,7 @@
   
 - name: mangoART
   logo: mangoart.jpg
-  link: http://www.mangoart.at/
+  link: https://mangoart.at/
 
 - name: netidee
   logo: netidee.jpg
@@ -44,15 +48,11 @@
 
 - name: Netural
   logo: netural.jpg
-  link: http://www.netural.com/
+  link: https://www.netural.com/
 
 - name: ovos media
   logo: ovos.jpg
-  link: http://www.ovos.at/
-
-- name: Perspectra
-  logo: perspectra.jpg
-  link: http://www.perspectra.at/
+  link: https://ovos.at/
   
 - name: rudy games
   logo: rudy_games.jpg
@@ -60,23 +60,23 @@
 
 - name: SimpliFlow
   logo: simpliflow.jpg
-  link: http://simpliflow.com/
+  link: https://www.simpliflow.com/
 
 - name: Sparkling Science
   logo: sparkling_science.jpg
-  link: http://www.sparklingscience.at/
+  link: https://www.sparklingscience.at/
 
 - name: Universiteit Hasselt
   logo: universiteit_hasselt.jpg
-  link: http://www.uhasselt.be/
+  link: https://www.uhasselt.be/
 
 - name: University of Groningen
   logo: university_of_groningen.jpg
-  link: http://www.rug.nl/
+  link: https://www.rug.nl/
 
 - name: Welios Science Center
   logo: welios.jpg
-  link: http://www.welios.at/
+  link: https://www.welios.at/
 
 - name: Zentrum für Interaktion, Medien & soziale Diversität
   logo: zimd.jpg
