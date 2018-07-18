@@ -17,14 +17,14 @@
   photo: jeremiah-diephuis.jpg
   phone: +43 (0)50804 22122
   email: jeremiah.diephuis@fh-hagenberg.at
-  projects: [The Virtual House of Medusa, Play!UC, Combined Card Game, ZIEGE, Game Changer, PIEdeck, Cargo]
+  projects: [The Virtual House of Medusa, Logistify, Play!UC, ZIEGE, Game Changer, PIEdeck, Cargo]
 
 - name: Wolfgang Hochleitner, MSc
   group: 2
   photo: wolfgang-hochleitner.jpg
   phone: +43 (0)50804 22131
   email: wolfgang.hochleitner@fh-hagenberg.at
-  projects: [The Virtual House of Medusa, Bike'N'Play, GEMPLAY, Combined Card Game, BlindBits, ZIEGE, Mühlviertel Pur App]
+  projects: [The Virtual House of Medusa, Bike'N'Play, GEMPLAY, BlindBits, ZIEGE, Mühlviertel Pur App]
 
 - name: Mag. art. Patrick Proier
   group: 2
@@ -59,21 +59,21 @@
   photo: georgi-kostov.jpg
   phone: +43 (0)50804 27166
   email: georgi.kostov@fh-hagenberg.at
-  projects: [The Virtual House of Medusa, Play!UC, Game Changer, PIEdeck, Cargo]
+  projects: [The Virtual House of Medusa, Logistify, Play!UC, Game Changer, PIEdeck, Cargo]
 
 - name: Victoria Absmann
   group: 4
-  photo: default.jpg
+  photo: victoria-absmann.jpg
   phone: +43 (0)50804 27167
   email: victoria.absmann@students.fh-hagenberg.at
   projects:
 
 - name: Gabriel Mittermair
   group: 4
-  photo: default.jpg
+  photo: gabriel-mittermair.jpg
   phone: +43 (0)50804 27167
   email: gabriel.mittermair@students.fh-hagenberg.at
-  projects:
+  projects: [Logistify]
 
 - name: Moritz Rührlinger, BSc
   group: 4
@@ -115,7 +115,7 @@
   photo: florian-friedrich.jpg
   phone:
   email:
-  projects: [Combined Card Game]
+  projects:
 
 - name: Nico Harather, MSc
   group: 5
@@ -136,7 +136,7 @@
   photo: michael-klammer.jpg
   phone:
   email:
-  projects: [Combined Card Game]
+  projects:
 
 - name: Lorenz Krautgartner, MSc
   group: 5
