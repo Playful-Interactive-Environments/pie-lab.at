@@ -3,14 +3,14 @@
   photo: michael-lankes.jpg
   phone: +43 (0)50804 22133
   email: michael.lankes@fh-hagenberg.at
-  projects: [The Virtual House of Medusa, GEMPLAY, InterPlayces, Augmented Reality Town Square, Mühlviertel Pur App]
+  projects: [The Virtual House of Medusa, GEMPLAY, InterPlayces, Mühlviertel Pur App]
 
 - name: Dr. Jürgen Hagler
   group: 1
   photo: juergen-hagler.jpg
   phone: +43 (0)50804 22124
   email: juergen.hagler@fh-hagenberg.at
-  projects: [The Virtual House of Medusa, Bike'N'Play, InterPlayces, Augmented Reality Town Square, PIEdeck]
+  projects: [The Virtual House of Medusa, Bike'N'Play, InterPlayces, PIEdeck]
 
 - name: Jeremiah Diephuis, MA
   group: 2
@@ -74,13 +74,6 @@
   phone: +43 (0)50804 27167
   email: gabriel.mittermair@students.fh-hagenberg.at
   projects: [Logistify]
-
-- name: Moritz Rührlinger, BSc
-  group: 4
-  photo: moritz-ruehrlinger.jpg
-  phone: +43 (0)50804 27167
-  email: moritz.ruehrlinger@students.fh-hagenberg.at
-  projects: [InterPlayces, GEMPLAY]
 
 - name: Michael Ablinger, BSc
   group: 5
@@ -152,7 +145,7 @@
   email:
   projects: [Bike'N'Play]
 
-- name: Fabian Pirklbauer, BSc
+- name: Fabian Pirklbauer, MSc
   group: 5
   photo: fabian-pirklbauer.jpg
   phone:
@@ -166,6 +159,13 @@
   email:
   projects: [Bike'N'Play, GEMPLAY, BlindBits, Cargo]
 
+- name: Moritz Rührlinger, MA
+  group: 5
+  photo: moritz-ruehrlinger.jpg
+  phone:
+  email:
+  projects: [InterPlayces, GEMPLAY, ZIEGE]
+
 - name: Areen Said, MSc
   group: 5
   photo: areen-said.jpg
@@ -178,7 +178,7 @@
   photo: philip-sonnleitner.jpg
   phone:
   email:
-  projects: [Play!UC, Augmented Reality Town Square, PIEdeck]
+  projects: [Play!UC, PIEdeck]
 
 - name: Sarah Troschl, MSc
   group: 5
@@ -186,3 +186,4 @@
   phone:
   email:
   projects: [GEMPLAY]
+  
