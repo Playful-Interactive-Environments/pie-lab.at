@@ -16,6 +16,9 @@ gallery:
   - file: "ziege-levelbau.jpg"
     preview: "ziege-levelbau-150.jpg"
     description: "A kid creating a level with ZIEGE"
+  - video: "Mmp3rUDGZYE"
+    type: "youtube"
+    preview: "ziege-video-150.jpg"
 ---
 
 ## Educational Game Editor
