@@ -18,9 +18,11 @@ Get the Git binaries from <https://git-scm.com/> or download GitHub Desktop from
 
 Go to <http://rubyinstaller.org/>, download the latest installer for Ruby and run it.
 
-### Install Jekyll
+### Install Bundler and Jekyll
 
-Once Ruby is installed, install Jekyll as a Ruby gem via your Ruby enabled command prompt (Launch “Start command prompt with Ruby” in your start menu). Details here: <http://jekyllrb.com/docs/installation/>
+Once Ruby is installed, install Jekyll and its necessary plugins with the help of bundler. First, install the Bundler gem: `gem install bundler`. Then install the gems listed in the Gemfile by calling `bundle install`. 
+
+For further details see <http://jekyllrb.com/docs/installation/>.
 
 ### Install Node.js
 
@@ -47,9 +49,11 @@ Get the Git binaries from <https://git-scm.com/> or download GitHub Desktop from
 
 Use the Ruby Version Manager (RVM) to get the latest Ruby version installed. Go to <http://rvm.io/> and follow the installation instructions on the front page. Provide the flag `--ruby` to install ruby together with RVM in one go.
 
-### Install Jekyll
+### Install Bundler and Jekyll
 
-Once Ruby is installed, install Jekyll as a Ruby gem via Terminal. Details here: <http://jekyllrb.com/docs/installation/>
+Once Ruby is installed, install Jekyll and its necessary plugins with the help of bundler. First, install the Bundler gem: `gem install bundler`. Then install the gems listed in the Gemfile by calling `bundle install`. 
+
+For further details see <http://jekyllrb.com/docs/installation/>.
 
 ### Install Node.js
 
