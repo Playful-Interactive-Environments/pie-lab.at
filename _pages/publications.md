@@ -5,7 +5,27 @@ permalink: /publications/
 
 # Reviewed and Invited Publications
 
+## 2018
+
+M. Rührlinger, F. Gattringer, B. Stiglbauer, J. Hagler, M. Lankes, C. Holzmann - *It is not Rocket Science. It is Collaborative Play for Old and Young!* - Proceedings of the 6th International Conference on Serious Games and Applications for Health (IEEE SeGAH 2018), Vienna, Austria, 2018 [[link](https://ieeexplore.ieee.org/abstract/document/8401318/)]
+
+J. Hagler, M. Lankes, A. Aschauer - *The Virtual House of Medusa: Playful Co-located Virtual Archaeology* - Proceedings FFH 2018, Salzburg, Austria, 2018, pp. 8 [[link](http://ffhoarep.fh-ooe.at/bitstream/123456789/1124/1/FFH2018-T3-04-06.pdf)]
+
+## 2017
+
+W. Hochleitner, D. Sellitsch, D. Rammer, A. Aschauer, E. Mattheiss, G. Regal, M. Tscheligi - *No Need to Stop – Exploring Smartphone Interaction Paradigms While Cycling* - Proceedings of the 16th International Conference on Mobile and Ubiquitous Multimedia (MUM 2017), Stuttgart, Germany, 2017, pp. 11 [[link](https://dl.acm.org/citation.cfm?id=3152871)]
+
+M. Lankes, D. Rammer, B. Maurer - *Eye Contact: Gaze as a Connector Between Spectators and Players in Online Games* - IFIP ICEC'17, Tsukuba, Japan, 2017 [[link](https://link.springer.com/chapter/10.1007/978-3-319-66715-7_34)]
+
+E. Mattheiss, M. Busch, R. Orji, G. Tondello, A. Marczewski, W. Hochleitner, M. Lankes, M. Tscheligi - *Fifty Shades of Personalization* - Workshop on Personalization in Serious and Persuasive Games and Gameful Interactions - Adjunct Publication of the 25th Conference on User Modeling, Adaptation and Personalization, Bratislava, Slovakia, 2017, pp. 395-397 [[link](https://dl.acm.org/citation.cfm?id=3099109)]
+
+M. Lankes, J. Hagler, F. Gattringer, B. Stiglbauer - *InterPlayces: Results of an Intergenerational Games Study* - JCSG 2017, Valencia, Spain, 2017 [[link](https://link.springer.com/chapter/10.1007/978-3-319-70111-0_8)] 
+
+M. Lankes, J. Hagler, G. Kostov, J. Diephuis - *Invisible Walls: Co-Presence in a Co-located Augmented Virtuality Installation* - CHI PLAY '17, Amsterdam, Netherlands, 2017 [[link](https://dl.acm.org/citation.cfm?id=3116609)]
+
 ## 2016
+
+M. Lankes, B. Maurer, B. Stiglbauer - *An Eye for an Eye: Gaze Input in Competitive Online Games and its Effects on Social Presence* - ACE2016: Proceedings of the 13th International Conference on Advances in Computer Entertainment Technology, Osaka, Japan, 2016, pp. 1-9 [[link](https://dl.acm.org/citation.cfm?id=3001774)]
 
 M. Busch, E. Mattheiss, R. Orji, P. Fröhlich, M. Lankes, M. Tscheligi - *Player Type Models: Towards Empirical Validation* - Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2016), San Jose, United States of America, 2016, pp. 1835-1841 [[link](http://dl.acm.org/citation.cfm?id=2892399)]
 
@@ -23,13 +43,13 @@ M. Lankes, S. Wagner - *Taking a Look at the Player's Gaze: The Effects of Gaze 
 
 J. Diephuis, A. Friedl, G. Kostov, P. Piroozan, D. Wilfinger - *Game Changer: Designing Co-Located Games that Utilize Player Proximity* - DiGRA 2015, Lüneburg, Germany, 2015 [[link](https://www.researchgate.net/publication/282002937_Game_Changer_Designing_Co-Located_Games_that_Utilize_Player_Proximity)]
 
-J. Diephuis, G. Kostov, A. Friedl, P. Piroozan, D. Wilfinger - *Game Changer : a (Game)Space for Intercultural Play?* - Proceedings Cross-Cultural Business Conference 2015, Steyr, Austria, 2015, pp. 324-333
+J. Diephuis, G. Kostov, A. Friedl, P. Piroozan, D. Wilfinger - *Game Changer : a (Game)Space for Intercultural Play?* - Proceedings Cross-Cultural Business Conference 2015, Steyr, Austria, 2015, pp. 324-333 [[link](https://www.researchgate.net/profile/Martina_Gaisch/publication/311932897_Proceedings_of_Cross-Cultural_Business_Conference_2015/links/5863660d08ae6eb871abe007/Proceedings-of-Cross-Cultural-Business-Conference-2015.pdf#page=327)]
 
 C. Ampatzidou, K. Gugerell, J. Diephuis - *Lessons from Game Design: Understanding Participatory Processes through Game Mechanics* - Hybrid City: Data to the People, Athens, Greece, 2015, pp. 189-196
 
 J. Diephuis, A. Friedl, G. Kostov, O. Naderer - *MoCo Motion: Integrating Mobile Devices into a Multiplayer Floor-based Gaming Environment* - Proceedings of the 14th International Conference on Mobile and Ubiquitous Multimedia (MUM 2015), Linz, Austria, 2015, pp. 4 [[link](http://dl.acm.org/citation.cfm?id=2841219)]
 
-C. Ampatzidou, K. Gugerell, J. Diephuis - *The Mechanics of Playful Participatory Processes* - Design, Social Media and Technology to Foster Civic Self-Organisation, Hasselt, Belgium, 2015, pp. 185-197
+C. Ampatzidou, K. Gugerell, J. Diephuis - *The Mechanics of Playful Participatory Processes* - Design, Social Media and Technology to Foster Civic Self-Organisation, Hasselt, Belgium, 2015, pp. 185-197 [[link](https://doclib.uhasselt.be/dspace/handle/1942/26007)]
 
 ## 2014
 
@@ -72,6 +92,18 @@ C. Obermair, W. Reitberger, A. Meschtscherjakov, M. Lankes, M. Tscheligi - *perF
 
 
 # Journals / Book Chapters
+
+## 2018
+
+B. Maurer, M. Lankes, M. Tscheligi - *Where the eyes meet: Lessons learned from shared gaze-based interactions in cooperative and competitive online games* - Entertainment Computing, 2018, pp. 47-59 [[link](https://www.sciencedirect.com/science/article/pii/S1875952117300629)]
+
+## 2017
+
+J. Hagler - *Animation, Art and Technologie in In the changing ... Metamorphoses in Animation* (Editors: Julia Eckel, Erwin Feyersinger, Meike Uhrig), 2017, pp. 171-185
+
+J. Hagler, F. Bruckner - *Reflecting Academic Symposia as a Trend at Animation Festivals, Media Art Festivals and Conferences on Computer Animation* - Cartoon and Animation Studies, Vol. 49, No. 4, 2017, pp. 611-632 [[link](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07293813)]
+
+J. Hagler - *Reflecting Academic Symposia as a Trend at Media Art Festivals and Conferences on Computer Animation: Ars Electronica Linz and FMX Stuttgart* - The Expansion of the Senses, Bucheon , Republic of Korea, 2017, pp. 56-67
 
 ## 2016
 
