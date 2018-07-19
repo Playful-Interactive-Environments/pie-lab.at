@@ -5,12 +5,12 @@
     label: "Get in touch"
     link:  "/contact/"
 
-- file: "projects/bike-n-play/bike-n-play-bicycle.jpg"
-  title: "Bike'N'Play"
-  subtitle: "Developing gaming approaches for the integration of<br>cycling data into popular computer games of different game genres."
+- file: "projects/the-virtual-house-of-medusa/vhm-puzzle-01.jpg"
+  title: "The Virtual House of Medusa"
+  subtitle: "An interactive co-located VR installation for a museum context<br>to illustrate fragments of Roman wall paintings."
   more:
     label: "Learn more"
-    link:  "/projects/bike-n-play/"
+    link:  "/projects/the-virtual-house-of-medusa/"
 
 - file: "projects/interplayces/interplayces-co-smonauts-raumlayout.jpg"
   title: "InterPlayces"
