@@ -73,3 +73,18 @@ Should the gulp command not succeed, you might have to install gulp globally aga
 * `gulp dev`: Development mode that watches the directory for changes.
 * `gulp build`: Build mode that creates a current build of the website in the `_site` directory.
 * `gulp test`: Test mode that only runs eslint and stylelint to check for errors.
+
+## Updating Dependencies
+
+The packages used throughout the site are from the Ruby (gem) and Node.js (npm) ecosystems. They need to be updated separately.
+
+## Update Ruby Dependencies
+
+To update all Ruby gems involved run `bundle update`. To remove (now unused) older versions type `gem cleanup`.
+
+## Update Node.js Dependencies
+
+To update all Node.js modules involved run `npm update`.
+
+To go a step further and upgrade all dependencies in `package.json` to their latest available versions, use `npm-check-updates -u` (install first if not available: `npm install -g npm-check-updates`). This will create an updated `package.json`. Make sure that the previous version is stored in version control since it will be overwritten.
+
