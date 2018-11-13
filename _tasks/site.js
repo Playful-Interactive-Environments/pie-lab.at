@@ -16,21 +16,20 @@ var err = function(data) {
   errors++;
 };
 
-
 var jekyllTask = function(options, done) {
-  var jekyllCommand = process.platform === "win32" ? "jekyll.bat" : "jekyll";
+  var jekyllCommand = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll';
   var jekyll = spawn(jekyllCommand, options);
 
   var rlErr = readline.createInterface({
-    input: jekyll.stderr
+    input: jekyll.stderr,
   });
 
   var rlOut = readline.createInterface({
-    input: jekyll.stdout
+    input: jekyll.stdout,
   });
 
   rlErr.on('line', function(line) {
-    if(line.indexOf('warning') >= 0 || line.indexOf('Warning') >= 0) {
+    if (line.indexOf('warning') >= 0 || line.indexOf('Warning') >= 0) {
       console.log(line);
     } else {
       err(line);
@@ -38,7 +37,7 @@ var jekyllTask = function(options, done) {
   });
 
   rlErr.on('close', function() {
-    if(errors) {
+    if (errors) {
       throw new Error('Error on build');
     }
   });

@@ -1,12 +1,13 @@
 var gulp = require('gulp');
+var FwdRef = require('undertaker-forward-reference');
 var runSequence = require('run-sequence');
 
-gulp.task('default', ['scripts', 'styles', 'site']);
+gulp.registry(FwdRef());
 
-gulp.task('build', function(done) {
-  runSequence(['scripts', 'styles', 'site'], done);
-});
+gulp.task('default', gulp.series('scripts', 'styles', 'site'));
 
-gulp.task('dev', ['scripts:watch', 'styles:watch', 'site:watch']);
+gulp.task('build', gulp.series('scripts', 'styles', 'site'));
 
-gulp.task('test', ['scripts:lint', 'styles:lint']);
+gulp.task('dev', gulp.parallel('scripts:watch', 'styles:watch', 'site:watch'));
+
+gulp.task('test', gulp.parallel('scripts:lint', 'styles:lint'));

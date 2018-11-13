@@ -10,24 +10,24 @@ var prod = require('./prod');
 
 var b = browserify({
   entries: ['_js/main.js'],
-  debug: dev.isDev
-}).transform("babelify");
+  debug: dev.isDev,
+}).transform('babelify');
 
 var bundle = function() {
-  return b.bundle()
-    .on('error', gutil.log.bind(gutil, 'Browserify Error'))
-    .pipe(source('main.js'))
-    .pipe(gulp.dest('./js/'));
+  return b.bundle().
+      on('error', gutil.log.bind(gutil, 'Browserify Error')).
+      pipe(source('main.js')).
+      pipe(gulp.dest('./js/'));
 };
 
 var lint = function() {
-  return gulp.src(['_js/**/*.js', '!_js/vendor/**/*.js'])
-    .pipe(eslint())
-    .pipe(eslint.format())
-    .pipe(prod(eslint.failAfterError()));
+  return gulp.src(['_js/**/*.js', '!_js/vendor/**/*.js']).
+      pipe(eslint()).
+      pipe(eslint.format()).
+      pipe(prod(eslint.failAfterError()));
 };
 
-gulp.task('scripts', ['scripts:lint'], bundle);
+gulp.task('scripts', gulp.series('scripts:lint', bundle));
 
 gulp.task('scripts:watch', function() {
   b = watchify(b);
