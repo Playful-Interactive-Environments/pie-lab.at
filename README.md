@@ -12,7 +12,7 @@ These are the full development instructions to get a development machine running
 
 ### Install Git and Clone the Repository
 
-Get the Git binaries from <https://git-scm.com/> or download GitHub Desktop from <https://desktop.github.com/>, then clone the repository to your local machine (e.g., `C:\Users\[User]\Documents\GitHub\pie.fh-hagenberg.at`).
+Get the Git binaries from <https://git-scm.com/> or download GitHub Desktop from <https://desktop.github.com/>, then clone the repository to your local machine (e.g., `C:\Users\[User]\Documents\GitHub\pie-lab.at`).
 
 ### Install Ruby
 
@@ -30,12 +30,12 @@ To be able to compile SASS (and other things), Node.js needs to be installed. Go
 
 ### Install the Dependencies for the Build Process
 
-Open a Terminal window and go to the directory where you cloned the repository to (e.g., `C:\Users\[User]\Documents\GitHub\pie.fh-hagenberg.at`). Type in `npm install` to install all necessary dependencies.
+First, install the Gulp.js CLI globally: `npm install gulp-cli -g`.
+Open a Terminal window and go to the directory where you cloned the repository to (e.g., `C:\Users\[User]\Documents\GitHub\pie-lab.at`). Type in `npm install` to install all necessary dependencies.
 
 ### Start the Build System
 
-The build workflow uses gulp. To start the server an all necessary tools, open a “Node.js command prompt” window, navigate to the cloned repository and enter `gulp dev`. This should start everything including your Jekyll server. To access the website go to <http://localhost:4000/pie.fh-hagenberg.at>. 
-Should the gulp command not succeed, you might have to install gulp globally again. Just type `npm install –global gulp`.
+The build workflow uses gulp. To start the server an all necessary tools, open a “Node.js command prompt” window, navigate to the cloned repository and enter `gulp dev`. This should start everything including your Jekyll server. To access the website go to <http://localhost:4000/>. 
 
 ## Development on Mac OS X
 
@@ -43,7 +43,7 @@ These are the full developement instructions to get a development machine runnin
 
 ### Install Git and Clone the Repository
 
-Get the Git binaries from <https://git-scm.com/> or download GitHub Desktop from <https://desktop.github.com/>, then clone the repository to your local machine (e.g., `/Documents/GitHub/pie.fh-hagenberg.at`).
+Get the Git binaries from <https://git-scm.com/> or download GitHub Desktop from <https://desktop.github.com/>, then clone the repository to your local machine (e.g., `/Documents/GitHub/pie-lab.at`).
 
 ### Install Ruby
 
@@ -61,12 +61,12 @@ To be able to compile SASS (and other things), Node.js needs to be installed. Go
 
 ### Install the Dependencies for the Build Process
 
-Open a Terminal window and go to the directory where you cloned the repository to (e.g., `/Documents/GitHub/pie.fh-hagenberg.at`). Type in `npm install` to install all necessary dependencies.
+First, install the Gulp.js CLI globally: `npm install gulp-cli -g`.
+Open a Terminal window and go to the directory where you cloned the repository to (e.g., `/Documents/GitHub/pie-lab.at`). Type in `npm install` to install all necessary dependencies.
 
 ### Start the Build System
 
-The build workflow uses gulp. To start the server an all necessary tools, open a Terminal window, navigate to the cloned repository and enter `gulp dev`. This should start everything including your Jekyll server. To access the website go to <http://localhost:4000/pie.fh-hagenberg.at>. 
-Should the gulp command not succeed, you might have to install gulp globally again. Just type `npm install –global gulp`.
+The build workflow uses gulp. To start the server an all necessary tools, open a Terminal window, navigate to the cloned repository and enter `gulp dev`. This should start everything including your Jekyll server. To access the website go to <http://localhost:4000/>. 
 
 ## Available Gulp Tasks
 
