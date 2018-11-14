@@ -9,9 +9,8 @@
 title: PIE | Playful Interactive Environments
 email: pie@fh-hagenberg.at
 description: Playful Interactive Environments is a research group founded by the Department of Digital Media at the University of Applied Sciences Upper Austria, School of Informatics, Communication and Media in Hagenberg.
-baseurl: "/pie.fh-hagenberg.at" # the subpath of your site, e.g. /blog
-#url: "http://pie.fh-hagenberg.at" # the base hostname & protocol for your site
-url: "http://playful-interactive-environments.github.io" # the base hostname & protocol for your site
+#baseurl: "/pie.fh-hagenberg.at" # the subpath of your site, e.g. /blog
+url: "https://pie-lab.at" # the base hostname & protocol for your site
 facebook: playful.interactive.environments
 
 # Build settings
