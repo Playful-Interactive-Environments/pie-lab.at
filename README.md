@@ -1,6 +1,6 @@
-# pie.fh-hagenberg.at
+# pie-lab.at
 
-Website for Playful Interactive Environments at <http://pie.fh-hagenberg.at>
+Website for Playful Interactive Environments at <https://pie-lab.at>
 
 ## Notes on the Setup
 
