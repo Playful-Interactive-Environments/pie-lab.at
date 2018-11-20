@@ -1,22 +1,3 @@
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-ul,
-ol,
-address {
-  line-height: 1.5em;
-  margin-top: 1.5em;
-
-  &:first-child {
-    margin-top: 0;
-  }
-}
-
 h1 {
   font-size: 2em;
   color: $header-color;
@@ -30,6 +11,24 @@ h2 {
 h3 {
   font-size: 1.1em;
   font-weight: 600;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+address {
+  line-height: 1.5;
+  margin-top: 1.5em;
+
+  &:first-child {
+    margin-top: 0;
+  }
 }
 
 em {

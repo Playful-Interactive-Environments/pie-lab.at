@@ -33,8 +33,8 @@
   }
 }
 
-.gallery-main--loading:before,
-.gallery-main--loading:after {
+.gallery-main--loading::before,
+.gallery-main--loading::after {
   content: " ";
   display: block;
   width: 3rem;
@@ -47,7 +47,7 @@
   animation: loader 1.8s infinite ease-in-out;
 }
 
-.gallery-main--loading:after {
+.gallery-main--loading::after {
   animation-delay: 900ms;
   background-color: $pie-green1;
 }
@@ -83,19 +83,11 @@
   background-position: center;
   background-size: cover;
 
-  @media (min-width: $screen-sm) {
-  }
-
   @media (min-width: $screen-lg) {
     flex-basis: calc(10% - 0.5em);
   }
 
-  @media (min-width: $screen-xl) {
-
-  }
-
-
-  &:after {
+  &::after {
     content: "";
     padding-bottom: 100%;
     display: block;
@@ -110,7 +102,7 @@
   }
 }
 
-.gallery-preview-item--video:before {
+.gallery-preview-item--video::before {
   content: " ";
   position: absolute;
   width: 50%;
@@ -123,9 +115,9 @@
 .gallery-credits {
   font-size: 12px;
   margin-top: 1em;
-  line-height: 1.1em;
+  line-height: 1.1;
 
   & ul {
-    line-height: 1.1em;
+    line-height: 1.1;
   }
 }

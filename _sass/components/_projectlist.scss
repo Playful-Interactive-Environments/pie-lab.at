@@ -50,7 +50,7 @@
   }
 }
 
-.projects-item a:after {
+.projects-item a::after {
   content: attr(data-title);
   color: $secondary-color;
   position: absolute;
@@ -63,7 +63,7 @@
   line-height: 1;
 }
 
-.projects-item a:before {
+.projects-item a::before {
   content: " ";
   position: absolute;
   left: 0;
@@ -75,7 +75,7 @@
   transition: background-color 75ms;
 }
 
-.projects-item a:hover:before {
+.projects-item a:hover::before {
   background-color: rgba(0, 0, 0, 0.2);
 }
 
