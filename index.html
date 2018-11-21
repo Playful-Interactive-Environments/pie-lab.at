@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="hero-section">
-  <div class="gallery js-flickity" id="hero-slider" data-flickity-options='{"contain": false, "percentPosition": false, "setGallerySize" : true, "arrowShape": "M66.9872827,99 C66.0995928,99 65.2262206,98.5890855 64.6649715,97.811641 L30.5418874,50.563633 C29.7987038,49.5343034 29.8220155,48.138511 30.5991577,47.1345731 L64.7251053,3.10802018 C65.693031,1.85955404 67.489714,1.6320041 68.7383225,2.59974615 C69.9880524,3.56881356 70.215611,5.3674876 69.2465965,6.61725859 L36.4378661,48.9486102 L69.3067303,94.4613277 C69.9353077,95.3327747 70.0231302,96.4827713 69.534171,97.4395618 C69.0452118,98.3963523 68.0617723,98.9988902 66.9872827,99 L66.9872827,99 Z", "wrapAround": true }'>
+  <div class="gallery js-flickity" id="hero-slider" data-flickity='{"contain": false, "percentPosition": false, "setGallerySize" : true, "arrowShape": "M66.9872827,99 C66.0995928,99 65.2262206,98.5890855 64.6649715,97.811641 L30.5418874,50.563633 C29.7987038,49.5343034 29.8220155,48.138511 30.5991577,47.1345731 L64.7251053,3.10802018 C65.693031,1.85955404 67.489714,1.6320041 68.7383225,2.59974615 C69.9880524,3.56881356 70.215611,5.3674876 69.2465965,6.61725859 L36.4378661,48.9486102 L69.3067303,94.4613277 C69.9353077,95.3327747 70.0231302,96.4827713 69.534171,97.4395618 C69.0452118,98.3963523 68.0617723,98.9988902 66.9872827,99 L66.9872827,99 Z", "wrapAround": true }'>
     {% for slide in site.data.heroslider %}
       <div class="gallery-cell hero-content" style="background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('{{slide.file}}')">
         {% if slide.title %}
@@ -13,7 +13,7 @@ layout: default
         <p>{{slide.subtitle}}</p>
         {% endif %}
         {% if slide.more %}
-        <p><a class="hero-button" href="{{slide.more.link |prepend: site.baseurl}}">{% if slide.more.label %}{{slide.more.label}}{% else %}Learn more{% endif %}</a></p>
+        <p><a class="hero-button" href="{{slide.more.link | prepend: site.baseurl}}">{% if slide.more.label %}{{slide.more.label}}{% else %}Learn more{% endif %}</a></p>
         {% endif %}
       </div>
     {% endfor %}
@@ -27,4 +27,4 @@ layout: default
   {{aboutpielab | markdownify }}
 </div>
 
-<script src="https://npmcdn.com/flickity@1.1/dist/flickity.pkgd.min.js"></script>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
