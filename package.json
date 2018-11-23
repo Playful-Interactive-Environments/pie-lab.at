@@ -1,6 +1,6 @@
 {
-  "name": "pielab",
-  "version": "1.1.0",
+  "name": "pie-lab.at",
+  "version": "2.0.0",
   "description": "Packaging module for the Playful Interactive Environments website.",
   "scripts": {
     "test": "gulp test"
@@ -8,7 +8,7 @@
   "author": {
     "name": "Thomas Heller",
     "email": "office@thomasheller.net",
-    "url": "http://thomasheller.net/"
+    "url": "https://thomasheller.net/"
   },
   "contributors": [
     {
@@ -16,6 +16,20 @@
       "email": "wolfgang@hochleitner.cc",
       "url": "https://about.me/wolfgang.hochleitner"
     }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Playful-Interactive-Environments/pie-lab.at"
+  },
+  "bugs": {
+    "url": "https://github.com/Playful-Interactive-Environments/pie-lab.at/issues"
+  },
+  "keywords": [
+    "Playful Interactive Environments",
+    "PIE",
+    "website",
+    "Hagenberg",
+    "research"
   ],
   "license": "ISC",
   "devDependencies": {
@@ -55,9 +69,5 @@
   },
   "dependencies": {
     "jquery": "^3.3.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Playful-Interactive-Environments/pie.fh-hagenberg.at.git"
   }
 }
