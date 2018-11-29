@@ -5,7 +5,7 @@
     label: "Get in touch"
     link:  "/contact/"
 
-- file: "projects/the-virtual-house-of-medusa/vhm-puzzle.jpg"
+- file: "projects/the-virtual-house-of-medusa/vhm-deepspace-01.jpg"
   title: "The Virtual House of Medusa"
   subtitle: "An interactive co-located VR installation for a museum context<br>to illustrate fragments of Roman wall paintings."
   more:
@@ -39,3 +39,4 @@
   more:
     label: "Learn more"
     link:  "/projects/invisible-walls/"
+    

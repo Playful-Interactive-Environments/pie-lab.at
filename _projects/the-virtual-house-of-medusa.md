@@ -7,57 +7,30 @@ end: 2017-12-31
 subpage: false
 titleimage: "vhm-preview.jpg"
 gallery:
-  - file: "vhm-vr-tablet.jpg"
-    preview: "vhm-vr-tablet-150.jpg"
-    description: "The VHM VR and tablet setup."
-  - file: "vhm-tablet-user.jpg"
-    preview: "vhm-tablet-user-150.jpg"
-    description: "The VR player can be supported by a tablet user."
-  - file: "vhm-khm-setup.jpg"
-    preview: "vhm-khm-setup-150.jpg"
-    description: "The VHM setup in the KHM."
-  - file: "vhm-beopenfestival.jpg"
-    preview: "vhm-beopenfestival-150.jpg"
-    description: "VHM at the BeOpenFestival 2018."
-  - file: "vhm-landesausstellung-01.jpg"
-    preview: "vhm-landesausstellung-01-150.jpg"
-    description: "VHM at the Oberösterreichische Landesausstellung 2018 in Enns."
-  - file: "vhm-landesausstellung-02.jpg"
-    preview: "vhm-landesausstellung-02-150.jpg"
-    description: "VHM at the Oberösterreichische Landesausstellung 2018 in Enns."
   - file: "vhm-deepspace-01.jpg"
     preview: "vhm-deepspace-01-150.jpg"
     description: "VHM at the Ars Electronica Deep Space 8K."
   - file: "vhm-deepspace-02.jpg"
     preview: "vhm-deepspace-02-150.jpg"
     description: "VHM at the Ars Electronica Deep Space 8K."
-  - file: "vhm-gamezone.jpg"
-    preview: "vhm-gamezone-150.jpg"
-    description: "VHM at the IFTS GameZone in Stuttgart."
-  - file: "vhm-vrlab.jpg"
-    preview: "vhm-vrlab-150.jpg"
-    description: "VHM at the VRLab."
+  - file: "vhm-vr-tablet.jpg"
+    preview: "vhm-vr-tablet-150.jpg"
+    description: "The VHM VR and tablet setup."
+  - file: "vhm-khm-setup.jpg"
+    preview: "vhm-khm-setup-150.jpg"
+    description: "The VHM setup in the KHM."
   - file: "vhm-originals.jpg"
     preview: "vhm-originals-150.jpg"
     description: "The original wall paintings discovered in Lorch."
   - file: "vhm-overview.jpg"
     preview: "vhm-overview-150.jpg"
     description: "Multiple things can be done in the VHM."
-  - file: "vhm-puzzle.jpg"
-    preview: "vhm-puzzle-150.jpg"
-    description: "Constructing a puzzle in the VHM."
   - file: "vhm-avatar.jpg"
     preview: "vhm-avatar-150.jpg"
     description: "An avatar is used to represent an external player."
   - file: "vhm-camera-01.jpg"
     preview: "vhm-camera-01-150.jpg"
     description: "Moving the camera allow to view the VHM."
-  - file: "vhm-camera-02.jpg"
-    preview: "vhm-camera-02-150.jpg"
-    description: "Moving the camera allow to view the VHM."
-  - file: "vhm-model-01.jpg"
-    preview: "vhm-model-01-150.jpg"
-    description: "The ancient Roman house can be viewed as a 3D model."
   - file: "vhm-model-02.jpg"
     preview: "vhm-model-02-150.jpg"
     description: "The ancient Roman house can be viewed as a 3D model."
@@ -83,6 +56,9 @@ The VHM was firstly introduced during the exhibition “The House of Medusa” a
 
 * [Federal Monuments Authority Austria](https://bda.gv.at/)
 * [Kunsthistorisches Museum Wien](https://www.khm.at/)
+
+## Exhibitions
+
 * [Ars Electronica](https://ars.electronica.art/)
 * [OÖ Landesausstellung 2018 – Die Rückkehr der Legion – Römisches Erbe in Oberösterreich](https://landesausstellung.at/)
 * [Museum Lauriacum Enns](https://www.museum-lauriacum.at/)
@@ -93,3 +69,7 @@ The VHM was firstly introduced during the exhibition “The House of Medusa” a
 * [Forschungsforum der österreichischen Fachhochschulen 2018](https://www.fh-salzburg.ac.at/forschung-entwicklung/forschungsforum-ffh/)
 * [VR Plauscherl Linz](https://www.meetup.com/de-DE/VR-Plauscherl/)
 * [Lange Nacht der Forschung 2018](https://www.langenachtderforschung.at/)
+
+## Funding
+
+Land Oberösterreich Basisfinanzierung
