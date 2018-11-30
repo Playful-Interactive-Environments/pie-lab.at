@@ -7,6 +7,9 @@ end: 2018-06-30
 subpage: false
 titleimage: "interplayces-preview.jpg"
 gallery:
+  - file: "interplayces-01.jpg"
+    preview: "interplayces-01-150.jpg"
+    description: "Old and young working together at the InterPlayces installation."
   - file: "interplayces-co-smonauts-raumlayout.jpg"
     preview: "interplayces-co-smonauts-150.jpg"
     description: "Rendering from the Co-smonauts game installation."
@@ -19,9 +22,18 @@ gallery:
   - file: "interplayces-co-smonauts-workshop.jpg"
     preview: "interplayces-co-smonauts-workshop-150.jpg"
     description: "Man at the InterPlayces Workshop."
-  - video: "39VYIAO3Z-8"
+  - file: "interplayces-06.jpg"
+    preview: "interplayces-06-150.jpg"
+    description: "The Co-smonauts start screen."
+  - file: "interplayces-07.jpg"
+    preview: "interplayces-07-150.jpg"
+    description: "The InterPlayces team gathering around their installation."
+  - file: "interplayces-08.jpg"
+    preview: "interplayces-08-150.jpg"
+    description: "The InterPlayces console is ready to play."
+  - video: "fDBxBjrcr00"
     type: "youtube"
-    preview: "interplayces-co-smonauts-150.jpg"
+    preview: "interplayces-01-150.jpg"
 ---
 
 The project proposal InterPlayces introduces an approach for conceptualizing and creating intergenerational game and interaction designs for the older and younger generation via a co-located playground. With these playful artifacts the social and emotional well-being, as well as the bond between young and old are fostered. Games and playful mechanics are utilized to initialize and strengthen the knowledge transfer and exchange between the generations. To reach the defined research goals, game design concepts are developed that address the various needs and requirements of the different player groups. This is achieved through player roles that are adapted to the needs of the players, as well as via effective and intuitive interaction techniques and methods.
