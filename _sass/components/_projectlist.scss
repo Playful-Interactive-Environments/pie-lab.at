@@ -44,22 +44,18 @@
     background-size: cover;
     background-position: center;
     margin: auto;
-    border: 1px solid darken($secondary-color, 20);
     line-height: 0;
     padding-bottom: 60%;
+    font-weight: bold;
   }
 }
 
 .projects-item a::after {
   content: attr(data-title);
-  color: $secondary-color;
+  color: $black;
   position: absolute;
-  bottom: 0;
-  padding: 1em;
-  background-color: transparentize($pie-red2, 0.2);
-  margin: 1px;
-  left: 0;
-  right: 0;
+  padding: 0.5em;
+  background-color: transparentize($white, 0.2);
   line-height: 1;
 }
 
