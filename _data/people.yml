@@ -61,14 +61,7 @@
   email: georgi.kostov@fh-hagenberg.at
   projects: [The Virtual House of Medusa, Logistify, Play!UC, Game Changer, PIEdeck, Cargo]
 
-- name: Victoria Absmann
-  group: 4
-  photo: victoria-absmann.jpg
-  phone: +43 (0)50804 27167
-  email: victoria.absmann@students.fh-hagenberg.at
-  projects:
-
-- name: Gabriel Mittermair
+- name: Gabriel Mittermair, BSc
   group: 4
   photo: gabriel-mittermair.jpg
   phone: +43 (0)50804 27167
@@ -82,6 +75,13 @@
   email:
   projects: [Mühlviertel Pur App]
 
+- name: Victoria Absmann
+  group: 5
+  photo: victoria-absmann.jpg
+  phone:
+  email:
+  projects:
+
 - name: Lukas Brunner, BSc
   group: 5
   photo: lukas-brunner.jpg
@@ -89,7 +89,7 @@
   email:
   projects:
 
-- name: Jens Cherukad, BSc
+- name: Jens Cherukad, MA
   group: 5
   photo: jens-cherukad.jpg
   phone:
