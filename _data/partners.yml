@@ -38,6 +38,10 @@
   logo: jku.jpg
   link: http://aom.jku.at/
 
+- name: Logistikum
+  logo: logistikum.jpg
+  link: https://www.logistikum.at/
+
 - name: mangoART
   logo: mangoart.jpg
   link: https://mangoart.at/
@@ -56,7 +60,7 @@
 
 - name: Rudy Games
   logo: rudy_games.jpg
-  link: http://www.rudy-games.com/
+  link: https://rudy-games.com/
 
 - name: SimpliFlow
   logo: simpliflow.jpg
