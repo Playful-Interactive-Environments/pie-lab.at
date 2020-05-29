@@ -18,9 +18,9 @@
   logo: bbi.jpg
   link: https://www.bbi.at/
 
-- name: CURE &ndash; Center for Usability Research & Engineering
-  logo: cure.jpg
-  link: http://cure.at/
+- name: City Games Vienna
+  logo: city_games_vienna.jpg
+  link: https://citygames.wien/
 
 - name: FFG &ndash; Österreichische Forschungsförderungsgesellschaft
   logo: ffg.jpg
@@ -37,7 +37,7 @@
 - name: Johannes Kepler Universität Linz &ndash; Department of Work, Organizational and Media Psychology
   logo: jku.jpg
   link: http://aom.jku.at/
-  
+
 - name: mangoART
   logo: mangoart.jpg
   link: https://mangoart.at/
@@ -53,14 +53,18 @@
 - name: ovos media
   logo: ovos.jpg
   link: https://ovos.at/
-  
-- name: rudy games
+
+- name: Rudy Games
   logo: rudy_games.jpg
   link: http://www.rudy-games.com/
 
 - name: SimpliFlow
   logo: simpliflow.jpg
   link: https://www.simpliflow.com/
+
+- name: SOS-Menschenrechte
+  logo: sos.jpg
+  link: http://www.sos.at/
 
 - name: Sparkling Science
   logo: sparkling_science.jpg
