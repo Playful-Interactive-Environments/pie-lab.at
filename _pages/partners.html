@@ -4,10 +4,10 @@ permalink: /partners/
 ---
 
 <h1>Partners</h1>
-<div class="partners flex-wrapper">
+<div class="partners grid-wrapper">
   {% for partner in site.data.partners %}
-  <a href="{{partner.link}}" class="partner">
-    <img src="{{'/assets/partners/' | append: partner.logo | prepend: site.baseurl }}" alt="{{partner.name}} logo" title="{{partner.name}}">
+  <a href="{{ partner.link }}" class="partner">
+    <img src="{{ '/assets/partners/' | append: partner.logo | prepend: site.baseurl }}" alt="{{ partner.name }} logo" title="{{ partner.name }}">
   </a>
   {% endfor %}
 </div>

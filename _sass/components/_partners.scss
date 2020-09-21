@@ -1,24 +1,30 @@
 .partners {
   margin-top: 1.5em;
-  justify-content: space-around;
+  gap: 2em;
+
+  @media (min-width: $screen-xs) {
+    grid-template-columns: 1fr;
+  }
 
   @media (min-width: $screen-sm) {
-    justify-content: flex-start;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: $screen-md) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  @media (min-width: $screen-lg) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  @media (min-width: $screen-xl) {
+    grid-template-columns: repeat(5, 1fr);
   }
 }
 
 .partner {
-  flex-grow: 1;
-  flex-shrink: 0;
-  flex-basis: 80%;
-  margin-right: 2em;
-  margin-bottom: 2em;
-
-  @media (min-width: $screen-sm) {
-    flex-grow: 0;
-    flex-basis: 150px;
-    min-width: 0;
-  }
+  justify-self: center;
 
   a {
     display: block;
