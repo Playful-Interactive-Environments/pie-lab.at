@@ -16,7 +16,7 @@ Get the Git binaries from <https://git-scm.com/> or download GitHub Desktop from
 
 ### Install Ruby
 
-Go to <http://rubyinstaller.org/>, download the latest installer for Ruby and run it.
+Go to <https://rubyinstaller.org/>, download the latest installer for Ruby and run it.
 
 ### Install Bundler and Jekyll
 
