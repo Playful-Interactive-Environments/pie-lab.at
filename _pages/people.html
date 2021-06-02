@@ -3,6 +3,7 @@ layout: page
 permalink: /people/
 ---
 <div class="wrapper people">
+  <h1>People</h1>
   {% for staffgroup in site.data.staffgroups %}
     {% assign staffInGroup = site.data.people | where: "group", staffgroup.id %}
     {% if staffInGroup != empty %}

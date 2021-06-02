@@ -4,10 +4,11 @@ permalink: /projects/
 ---
 
 <div class="wrapper projects">
+  <h1>Projects</h1>
   {% for projectCategory in site.data.projectcategories %}
     {% assign projectInCategory = site.projects | where: "category", projectCategory.id | sort: "date" | reverse %}
     <h2 class="projects-grouplabel">{{projectCategory.labelplural}}</h2>
-    <div class="projects-group flex-wrapper">
+    <div class="projects-group grid-wrapper">
     {% for project in projectInCategory %}
       <div class="projects-item">
         {% if project.titleimage %}
