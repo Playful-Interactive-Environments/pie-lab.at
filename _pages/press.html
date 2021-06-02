@@ -3,10 +3,11 @@ layout: page
 permalink: /press/
 ---
 
-<div class="projects-list flex-wrapper">
+<h1>Press</h1>
+<div class="press-list grid-wrapper">
 {% assign sortedPressrelease = site.data.pressrelease |sort: "date" | reverse %}
 {% for pressrelease in sortedPressrelease %}
-  <div class="projects-item">
+  <div class="press-item">
     {% if pressrelease.titleimage %}
     {% assign remote = pressrelease.titleimage | slice: 0, 4 %}
       {% if remote == "http" %}
