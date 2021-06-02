@@ -16,12 +16,12 @@
 
 - name: "Press"
   link: "press/"
-  weight: 40
+  weight: 50
 
 - name: "Partners"
   link: "partners/"
-  weight: 50
+  weight: 60
 
 - name: "Contact"
   link: "contact/"
-  weight: 60
+  weight: 70
