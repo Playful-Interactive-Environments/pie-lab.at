@@ -7,7 +7,7 @@ permalink: /people/
     {% assign staffInGroup = site.data.people | where: "group", staffgroup.id %}
     {% if staffInGroup != empty %}
     <h2 class="people-grouplabel">{{ staffgroup.label }}</h2>
-    <div class="people-group flex-wrapper">
+    <div class="people-group grid-wrapper">
       {% for staff in staffInGroup %}
       {% include staffcard.html data=staff %}
       {% endfor %}
