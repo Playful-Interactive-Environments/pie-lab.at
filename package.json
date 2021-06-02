@@ -33,22 +33,23 @@
   ],
   "license": "ISC",
   "devDependencies": {
+    "@wordpress/stylelint-config": "^19.0.5",
     "babel-core": "^6.26.3",
     "babelify": "^10.0.0",
     "browserify": "^17.0.0",
-    "chalk": "^4.1.0",
+    "chalk": "^4.1.1",
     "dateformat": "^4.5.1",
     "eslint-config-airbnb": "^18.2.1",
-    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-import": "^2.23.4",
     "eslint-plugin-jsx-a11y": "^6.4.1",
-    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react": "^7.24.0",
     "gulp": "^4.0.2",
     "gulp-buffer": "0.0.2",
     "gulp-cached": "^1.1.1",
     "gulp-clean-css": "^4.3.0",
     "gulp-concat": "^2.6.1",
     "gulp-eslint": "^6.0.0",
-    "gulp-filter": "^6.0.0",
+    "gulp-filter": "^7.0.0",
     "gulp-newer": "^1.4.0",
     "gulp-plumber": "^1.2.1",
     "gulp-remember": "^1.0.1",
@@ -59,15 +60,14 @@
     "merge2": "^1.4.1",
     "require-dir": "^1.2.0",
     "run-sequence": "^2.2.1",
-    "stylelint": "^13.9.0",
-    "stylelint-config-wordpress": "^17.0.0",
+    "stylelint": "^13.13.1",
     "through2": "^4.0.2",
     "undertaker-forward-reference": "^1.0.2",
     "vinyl-source-stream": "^2.0.0",
     "watchify": "^4.0.0",
-    "yargs": "^16.2.0"
+    "yargs": "^17.0.1"
   },
   "dependencies": {
-    "jquery": "^3.5.1"
+    "jquery": "^3.6.0"
   }
 }
