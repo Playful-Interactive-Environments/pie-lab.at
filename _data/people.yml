@@ -33,12 +33,19 @@
   email: patrick.proier@fh-hagenberg.at
   projects:
 
+- name: Huoston Rodrigues Batista, MA
+  group: 2
+  photo: huoston-rodrigues.jpg
+  phone: +43 (0)50804 22136
+  email: huoston.rodrigues@fh-hagenberg.at
+  projects: [CATRINA]
+
 - name: Christoph Schaufler, MA
   group: 2
   photo: christoph-schaufler.jpg
   phone: +43 (0)50804 22132
   email: christoph.schaufler@fh-hagenberg.at
-  projects: [BlindBits]
+  projects: [CATRINA, BlindBits]
 
 - name: Dipl. Designer Alexander Wilhelm
   group: 2
@@ -61,13 +68,6 @@
   email: georgi.kostov@fh-hagenberg.at
   projects: [CATRINA, The Virtual House of Medusa, Logistify, Play!UC, Game Changer, PIEdeck, Cargo]
 
-- name: Gabriel Mittermair, BSc
-  group: 4
-  photo: gabriel-mittermair.jpg
-  phone: +43 (0)50804 27167
-  email: gabriel.mittermair@students.fh-hagenberg.at
-  projects: [CATRINA, Logistify]
-
 - name: Michael Ablinger, BSc
   group: 5
   photo: michael-ablinger.jpg
@@ -75,7 +75,7 @@
   email:
   projects: [Mühlviertel Pur App]
 
-- name: Victoria Absmann
+- name: Victoria Absmann, MA
   group: 5
   photo: victoria-absmann.jpg
   phone:
@@ -103,7 +103,7 @@
   email:
   projects: [GEMPLAY, Game Changer]
 
-- name: Florian Friedrich
+- name: Florian Friedrich, MA
   group: 5
   photo: florian-friedrich.jpg
   phone:
@@ -124,7 +124,7 @@
   email:
   projects: [ZIEGE]
 
-- name: Michael Klammer
+- name: Michael Klammer, MA
   group: 5
   photo: michael-klammer.jpg
   phone:
@@ -145,12 +145,19 @@
   email:
   projects: [Bike'N'Play]
 
-- name: Fabian Pirklbauer, MSc
+- name: Fabian Leutgeb, MSc
   group: 5
-  photo: fabian-pirklbauer.jpg
+  photo: fabian-leutgeb.jpg
   phone:
   email:
   projects: [Mühlviertel Pur App]
+
+- name: Gabriel Mittermair, MA
+  group: 5
+  photo: gabriel-mittermair.jpg
+  phone:
+  email:
+  projects: [CATRINA, Logistify]
 
 - name: Daniel Rammer, MSc
   group: 5
