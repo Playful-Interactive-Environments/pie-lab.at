@@ -1,10 +1,7 @@
 .partners {
   margin-top: 1.5em;
-  gap: 2em;
-
-  @media (min-width: $screen-xs) {
-    grid-template-columns: 1fr;
-  }
+  grid-template-columns: 1fr;
+  grid-gap: 2em;
 
   @media (min-width: $screen-sm) {
     grid-template-columns: repeat(2, 1fr);
