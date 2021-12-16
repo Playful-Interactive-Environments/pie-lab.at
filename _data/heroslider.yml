@@ -5,9 +5,9 @@
     label: "Get in touch"
     link:  "/contact/"
 
-- file: "projects/catrina/catrina-hands.jpg"
+- file: "projects/catrina/catrina-approaching.jpg"
   title: "CATRINA"
-  subtitle: "Exploring gender and diversity-specific aspects in the context of moral courage-driven actions."
+  subtitle: "Exploring gender and diversity-specific aspects in the context of moral courage-driven actions<br />using a virtual reality game-based approach."
   more:
     label: "Learn more"
     link:  "/projects/catrina/"
@@ -32,7 +32,7 @@
   more:
     label: "Learn more"
     link:  "/projects/play-uc/"
-  
+
 - file: "projects/piedeck/piedeck-zagreb01.jpg"
   title: "PIEdeck"
   subtitle: "An experimental interactive installation<br>created for playful activities with multiple participants."
@@ -46,4 +46,3 @@
   more:
     label: "Learn more"
     link:  "/projects/invisible-walls/"
-    
