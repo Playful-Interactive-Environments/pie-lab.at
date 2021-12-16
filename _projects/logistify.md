@@ -33,3 +33,7 @@ The first game utilises AR markers to allow players to navigate a printed map of
 ## Project Partners
 
 * [Logisitikum](https://www.logistikum.at/)
+
+## Website
+
+[App Website](https://logistify.app/)
