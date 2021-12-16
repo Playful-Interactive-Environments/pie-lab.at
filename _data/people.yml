@@ -17,7 +17,7 @@
   photo: jeremiah-diephuis.jpg
   phone: +43 (0)50804 22122
   email: jeremiah.diephuis@fh-hagenberg.at
-  projects: [CATRINA, The Virtual House of Medusa, Logistify, Play!UC, ZIEGE, Game Changer, PIEdeck, Cargo]
+  projects: [CATRINA, HektAR, The Virtual House of Medusa, Logistify, Play!UC, ZIEGE, Game Changer, PIEdeck, Cargo]
 
 - name: Wolfgang Hochleitner, MSc
   group: 2
@@ -33,7 +33,7 @@
   email: patrick.proier@fh-hagenberg.at
   projects:
 
-- name: Huoston Rodrigues Batista, MA
+- name: Huoston Rodrigues Batista, Ph.D.
   group: 2
   photo: huoston-rodrigues.jpg
   phone: +43 (0)50804 22136
@@ -66,7 +66,7 @@
   photo: georgi-kostov.jpg
   phone: +43 (0)50804 27166
   email: georgi.kostov@fh-hagenberg.at
-  projects: [CATRINA, The Virtual House of Medusa, Logistify, Play!UC, Game Changer, PIEdeck, Cargo]
+  projects: [CATRINA, HektAR, The Virtual House of Medusa, Logistify, Play!UC, Game Changer, PIEdeck, Cargo]
 
 - name: Michael Ablinger, BSc
   group: 5
@@ -157,7 +157,7 @@
   photo: gabriel-mittermair.jpg
   phone:
   email:
-  projects: [CATRINA, Logistify]
+  projects: [CATRINA, HektAR, Logistify]
 
 - name: Daniel Rammer, MSc
   group: 5
