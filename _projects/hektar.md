@@ -53,5 +53,5 @@ HektAR does not aim to compete with farm simulations such as the Farming Simulat
 
 ## Websites
 
-[EAT-Toolbox](https://www.klimabuendnis.at/aktuelles/eat-toolbox)
-[App Website](https://hektar-game.app/)
+* [EAT-Toolbox](https://www.klimabuendnis.at/aktuelles/eat-toolbox)
+* [App Website](https://hektar-game.app/)
