@@ -31,6 +31,9 @@ gallery:
   - file: "hektar-partners.jpg"
     preview: "hektar-partners-150.jpg"
     description: "The credits and involved partners in HektAR."
+  - video: "EFyVnfK4LEY"
+    type: "youtube"
+    preview: "hektar-video-150.jpg"
 ---
 
 In HektAR, players take control of a small virtual farm to meet the needs of a growing community as sustainably as possible. Resources such as land, water and labor can be used to grow various crops as well as to buy and care for animals. The game deals with topics related to food production as well as weather events caused by climate change. Players learn about the demand for agricultural products, the relationship to climate, seasonality, soil degradation, water consumption, and the needs of animals. At the same time, as production increases, various phenomena related to climate change slowly begin to affect the environment. These phenomena include droughts and increased rainfall, which can affect the soil and water supply, as well as pests and diseases that can inhibit crop growth. These events force players to make tough choices that may influence their ability to provide for their community and/or contribute to further climate change events.
@@ -39,7 +42,7 @@ HektAR does not aim to compete with farm simulations such as the Farming Simulat
 
 ## Team
 
-* Jeremiah Diephuis (project leader)
+* Jeremiah Diephuis
 * Georgi Kostov
 * Gabriel Mittermair
 
@@ -48,6 +51,7 @@ HektAR does not aim to compete with farm simulations such as the Farming Simulat
 * [Klimabündnis Österreich](https://www.klimabuendnis.at/)
 * [Wirtschaftsmuseum](https://www.wirtschaftsmuseum.at/)
 
-## Website
+## Websites
 
+[EAT-Toolbox](https://www.klimabuendnis.at/aktuelles/eat-toolbox)
 [App Website](https://hektar-game.app/)
