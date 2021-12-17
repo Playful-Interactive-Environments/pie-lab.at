@@ -4,11 +4,11 @@
 
 - name: AIT Austrian Institute of Technology
   logo: ait.jpg
-  link: https://www.ait.ac.at/#!/
+  link: https://www.ait.ac.at/
 
-- name: Ars Electronica Center
+- name: Ars Electronica
   logo: aec.jpg
-  link: https://www.aec.at/
+  link: https://ars.electronica.art/
 
 - name: Austrian Players League
   logo: apl.jpg
@@ -37,6 +37,10 @@
 - name: Johannes Kepler Universität Linz &ndash; Department of Work, Organizational and Media Psychology
   logo: jku.jpg
   link: http://aom.jku.at/
+
+- name: Klimabündnis Österreich
+  logo: klimabuendnis.jpg
+  link: https://www.klimabuendnis.at/
 
 - name: Logistikum
   logo: logistikum.jpg
@@ -88,4 +92,4 @@
 
 - name: Zentrum für Interaktion, Medien & soziale Diversität
   logo: zimd.jpg
-  link: http://www.zimd.at/
+  link: https://www.zimd.at/
