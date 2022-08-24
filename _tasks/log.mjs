@@ -1,10 +1,9 @@
-//var chalk = require('chalk');
 import chalk from 'chalk';
-var dateformat = require('dateformat');
+import dateformat from 'dateformat';
 
-module.exports = function() {
-  var time = '[' + chalk.grey(dateformat(new Date(), 'HH:MM:ss')) + ']';
-  process.stdout.write(time + ' ');
-  console.log.apply(console, arguments);
-  return this;
-};
+export function log() {
+    const time = '[' + chalk.grey(dateformat(new Date(), 'HH:MM:ss')) + ']';
+    process.stdout.write(time + ' ');
+    console.log.apply(console, arguments);
+    return this;
+}
