@@ -4,7 +4,7 @@ var watchify = require('watchify');
 var gutil = require('gutil');
 var source = require('vinyl-source-stream');
 var dev = require('./dev');
-var eslint = require('gulp-eslint');
+var eslint = require('gulp-eslint-new');
 var merge = require('merge2');
 var prod = require('./prod');
 
