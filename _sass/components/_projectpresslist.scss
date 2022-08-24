@@ -1,4 +1,7 @@
-.projects-group, .press-list {
+@use "sass:color";
+
+.projects-group,
+.press-list {
   margin-top: 1.5em;
   margin-bottom: 3em;
   grid-template-columns: 1fr;
@@ -17,7 +20,8 @@
   }
 }
 
-.projects-item, .press-item {
+.projects-item,
+.press-item {
   transition: flex-basis 180ms ease-out;
   position: relative;
   max-height: 250px;
@@ -33,16 +37,18 @@
   }
 }
 
-.projects-item a::after, .press-item a::after {
+.projects-item a::after,
+.press-item a::after {
   content: attr(data-title);
   color: $black;
   position: absolute;
   padding: 0.5em;
-  background-color: transparentize($white, 0.2);
+  background-color: color.adjust($white, $alpha: -0.2);
   line-height: 1;
 }
 
-.projects-item a::before, .press-item a::before {
+.projects-item a::before,
+.press-item a::before {
   content: " ";
   position: absolute;
   left: 0;
@@ -54,24 +60,27 @@
   transition: background-color 75ms;
 }
 
-.projects-item a:hover::before, .press-item a:hover::before {
-  background-color: rgba(0, 0, 0, 0.2);
+.projects-item a:hover::before,
+.press-item a:hover::before {
+  background-color: rgba(0 0 0 / 20%);
 }
 
-.project-item-meta, .press-item-meta {
+.project-item-meta,
+.press-item-meta {
   color: $secondary-color;
   mix-blend-mode: color-dodge;
   position: absolute;
   bottom: 0;
   padding: 1em;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0 0 0 / 60%);
   margin: 1px;
   left: 0;
   right: 0;
   line-height: 1;
 }
 
-.project-item-meta-small, .press-item-meta-small {
+.project-item-meta-small,
+.press-item-meta-small {
   font-size: 12px;
   display: block;
   margin-top: 0.5em;

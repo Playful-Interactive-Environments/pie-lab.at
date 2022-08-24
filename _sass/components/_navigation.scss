@@ -6,13 +6,12 @@
 }
 
 @media (min-width: $nav-breakpoint) {
-
   .nav {
     flex-wrap: nowrap;
   }
 }
 
-/* Logo in navigation*/
+/* Logo in navigation */
 
 .logo {
   flex: 0 0 220px;
@@ -29,7 +28,6 @@
 }
 
 @media (min-width: $nav-breakpoint) {
-
   .logo {
     flex-basis: 260px;
   }
@@ -53,7 +51,6 @@
 }
 
 @media (min-width: $nav-breakpoint) {
-
   .menu_toggle {
     display: none;
   }
@@ -74,7 +71,6 @@
 }
 
 .nav_list.nav_open {
-  //transform: scaleY(1);
   max-height: 100%;
 }
 
@@ -94,7 +90,6 @@
 }
 
 @media (min-width: $nav-breakpoint) {
-
   .nav_list {
     flex-direction: row;
     height: auto;

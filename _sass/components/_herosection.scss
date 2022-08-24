@@ -1,3 +1,4 @@
+@use "sass:color";
 
 .hero-content h1 {
   text-align: center;
@@ -23,7 +24,6 @@
   color: $header-color;
 }
 
-
 .hero-button {
   display: inline-block;
   margin-top: 2em;
@@ -37,6 +37,6 @@
 
   &:hover {
     color: #fff;
-    background-color: darken($button-color, 5);
+    background-color: color.adjust($button-color, $lightness: -5%);
   }
 }

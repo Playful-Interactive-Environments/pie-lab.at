@@ -1,3 +1,5 @@
+@use "sass:color";
+
 h1 {
   font-size: 2em;
   color: $header-color;
@@ -41,6 +43,6 @@ a {
   transition: color 75ms ease-out;
 
   &:hover {
-    color: darken($text-color, 15);
+    color: color.adjust($text-color, $lightness: -15%);
   }
 }

@@ -1,6 +1,8 @@
+// Main colors
 $primary-color: #828687;
 $secondary-color: #f8f9fb;
 
+// PIE colors
 $pie-cyan1: #2ca9a9;
 $pie-cyan2: #038784;
 $pie-green1: #52a946;
@@ -8,20 +10,25 @@ $pie-green2: #a8c753;
 $pie-red1: #e53762;
 $pie-red2: #aa2038;
 
+// Black and white
 $black: #000;
 $white: #fff;
 
+// Links and navigation
 $link-color: $primary-color;
 $nav-border: #dad9de;
 
+// Headers, text and buttons
 $header-color: #d6d6d6;
 $text-color: $pie-cyan2;
 $button-color: $pie-red1;
 
+// Screen sizes
 $screen-xs: 320px;
 $screen-sm: 480px;
 $screen-md: 768px;
 $screen-lg: 992px;
 $screen-xl: 1280px;
 
+// Navigation breakpoint
 $nav-breakpoint: $screen-md;

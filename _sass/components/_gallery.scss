@@ -16,7 +16,6 @@
 }
 
 @keyframes loader {
-
   0% {
     transform: scale(0);
     opacity: 0;
@@ -108,7 +107,7 @@
   width: 50%;
   height: 50%;
   margin: 25%;
-  background-image: url(../assets/play.svg);
+  background-image: url("../assets/play.svg");
   background-size: 100% 100%;
 }
 
