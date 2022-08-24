@@ -1,4 +1,5 @@
-var chalk = require('chalk');
+//var chalk = require('chalk');
+import chalk from 'chalk';
 var dateformat = require('dateformat');
 
 module.exports = function() {
