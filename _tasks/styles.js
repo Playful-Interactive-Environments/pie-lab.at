@@ -22,7 +22,6 @@ gulp.task('styles', function() {
 gulp.task('styles:lint', function() {
   return stylelint.lint({
     files: ['_sass/**/*.scss', '!_sass/vendor/*.scss'],
-    syntax: 'scss',
     formatter: 'string',
   }).then(function(data) {
     if (data.errored) {
