@@ -1,7 +1,8 @@
 {
-  "extends": "@wordpress/stylelint-config",
+  "extends": ["stylelint-config-standard-scss"],
   "rules": {
     "indentation": 2,
-    "selector-class-pattern": null
+    "selector-class-pattern": null,
+    "declaration-block-no-redundant-longhand-properties": [true, { "ignoreShorthands": ["/flex/"]}]
   }
 }
