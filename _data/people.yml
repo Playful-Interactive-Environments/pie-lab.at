@@ -3,56 +3,56 @@
   photo: michael-lankes.jpg
   phone: +43 (0)50804 22133
   email: michael.lankes@fh-hagenberg.at
-  projects: [The Virtual House of Medusa, GEMPLAY, InterPlayces, Mühlviertel Pur App]
+  projects: [Expanded Animation Symposium, The Virtual House of Medusa, GEMPLAY, InterPlayces, Mühlviertel Pur App]
 
 - name: Dr. Jürgen Hagler
   group: 1
   photo: juergen-hagler.jpg
   phone: +43 (0)50804 22124
   email: juergen.hagler@fh-hagenberg.at
-  projects: [The Virtual House of Medusa, Bike'N'Play, InterPlayces, PIEdeck]
+  projects: [Expanded Animation Symposium, The Virtual House of Medusa, Bike'N'Play, InterPlayces, PIEdeck]
 
 - name: Jeremiah Diephuis, MA
   group: 2
   photo: jeremiah-diephuis.jpg
   phone: +43 (0)50804 22122
   email: jeremiah.diephuis@fh-hagenberg.at
-  projects: [CATRINA, HektAR, The Virtual House of Medusa, Logistify, Play!UC, ZIEGE, Game Changer, PIEdeck, Cargo]
+  projects: [Expanded Animation Symposium, CATRINA, HektAR, The Virtual House of Medusa, Logistify, Play!UC, ZIEGE, Game Changer, PIEdeck, Cargo]
 
 - name: Wolfgang Hochleitner, MSc
   group: 2
   photo: wolfgang-hochleitner.jpg
   phone: +43 (0)50804 22131
   email: wolfgang.hochleitner@fh-hagenberg.at
-  projects: [CATRINA, The Virtual House of Medusa, Bike'N'Play, GEMPLAY, BlindBits, ZIEGE, Mühlviertel Pur App]
+  projects: [Expanded Animation Symposium, CATRINA, The Virtual House of Medusa, Bike'N'Play, GEMPLAY, BlindBits, ZIEGE, Mühlviertel Pur App]
 
 - name: Mag. art. Patrick Proier
   group: 2
   photo: patrick-proier.jpg
   phone: +43 (0)50804 22130
   email: patrick.proier@fh-hagenberg.at
-  projects:
+  projects: [Expanded Animation Symposium]
 
 - name: Huoston Rodrigues Batista, Ph.D.
   group: 2
   photo: huoston-rodrigues.jpg
   phone: +43 (0)50804 22136
   email: huoston.rodrigues@fh-hagenberg.at
-  projects: [CATRINA]
+  projects: [Expanded Animation Symposium, CATRINA]
 
 - name: Christoph Schaufler, MA
   group: 2
   photo: christoph-schaufler.jpg
   phone: +43 (0)50804 22132
   email: christoph.schaufler@fh-hagenberg.at
-  projects: [CATRINA, BlindBits]
+  projects: [Expanded Animation Symposium, CATRINA, BlindBits]
 
 - name: Dipl. Designer Alexander Wilhelm
   group: 2
   photo: alexander-wilhelm.jpg
   phone: +43 (0)50804 22135
   email: alexander.wilhelm@fh-hagenberg.at
-  projects:
+  projects: [Expanded Animation Symposium]
 
 - name: Andrea Aschauer, MA
   group: 3
@@ -62,7 +62,7 @@
   projects: [The Virtual House of Medusa, Bike'N'Play, PIEdeck]
 
 - name: Georgi Kostov, MSc
-  group: 3
+  group: 5
   photo: georgi-kostov.jpg
   phone: +43 (0)50804 27166
   email: georgi.kostov@fh-hagenberg.at
