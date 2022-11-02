@@ -36,19 +36,19 @@
     "babel-core": "^6.26.3",
     "babelify": "^10.0.0",
     "browserify": "^17.0.0",
-    "chalk": "^5.0.1",
+    "chalk": "^5.1.2",
     "dateformat": "^5.0.3",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-jsx-a11y": "^6.6.1",
-    "eslint-plugin-react": "^7.30.1",
+    "eslint-plugin-react": "^7.31.10",
     "gulp": "^4.0.2",
     "gulp-buffer": "0.0.2",
     "gulp-cached": "^1.1.1",
     "gulp-clean-css": "^4.3.0",
     "gulp-concat": "^2.6.1",
-    "gulp-eslint-new": "^1.5.1",
-    "gulp-filter": "^7.0.0",
+    "gulp-eslint-new": "^1.1.2",
+    "gulp-filter": "^6.0.0",
     "gulp-newer": "^1.4.0",
     "gulp-plumber": "^1.2.1",
     "gulp-remember": "^1.0.1",
@@ -59,16 +59,16 @@
     "merge2": "^1.4.1",
     "require-dir": "^1.2.0",
     "run-sequence": "^2.2.1",
-    "sass": "^1.54.5",
-    "stylelint": "^14.11.0",
-    "stylelint-config-standard-scss": "^5.0.0",
+    "sass": "^1.55.0",
+    "stylelint": "^14.14.0",
+    "stylelint-config-standard-scss": "^6.0.0",
     "through2": "^4.0.2",
     "undertaker-forward-reference": "^2.0.0",
     "vinyl-source-stream": "^2.0.0",
     "watchify": "^4.0.0",
-    "yargs": "^17.5.1"
+    "yargs": "^17.6.0"
   },
   "dependencies": {
-    "jquery": "^3.6.0"
+    "jquery": "^3.6.1"
   }
 }
